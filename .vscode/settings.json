@@ -1,0 +1,36 @@
+{
+  // Python virtual environment settings
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+
+  // Auto-activate virtual environment when opening integrated terminal
+  "terminal.integrated.env.linux": {
+    "VIRTUAL_ENV": "${workspaceFolder}/venv"
+  },
+  "terminal.integrated.env.osx": {
+    "VIRTUAL_ENV": "${workspaceFolder}/venv"
+  },
+  "terminal.integrated.env.windows": {
+    "VIRTUAL_ENV": "${workspaceFolder}\\venv"
+  },
+
+  // Python path and linting
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.formatting.provider": "black",
+
+  // Git settings
+  "git.autofetch": true,
+  "git.autofetchPeriod": 180,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+
+  // File associations
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    ".pytest_cache": true,
+    "*.egg-info": true
+  }
+}
