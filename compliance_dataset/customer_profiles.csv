@@ -1,0 +1,1001 @@
+customer_id,full_name,date_of_birth,address,onboarding_date,segment,KYC_status,AML_status,risk_level_initial,current_risk_level,PEP_status,cdd_last_review_date,cdd_review_frequency,edd_required,edd_investigation_reason,source_of_funds_verified,account_balance
+CUST_D4FF0B1A,Daniel Brown,1966-04-08,"9963 Main St, Seattle, WA",2022-01-26,Retail,verified,clean,low,low,N,2025-09-13,semi-annually,N,,True,100219.99
+CUST_CA502A85,Daniel White,1963-08-19,"5614 Main St, Chicago, IL",2023-07-13,Retail,verified,clean,medium,medium,N,2025-09-13,quarterly,N,,False,190583.72
+CUST_7E31BCE7,Jennifer Walker,1965-01-24,"1239 Main St, San Diego, CA",2022-12-19,Retail,verified,clean,low,low,N,2025-06-13,annually,N,,True,386761.1
+CUST_7AA6313C,Michael Walker,1955-07-09,"4110 Oak St, San Francisco, CA",2022-08-27,Retail,verified,clean,medium,high,N,2025-06-05,monthly,Y,Large cash deposits,True,190348.27
+CUST_CC863572,Dorothy Lee,1963-11-11,"9392 Pine St, San Antonio, TX",2023-12-06,Small Business,verified,clean,medium,medium,N,2025-09-14,quarterly,N,,False,328063.89
+CUST_3E6F7D38,Richard Young,1958-05-05,"1589 Main St, Houston, TX",2023-10-21,Retail,verified,prior_flag,low,low,N,2025-10-03,semi-annually,N,,True,77267.82
+CUST_BE3A428D,Jessica Lewis,1987-02-13,"5673 Main St, San Jose, CA",2023-11-28,Retail,expired,prior_flag,high,high,N,2025-05-17,monthly,Y,High-risk jurisdiction,True,217947.86
+CUST_538B2855,Joseph Smith,1997-03-17,"109 Cedar St, Austin, TX",2022-09-27,Corporate,verified,clean,high,high,N,2025-06-22,monthly,Y,Suspicious activity report filed,False,2468598.25
+CUST_209A8AF0,Emily Hall,2002-05-08,"2203 Maple St, Seattle, WA",2023-01-07,Retail,verified,clean,medium,medium,N,2025-06-24,quarterly,N,,True,83398.35
+CUST_0F3B10F1,Thomas Walker,1962-09-25,"1149 Pine St, New York, NY",2023-09-14,Small Business,high-risk,clean,low,low,N,2025-10-08,annually,N,,True,294566.05
+CUST_C3878356,Lisa Jackson,1953-12-21,"9455 Cedar St, Charlotte, NC",2022-08-14,Retail,verified,clean,low,low,N,2025-09-14,annually,N,,True,122255.62
+CUST_523A278F,Patricia Lewis,1955-02-22,"5659 Main St, San Diego, CA",2023-02-21,Retail,verified,clean,low,low,N,2025-10-23,semi-annually,N,,True,96603.45
+CUST_DB742E84,Nancy Anderson,1960-05-15,"1628 Oak St, Philadelphia, PA",2022-05-24,Retail,pending,clean,medium,medium,N,2025-06-22,quarterly,N,,True,203800.61
+CUST_EAC90908,Patricia Miller,1952-03-13,"3666 Main St, Denver, CO",2023-02-15,Retail,verified,clean,low,low,N,2025-09-29,annually,N,,True,368132.85
+CUST_DBD016AD,Sarah Harris,1952-10-16,"3953 Maple St, Houston, TX",2022-11-18,Retail,expired,clean,medium,medium,N,2025-06-08,quarterly,N,,True,470856.47
+CUST_96E38B83,Charles Davis,1951-10-03,"5015 Maple St, Austin, TX",2023-08-16,Retail,expired,clean,low,medium,N,2025-09-01,quarterly,N,,True,464580.15
+CUST_0317F380,Dorothy Williams,1988-10-04,"9000 Pine St, Boston, MA",2022-01-10,Retail,expired,prior_flag,low,low,N,2025-08-27,annually,N,,True,491942.8
+CUST_6B418019,Sandra Lee,1991-09-10,"3550 Pine St, San Antonio, TX",2023-06-26,Corporate,verified,prior_flag,low,medium,N,2025-08-30,quarterly,N,,True,3453110.79
+CUST_793813EC,Ashley Rodriguez,1965-01-03,"7107 Cedar St, New York, NY",2023-06-02,Retail,verified,clean,medium,low,N,2025-07-17,semi-annually,N,,True,56825.07
+CUST_A151C42E,Mark White,1951-06-19,"1784 Pine St, Seattle, WA",2022-06-02,Retail,verified,under_investigation,low,low,N,2025-08-08,semi-annually,Y,PEP status,True,442183.22
+CUST_4D835AD5,Linda Martin,2004-03-26,"1871 Maple St, Los Angeles, CA",2022-06-08,Small Business,verified,clean,medium,low,N,2025-08-31,semi-annually,N,,True,429438.03
+CUST_D323C449,Lisa Miller,1968-04-08,"8885 Pine St, New York, NY",2023-04-17,Retail,pending,cleared,low,low,N,2025-05-18,annually,N,,False,58555.53
+CUST_CA86CFBD,James Garcia,1951-02-20,"827 Maple St, New York, NY",2023-08-18,Retail,verified,clean,medium,medium,N,2025-06-13,quarterly,N,,True,260440.25
+CUST_978DFDC2,Sandra Moore,1996-12-22,"6791 Pine St, Fort Worth, TX",2023-12-05,Retail,pending,clean,low,low,N,2025-08-23,semi-annually,N,,True,348907.0
+CUST_6583D27F,Nancy Jones,1991-07-22,"5379 Maple St, San Francisco, CA",2022-07-16,Small Business,verified,prior_flag,low,low,N,2025-07-20,semi-annually,N,,True,221637.74
+CUST_B33BF632,Robert Taylor,2006-12-06,"3362 Oak St, New York, NY",2023-04-30,Retail,verified,clean,low,low,N,2025-05-19,semi-annually,N,,True,24060.65
+CUST_466CD393,Patricia Martin,1975-11-19,"8586 Maple St, Los Angeles, CA",2022-03-16,Retail,verified,clean,low,low,N,2025-07-22,semi-annually,N,,True,279145.49
+CUST_E973F83E,Dorothy Walker,1957-08-22,"7473 Pine St, San Diego, CA",2022-05-05,Retail,verified,clean,low,high,N,2025-09-28,quarterly,Y,Large cash deposits,True,420091.58
+CUST_BBE4604F,James Clark,1989-04-09,"2603 Oak St, Chicago, IL",2023-06-18,Retail,verified,prior_flag,medium,medium,N,2025-09-30,quarterly,N,,True,208019.08
+CUST_FACE6780,William Moore,1952-04-27,"4992 Maple St, Columbus, OH",2023-04-23,Retail,verified,prior_flag,medium,high,N,2025-07-08,quarterly,Y,High transaction volume,False,269572.06
+CUST_7A692691,Margaret Moore,1963-08-08,"6555 Cedar St, Denver, CO",2023-09-10,Retail,verified,clean,low,high,N,2025-06-01,monthly,Y,High-risk jurisdiction,True,331836.88
+CUST_C98951F5,Michael Lee,2004-08-06,"7805 Main St, Seattle, WA",2023-03-15,Retail,verified,clean,low,low,N,2025-09-04,annually,N,,True,26990.72
+CUST_9D5631A5,Jennifer Davis,1998-11-02,"4298 Pine St, Philadelphia, PA",2023-10-28,Small Business,verified,clean,high,high,N,2025-06-16,monthly,Y,PEP status,True,303340.45
+CUST_65C1C387,Margaret White,2001-03-10,"4078 Main St, San Jose, CA",2022-04-28,Retail,verified,cleared,low,low,N,2025-10-19,semi-annually,N,,True,425296.33
+CUST_A1A177ED,Karen Lewis,1985-01-12,"6034 Maple St, Phoenix, AZ",2022-05-04,Retail,verified,clean,low,low,N,2025-10-11,annually,N,,True,218308.09
+CUST_9E25CA96,Margaret Taylor,1988-09-25,"4095 Maple St, Denver, CO",2023-10-29,Retail,verified,prior_flag,low,medium,N,2025-08-28,quarterly,N,,True,305555.52
+CUST_53EA0448,Richard Hernandez,2003-06-06,"1502 Oak St, Columbus, OH",2022-01-30,Retail,verified,clean,low,low,N,2025-06-28,semi-annually,N,,False,244800.35
+CUST_9C050B53,Anthony Davis,1990-12-16,"5732 Maple St, Seattle, WA",2023-12-09,Retail,verified,clean,low,low,N,2025-07-09,annually,N,,True,166064.86
+CUST_AA15EA8C,Matthew Anderson,1965-04-04,"8695 Cedar St, San Jose, CA",2022-10-05,Small Business,expired,clean,low,low,N,2025-08-29,annually,N,,True,490274.8
+CUST_7FF17EBA,Donald Miller,1972-03-10,"8142 Main St, New York, NY",2022-10-31,Retail,expired,clean,low,low,N,2025-05-28,semi-annually,N,,True,287458.05
+CUST_C20D1006,Patricia Thomas,1960-01-09,"9321 Pine St, Chicago, IL",2023-03-28,Corporate,verified,clean,medium,medium,N,2025-10-25,quarterly,N,,True,4969894.71
+CUST_7B7F6B0B,Emily Moore,1987-10-08,"1725 Oak St, San Antonio, TX",2023-03-03,Small Business,verified,clean,low,low,N,2025-06-04,semi-annually,N,,False,133058.42
+CUST_BA91A0F7,Michael Garcia,1984-02-06,"9763 Oak St, Columbus, OH",2022-09-03,Retail,verified,clean,low,high,N,2025-05-16,monthly,Y,PEP status,False,58273.37
+CUST_274E0288,Lisa Lee,2001-03-03,"6694 Pine St, Indianapolis, IN",2022-06-02,Retail,verified,under_investigation,medium,medium,N,2025-07-11,quarterly,Y,Large cash deposits,True,270450.8
+CUST_9A684598,Joseph Williams,2005-07-24,"9541 Main St, Philadelphia, PA",2023-09-05,Retail,expired,prior_flag,low,low,N,2025-05-19,semi-annually,N,,True,235779.91
+CUST_A9497EE0,Daniel Anderson,1986-07-21,"4822 Maple St, Seattle, WA",2022-10-12,Small Business,verified,clean,high,high,N,2025-08-15,monthly,Y,Unusual transaction patterns,True,19311.87
+CUST_52FF05FC,Michael Hernandez,1956-07-28,"7342 Main St, San Antonio, TX",2022-09-16,Retail,verified,clean,high,high,N,2025-06-01,quarterly,Y,Suspicious activity report filed,True,134261.06
+CUST_6C237A8D,David Hall,2005-12-16,"1958 Maple St, Houston, TX",2022-10-22,Retail,verified,clean,high,high,N,2025-10-15,quarterly,Y,PEP status,False,324207.13
+CUST_6E8A93B2,David Thomas,1994-05-14,"6898 Pine St, Indianapolis, IN",2022-10-26,Small Business,verified,clean,high,medium,N,2025-10-21,quarterly,N,,True,134319.16
+CUST_216BE39D,John Martinez,1986-10-22,"4012 Cedar St, Fort Worth, TX",2022-11-02,Retail,verified,clean,low,low,N,2025-08-17,annually,N,,True,117547.66
+CUST_D936E348,Anthony Wilson,1996-08-23,"9769 Pine St, Houston, TX",2022-02-14,Corporate,verified,clean,low,low,N,2025-10-06,semi-annually,N,,True,4377242.35
+CUST_ED006815,Joseph Brown,1949-12-05,"5483 Cedar St, Fort Worth, TX",2023-06-23,Retail,verified,cleared,low,low,N,2025-05-25,annually,N,,True,477115.66
+CUST_5CCE2248,Daniel White,1983-01-20,"1746 Maple St, Philadelphia, PA",2023-05-15,Retail,high-risk,clean,low,low,N,2025-05-29,semi-annually,N,,True,347306.58
+CUST_AA9BD869,Mark Smith,1999-01-10,"6367 Cedar St, San Diego, CA",2022-02-17,Retail,verified,clean,low,low,N,2025-10-18,semi-annually,N,,True,249335.96
+CUST_7DC51D1D,Charles Jones,1989-05-15,"5001 Maple St, Dallas, TX",2022-08-26,Retail,pending,clean,low,low,N,2025-08-11,annually,N,,False,228961.07
+CUST_564AC884,Maria Miller,1979-02-08,"903 Cedar St, Charlotte, NC",2023-01-29,Retail,verified,clean,low,high,N,2025-11-05,quarterly,Y,High-risk jurisdiction,True,416586.61
+CUST_96B73205,Mark Martinez,2000-06-08,"5161 Maple St, Los Angeles, CA",2022-08-24,Retail,verified,clean,low,medium,N,2025-05-31,quarterly,N,,True,290207.33
+CUST_495AB8C6,Margaret Jones,1969-12-14,"7994 Pine St, Austin, TX",2022-04-03,Retail,expired,clean,low,low,N,2025-09-03,semi-annually,N,,False,402312.04
+CUST_7B1B440A,Joseph Williams,1963-11-24,"6138 Pine St, Denver, CO",2022-05-25,Retail,verified,clean,low,low,N,2025-06-23,annually,N,,True,191131.72
+CUST_4E2CC3A6,Daniel Lopez,1963-08-01,"5051 Maple St, Houston, TX",2022-04-21,Retail,verified,clean,medium,medium,N,2025-07-12,quarterly,N,,False,70748.73
+CUST_4204B1CD,Sarah Martinez,1955-04-18,"8117 Cedar St, Columbus, OH",2023-05-20,Retail,verified,under_investigation,low,low,N,2025-07-24,semi-annually,Y,Large cash deposits,True,469587.48
+CUST_301E562B,James Johnson,1962-08-15,"2101 Maple St, Chicago, IL",2023-12-08,Corporate,verified,clean,high,low,N,2025-07-29,semi-annually,N,,True,3330705.25
+CUST_BB2A15C7,Daniel Lee,1952-06-08,"2517 Cedar St, New York, NY",2023-09-04,Corporate,verified,clean,medium,medium,N,2025-09-09,quarterly,N,,True,1422510.49
+CUST_99FBF93D,David Jones,2000-03-04,"6997 Cedar St, Houston, TX",2023-07-08,Retail,verified,clean,low,low,Y,2025-09-01,monthly,Y,High transaction volume,True,373086.97
+CUST_EAC14B1C,Patricia Anderson,1986-02-15,"610 Main St, Charlotte, NC",2023-01-06,Retail,verified,prior_flag,medium,medium,N,2025-07-13,quarterly,N,,True,423801.97
+CUST_F549198E,Linda Thompson,1994-08-03,"8792 Pine St, San Francisco, CA",2022-04-21,Small Business,verified,clean,low,low,N,2025-08-02,annually,N,,False,253269.99
+CUST_876CCE5E,Linda Brown,2003-11-21,"1657 Pine St, Columbus, OH",2023-12-20,Small Business,verified,prior_flag,medium,medium,N,2025-07-14,quarterly,N,,True,156949.26
+CUST_710A94D9,James Lopez,1979-02-03,"5893 Maple St, Los Angeles, CA",2022-06-06,Small Business,verified,prior_flag,low,low,N,2025-05-20,annually,N,,True,484230.91
+CUST_E8A44314,Karen Martinez,1985-09-07,"7130 Cedar St, Boston, MA",2022-12-27,Retail,verified,clean,low,low,N,2025-06-14,annually,N,,True,307173.07
+CUST_89C51FEB,Daniel Moore,1991-12-09,"1240 Oak St, New York, NY",2022-01-27,Retail,pending,clean,low,low,N,2025-06-16,semi-annually,N,,True,46787.08
+CUST_CA57BF49,Thomas Miller,1978-06-06,"915 Main St, Dallas, TX",2023-01-21,Retail,verified,clean,medium,medium,N,2025-09-28,quarterly,N,,True,222113.37
+CUST_42B70D41,Linda Thomas,1975-05-07,"9919 Main St, New York, NY",2023-09-14,Small Business,verified,clean,low,low,N,2025-10-27,annually,N,,True,103007.14
+CUST_71747849,Robert Clark,1965-05-11,"793 Maple St, New York, NY",2022-05-21,Retail,verified,clean,low,low,N,2025-10-20,annually,N,,True,230417.37
+CUST_445CC0B4,Michael Walker,1976-10-13,"4086 Maple St, Denver, CO",2022-11-17,Small Business,verified,clean,low,high,N,2025-10-16,quarterly,Y,Unusual transaction patterns,True,200824.46
+CUST_76ABA1C3,Michael Gonzalez,1970-04-11,"3332 Oak St, Boston, MA",2022-11-14,Small Business,verified,clean,low,high,N,2025-09-08,monthly,Y,High transaction volume,True,77282.02
+CUST_CDBCEF00,Anthony Lee,1998-11-16,"7305 Main St, Charlotte, NC",2022-03-19,Retail,verified,prior_flag,low,low,N,2025-05-31,annually,N,,True,221661.82
+CUST_98E089F8,Maria Lewis,1952-06-17,"6399 Maple St, Denver, CO",2022-10-09,Retail,verified,clean,low,low,N,2025-06-03,semi-annually,N,,True,277603.87
+CUST_6E103BA7,Sandra Harris,2007-10-21,"4159 Maple St, San Francisco, CA",2022-02-12,Retail,expired,clean,low,high,N,2025-07-01,monthly,Y,Large cash deposits,True,262510.21
+CUST_C5888339,Karen Garcia,2007-05-13,"4755 Pine St, Boston, MA",2023-01-08,Retail,verified,clean,low,low,N,2025-06-18,semi-annually,N,,True,436766.55
+CUST_2A1AB864,William Williams,1958-06-10,"2193 Cedar St, Chicago, IL",2023-08-20,Corporate,verified,under_investigation,medium,medium,N,2025-08-03,quarterly,Y,Large cash deposits,True,3247822.86
+CUST_37AD49B5,Linda Taylor,1972-05-06,"8943 Cedar St, Los Angeles, CA",2023-01-06,Corporate,verified,cleared,low,low,N,2025-10-13,annually,N,,True,3326549.72
+CUST_E45F825F,Mark Clark,1987-07-05,"3991 Maple St, Boston, MA",2023-09-25,Retail,verified,clean,medium,medium,N,2025-07-25,quarterly,N,,True,143179.04
+CUST_6738322A,Margaret Lewis,1983-04-10,"4716 Maple St, Indianapolis, IN",2023-04-05,Corporate,verified,clean,medium,medium,N,2025-07-18,quarterly,N,,True,2660925.95
+CUST_5F585072,Jessica Robinson,1987-03-28,"2726 Pine St, San Francisco, CA",2022-07-24,Retail,verified,clean,low,medium,N,2025-08-27,quarterly,N,,True,452747.8
+CUST_D0025863,David Robinson,2007-04-27,"5321 Main St, Austin, TX",2023-03-24,Retail,verified,clean,low,low,N,2025-08-04,semi-annually,N,,True,395898.94
+CUST_07E86C20,David Johnson,1979-12-27,"8747 Maple St, Houston, TX",2022-10-21,Retail,verified,clean,medium,medium,N,2025-09-30,quarterly,N,,True,388310.14
+CUST_5558DB86,Lisa Martinez,1964-07-21,"125 Cedar St, Jacksonville, FL",2022-05-05,Small Business,pending,clean,low,low,N,2025-10-02,semi-annually,N,,True,121041.56
+CUST_038C6D04,Linda Garcia,1954-09-12,"6216 Pine St, New York, NY",2023-11-12,Retail,high-risk,clean,low,low,N,2025-10-27,annually,N,,True,179189.84
+CUST_7C567880,Michael Lopez,1991-11-04,"7940 Oak St, Phoenix, AZ",2022-09-04,Small Business,verified,clean,medium,high,N,2025-05-16,monthly,Y,Unusual transaction patterns,False,32487.17
+CUST_F05906D6,Anthony Anderson,1961-01-26,"3231 Pine St, Jacksonville, FL",2022-02-07,Retail,verified,cleared,low,low,N,2025-10-29,annually,N,,True,431207.13
+CUST_15CBAD63,Sarah Walker,1966-02-26,"8607 Pine St, Chicago, IL",2023-11-03,Retail,pending,clean,medium,low,N,2025-05-14,annually,N,,True,363813.58
+CUST_247F4F79,Michael Wilson,1960-09-10,"5876 Cedar St, Columbus, OH",2023-09-09,Retail,verified,clean,low,low,N,2025-08-10,annually,N,,True,138003.12
+CUST_F59339B6,Sandra Johnson,1989-07-12,"1201 Oak St, Jacksonville, FL",2022-03-18,Retail,verified,prior_flag,medium,medium,N,2025-07-18,quarterly,N,,True,181713.14
+CUST_C4358AB7,Charles Johnson,1992-08-12,"524 Oak St, Charlotte, NC",2023-09-12,Retail,verified,clean,medium,medium,N,2025-09-05,quarterly,N,,False,259354.89
+CUST_EC62D37A,Dorothy Moore,1998-05-23,"7392 Main St, Austin, TX",2022-05-01,Retail,pending,clean,high,high,N,2025-07-15,monthly,Y,PEP status,True,334252.06
+CUST_9D075822,Matthew Williams,1967-05-28,"3978 Maple St, New York, NY",2023-07-18,Retail,verified,clean,medium,medium,N,2025-09-17,quarterly,N,,True,181087.37
+CUST_D70406B4,Charles Lopez,1984-03-20,"5294 Main St, San Francisco, CA",2023-04-24,Small Business,verified,clean,low,low,N,2025-06-13,annually,N,,True,233450.77
+CUST_40ADFDA7,Thomas Lopez,2002-09-21,"3794 Pine St, Indianapolis, IN",2022-05-12,Retail,verified,prior_flag,medium,high,N,2025-08-22,monthly,Y,PEP status,True,447568.03
+CUST_05EC9F01,Ashley Williams,1989-09-09,"5631 Cedar St, Los Angeles, CA",2022-09-14,Retail,verified,clean,low,low,N,2025-09-25,semi-annually,N,,True,412792.9
+CUST_C228900C,John Williams,1998-10-09,"5049 Maple St, San Diego, CA",2022-02-16,Retail,verified,clean,medium,medium,N,2025-08-25,quarterly,N,,True,402539.39
+CUST_6300822F,Betty Gonzalez,1953-12-02,"2242 Pine St, Indianapolis, IN",2022-11-01,Retail,verified,clean,low,low,N,2025-08-11,annually,N,,False,281263.96
+CUST_F6BE0F7A,William Davis,1966-08-08,"5223 Oak St, Philadelphia, PA",2023-04-23,Retail,pending,clean,low,low,N,2025-08-16,semi-annually,N,,False,249634.51
+CUST_47E48E9A,Thomas Anderson,1968-08-01,"7810 Pine St, Seattle, WA",2023-05-26,Retail,verified,clean,low,low,N,2025-07-04,annually,N,,True,5080.53
+CUST_02BB2E66,Emily Wilson,1965-12-12,"9108 Pine St, Boston, MA",2022-05-18,Small Business,verified,clean,low,low,N,2025-08-01,semi-annually,N,,True,340518.92
+CUST_9E32ED8E,Emily Jones,1972-06-18,"7861 Cedar St, San Francisco, CA",2022-04-10,Corporate,verified,clean,medium,medium,N,2025-10-03,quarterly,N,,True,787256.29
+CUST_C21C0565,Mark Taylor,1988-06-06,"372 Pine St, Austin, TX",2022-05-24,Retail,verified,clean,low,low,N,2025-06-16,annually,N,,True,337229.39
+CUST_1A31BA08,Linda Jackson,2006-12-28,"2893 Cedar St, Boston, MA",2022-11-12,Retail,expired,clean,low,medium,N,2025-10-25,quarterly,N,,True,387528.46
+CUST_D2C22705,Richard Jones,1951-10-23,"8598 Oak St, Seattle, WA",2023-11-29,Retail,verified,clean,low,low,N,2025-10-23,annually,N,,True,163199.72
+CUST_B3203FEA,Betty Thomas,1969-03-15,"4138 Pine St, Seattle, WA",2023-06-23,Corporate,verified,clean,low,low,N,2025-06-04,annually,N,,True,1527570.85
+CUST_736002F7,Maria Clark,1962-12-23,"2499 Pine St, Los Angeles, CA",2022-10-23,Retail,expired,clean,low,low,N,2025-07-29,annually,N,,True,144527.54
+CUST_872412A8,Matthew Williams,1990-05-24,"8800 Oak St, San Diego, CA",2022-12-21,Retail,expired,clean,low,low,N,2025-09-06,semi-annually,N,,True,27193.06
+CUST_AE6F244B,Linda Hernandez,1992-03-01,"1069 Main St, Denver, CO",2023-04-29,Corporate,verified,prior_flag,high,high,N,2025-08-26,monthly,Y,Sanctions screening match,True,1199489.99
+CUST_C77CCDB2,Margaret Harris,1975-03-02,"9975 Main St, Austin, TX",2022-02-08,Corporate,expired,cleared,low,low,N,2025-11-05,semi-annually,N,,True,1458580.18
+CUST_7C12B8AC,Daniel Moore,2005-03-28,"4933 Cedar St, San Antonio, TX",2023-06-21,Retail,verified,clean,low,low,N,2025-11-04,semi-annually,N,,True,88571.96
+CUST_341DA479,Ashley Lee,1976-09-11,"4474 Pine St, San Jose, CA",2023-02-20,Retail,verified,clean,low,low,N,2025-08-01,annually,N,,True,291647.92
+CUST_BA5A9D2E,Charles Smith,1972-12-08,"4933 Pine St, Boston, MA",2022-09-25,Retail,verified,clean,low,low,N,2025-05-15,annually,N,,True,111203.77
+CUST_EA3B554C,David Thomas,1996-10-12,"1441 Cedar St, San Francisco, CA",2022-06-06,Retail,verified,clean,low,low,N,2025-05-17,semi-annually,N,,True,264558.39
+CUST_8FD74BE0,Jennifer Williams,1952-09-17,"7398 Main St, San Francisco, CA",2023-08-01,Retail,pending,clean,low,low,N,2025-10-15,annually,N,,True,66840.23
+CUST_281E858E,Linda Anderson,1984-08-22,"1144 Cedar St, Los Angeles, CA",2023-08-01,Small Business,verified,clean,medium,medium,N,2025-10-27,quarterly,N,,True,467356.82
+CUST_B47E5D4D,Michael Hall,1967-07-06,"6284 Maple St, Chicago, IL",2023-04-29,Small Business,verified,clean,medium,low,N,2025-07-16,annually,N,,True,341682.45
+CUST_4B759FA8,Betty Walker,1990-06-04,"9020 Maple St, Seattle, WA",2023-07-07,Retail,verified,clean,low,low,N,2025-08-23,semi-annually,N,,True,190258.96
+CUST_814DC7C4,Lisa Davis,1958-05-07,"9831 Main St, San Francisco, CA",2023-04-17,Corporate,verified,clean,medium,high,N,2025-09-07,monthly,Y,PEP status,True,3009035.24
+CUST_293D2DBB,Matthew Walker,1996-01-13,"9896 Pine St, San Diego, CA",2022-02-19,Retail,verified,clean,low,low,N,2025-06-13,semi-annually,N,,True,151580.45
+CUST_6F2D5570,David Thompson,1975-05-09,"5742 Maple St, Indianapolis, IN",2023-06-18,Retail,pending,clean,medium,medium,N,2025-07-04,quarterly,N,,True,160048.49
+CUST_04913391,Linda Wilson,1973-03-25,"6924 Cedar St, Indianapolis, IN",2022-06-02,Retail,pending,clean,low,low,N,2025-06-17,semi-annually,N,,True,67912.28
+CUST_C019AE09,Lisa Rodriguez,1990-02-15,"9726 Cedar St, San Antonio, TX",2022-07-28,Small Business,verified,clean,low,low,N,2025-10-20,semi-annually,N,,True,240217.71
+CUST_567A5403,Ashley Hall,2007-01-07,"4737 Maple St, San Francisco, CA",2022-12-07,Corporate,high-risk,clean,high,high,N,2025-07-29,monthly,Y,PEP status,True,2691568.13
+CUST_E630CBB6,Jennifer Martinez,1981-08-15,"2490 Main St, Dallas, TX",2022-09-25,Retail,verified,prior_flag,high,high,N,2025-10-27,quarterly,Y,High-risk jurisdiction,True,277102.47
+CUST_6F2A4111,Charles Jackson,1958-04-11,"2856 Pine St, Philadelphia, PA",2023-03-04,Retail,verified,under_investigation,low,low,N,2025-05-27,annually,Y,Large cash deposits,True,70839.31
+CUST_361FDFC2,Nancy Thomas,1983-11-02,"3891 Main St, Phoenix, AZ",2022-07-08,Retail,verified,clean,medium,medium,N,2025-10-03,quarterly,N,,True,5561.59
+CUST_6CED6AC2,Thomas Anderson,1988-11-22,"4797 Main St, Indianapolis, IN",2023-01-18,Corporate,verified,clean,high,high,N,2025-06-25,monthly,Y,Large cash deposits,True,4075128.24
+CUST_D25068CA,Betty Wilson,2007-02-17,"4084 Oak St, San Jose, CA",2022-07-03,Retail,verified,clean,low,low,N,2025-07-27,annually,N,,True,342336.77
+CUST_F8546572,Ashley Williams,1990-01-03,"9370 Main St, Indianapolis, IN",2023-11-01,Retail,verified,clean,low,low,N,2025-05-26,annually,N,,True,459656.96
+CUST_54BC0415,Lisa Miller,1985-08-09,"9717 Oak St, Fort Worth, TX",2023-12-10,Retail,pending,clean,low,low,N,2025-11-03,annually,N,,False,464508.6
+CUST_9C483560,Maria Garcia,1985-07-22,"1345 Pine St, Boston, MA",2023-08-01,Small Business,verified,cleared,low,high,N,2025-10-13,monthly,Y,Unusual transaction patterns,True,384733.82
+CUST_9169A0CA,Karen Gonzalez,1989-05-26,"4939 Oak St, Chicago, IL",2022-12-01,Corporate,expired,clean,medium,medium,N,2025-05-22,quarterly,N,,True,456088.15
+CUST_ED6E4D66,David Gonzalez,1989-03-24,"7161 Maple St, Seattle, WA",2023-12-30,Retail,expired,clean,low,medium,N,2025-10-05,quarterly,N,,True,277815.26
+CUST_CE6DF88B,Linda Brown,1971-09-03,"6337 Oak St, Phoenix, AZ",2022-01-27,Retail,verified,clean,medium,high,N,2025-06-14,monthly,Y,High-risk jurisdiction,True,135190.56
+CUST_4A559394,James Thomas,1959-07-09,"5091 Main St, Fort Worth, TX",2022-05-30,Retail,verified,clean,low,low,N,2025-07-13,semi-annually,N,,True,166776.39
+CUST_9C26604D,Karen Gonzalez,1970-07-27,"6624 Pine St, San Jose, CA",2022-12-04,Small Business,verified,clean,medium,medium,N,2025-07-08,quarterly,N,,True,367702.31
+CUST_9522FB2A,Daniel Thomas,1964-06-13,"540 Maple St, San Antonio, TX",2023-08-13,Retail,expired,clean,medium,low,N,2025-05-17,semi-annually,N,,True,219789.02
+CUST_7D87236D,Maria Robinson,2001-07-22,"7951 Cedar St, Fort Worth, TX",2023-12-11,Retail,verified,clean,low,medium,N,2025-07-16,quarterly,N,,False,267649.33
+CUST_1B6D55F2,Dorothy Hall,1983-01-26,"5916 Oak St, Boston, MA",2023-12-10,Corporate,verified,prior_flag,medium,medium,N,2025-09-05,quarterly,N,,True,269268.63
+CUST_31DDCB77,Daniel Thompson,1997-06-26,"7686 Cedar St, Indianapolis, IN",2023-10-25,Retail,verified,clean,low,low,N,2025-07-16,semi-annually,N,,True,76221.72
+CUST_61EC9F7B,John Thomas,1975-02-04,"7278 Maple St, Austin, TX",2022-04-18,Small Business,verified,clean,medium,medium,N,2025-08-10,quarterly,N,,True,34520.0
+CUST_8385319A,Sarah Lewis,1950-06-21,"7670 Oak St, Fort Worth, TX",2023-12-29,Retail,verified,clean,medium,medium,N,2025-08-15,quarterly,N,,True,315250.4
+CUST_74BB3C33,Jessica Lee,1974-01-24,"8896 Oak St, Jacksonville, FL",2023-11-05,Retail,verified,clean,low,low,N,2025-06-13,semi-annually,N,,True,163666.47
+CUST_A6BD90F1,Joseph Brown,2004-08-17,"4973 Cedar St, Denver, CO",2022-09-26,Corporate,verified,clean,low,low,N,2025-06-02,annually,N,,True,469522.24
+CUST_1635D474,David Hernandez,1968-02-06,"2938 Cedar St, Philadelphia, PA",2022-05-01,Retail,verified,clean,low,low,N,2025-05-29,annually,N,,True,245331.37
+CUST_CC6362CF,David Garcia,1977-10-02,"7372 Maple St, Philadelphia, PA",2022-11-19,Small Business,verified,clean,high,high,N,2025-07-26,quarterly,Y,Large cash deposits,True,42252.64
+CUST_0A6F2AB4,John Lewis,1951-05-08,"8998 Pine St, Seattle, WA",2022-08-14,Retail,verified,clean,low,low,N,2025-06-14,semi-annually,N,,True,411482.85
+CUST_73C2D9DF,Sarah Clark,1962-07-04,"2023 Oak St, San Antonio, TX",2023-03-28,Small Business,pending,clean,medium,medium,N,2025-10-16,quarterly,N,,True,405540.66
+CUST_6C7CB10B,Charles White,1994-10-21,"5402 Pine St, San Jose, CA",2022-12-26,Retail,verified,prior_flag,low,low,N,2025-06-08,annually,N,,True,286795.05
+CUST_A9E53D2C,Ashley Taylor,1955-03-25,"4155 Maple St, Charlotte, NC",2023-11-27,Small Business,pending,clean,high,medium,N,2025-10-01,quarterly,N,,True,71943.64
+CUST_2972ECB6,Daniel Rodriguez,1973-08-03,"5462 Cedar St, New York, NY",2023-10-05,Retail,verified,clean,medium,low,N,2025-07-14,annually,N,,False,434584.97
+CUST_B69EF017,Ashley Harris,1978-11-22,"5633 Cedar St, Denver, CO",2022-04-06,Retail,verified,cleared,medium,high,N,2025-08-31,quarterly,Y,Sanctions screening match,True,66166.53
+CUST_5066A278,Ashley Thomas,1992-01-02,"7109 Oak St, Phoenix, AZ",2022-12-18,Retail,verified,prior_flag,medium,medium,N,2025-11-07,quarterly,N,,False,441191.73
+CUST_0BF9A5EF,Maria Garcia,1990-06-09,"1659 Main St, San Antonio, TX",2022-10-08,Retail,verified,clean,low,medium,N,2025-07-21,quarterly,N,,True,238926.55
+CUST_5BDAEB50,David Jackson,1992-08-01,"1778 Main St, Austin, TX",2022-08-20,Retail,pending,clean,low,low,N,2025-08-01,semi-annually,N,,True,184413.28
+CUST_4C8D9947,Maria Jones,2001-03-21,"6845 Cedar St, San Francisco, CA",2023-01-27,Corporate,verified,clean,low,low,N,2025-05-31,semi-annually,N,,True,4306814.5
+CUST_F26E9C85,Michael Young,1997-02-19,"4768 Main St, San Jose, CA",2022-04-13,Small Business,verified,clean,low,low,N,2025-06-19,semi-annually,N,,True,103517.41
+CUST_D9985C83,Karen Taylor,1974-05-21,"297 Pine St, Austin, TX",2022-07-13,Retail,verified,clean,medium,medium,N,2025-06-08,quarterly,N,,True,66859.46
+CUST_EB78DA72,Ashley Robinson,1972-09-22,"6620 Cedar St, San Jose, CA",2023-08-06,Retail,verified,clean,low,low,N,2025-10-28,semi-annually,N,,False,314656.78
+CUST_004B6AA5,Thomas Clark,1993-07-03,"9708 Main St, San Jose, CA",2023-03-02,Retail,verified,clean,low,low,N,2025-06-23,semi-annually,N,,True,349639.26
+CUST_290D6E0E,Margaret Walker,1964-02-14,"2784 Maple St, Jacksonville, FL",2022-09-02,Retail,verified,clean,low,low,N,2025-10-03,semi-annually,N,,True,261979.68
+CUST_7DA2EA62,Sandra Robinson,1972-03-24,"1362 Maple St, San Francisco, CA",2022-09-23,Small Business,verified,clean,low,high,N,2025-09-01,monthly,Y,Large cash deposits,False,255880.16
+CUST_EDF903CD,Sarah Thomas,1972-03-09,"7829 Pine St, Fort Worth, TX",2023-08-04,Small Business,verified,clean,medium,medium,N,2025-11-04,quarterly,N,,True,460193.05
+CUST_C51687BD,Jessica Hall,2000-12-24,"3038 Oak St, Indianapolis, IN",2022-02-06,Retail,pending,clean,low,high,N,2025-07-02,monthly,Y,Large cash deposits,False,490725.52
+CUST_6210DE5A,Richard Williams,1967-05-11,"8183 Oak St, Seattle, WA",2023-04-22,Retail,verified,clean,low,medium,N,2025-07-12,quarterly,N,,True,380480.63
+CUST_FDFBA607,Lisa Jones,1950-04-18,"8780 Oak St, Columbus, OH",2022-01-07,Retail,expired,clean,medium,medium,N,2025-08-21,quarterly,N,,True,246522.41
+CUST_D6AA3B39,Sarah Jones,1954-01-08,"6561 Main St, Denver, CO",2023-12-30,Small Business,verified,cleared,medium,medium,N,2025-10-14,quarterly,N,,True,284342.54
+CUST_C59EB248,Linda Thompson,1967-05-28,"2330 Cedar St, Houston, TX",2022-05-14,Retail,verified,clean,medium,medium,N,2025-10-19,quarterly,N,,False,78549.87
+CUST_8E623960,Jessica Anderson,1975-02-18,"9984 Main St, San Antonio, TX",2023-04-23,Retail,verified,prior_flag,medium,medium,N,2025-05-16,quarterly,N,,True,418126.45
+CUST_90112423,William Jones,1964-06-13,"4193 Main St, San Francisco, CA",2022-04-04,Retail,high-risk,clean,low,low,N,2025-06-18,annually,N,,True,51851.77
+CUST_F5D1A127,Sandra Jones,1952-04-05,"3339 Maple St, Phoenix, AZ",2022-05-05,Retail,expired,clean,low,low,N,2025-11-02,semi-annually,N,,False,46897.34
+CUST_5900CE7B,Ashley Robinson,1951-08-02,"3166 Pine St, Dallas, TX",2022-12-06,Retail,verified,clean,low,low,N,2025-08-09,semi-annually,N,,True,223559.7
+CUST_C9934453,David Johnson,1988-04-21,"8714 Oak St, Seattle, WA",2023-09-21,Retail,verified,clean,low,low,N,2025-05-27,semi-annually,N,,True,397628.28
+CUST_F8AAD8EC,Richard Lewis,1979-09-26,"4702 Main St, Charlotte, NC",2024-01-01,Retail,verified,clean,medium,medium,N,2025-09-12,quarterly,N,,True,265186.71
+CUST_BA2ABB53,Anthony Jackson,1955-04-22,"2946 Oak St, San Diego, CA",2022-08-27,Retail,verified,clean,low,low,N,2025-08-09,annually,N,,False,296667.24
+CUST_47B59477,Sandra Harris,2007-10-01,"1020 Oak St, Boston, MA",2023-12-16,Small Business,verified,under_investigation,low,high,N,2025-09-24,quarterly,Y,Unusual transaction patterns,True,110185.66
+CUST_61CB19E9,Thomas Thomas,2007-10-07,"2420 Main St, Indianapolis, IN",2022-01-01,Small Business,verified,prior_flag,low,low,N,2025-06-10,semi-annually,N,,True,430474.06
+CUST_6A769171,Michael Lopez,1974-10-04,"9307 Cedar St, Jacksonville, FL",2023-12-23,Retail,verified,clean,low,low,N,2025-05-25,annually,N,,True,112395.37
+CUST_B1F1B9C3,Charles Robinson,1968-12-23,"3719 Cedar St, Houston, TX",2022-06-29,Retail,verified,clean,low,low,Y,2025-09-22,monthly,Y,High-risk jurisdiction,True,468407.21
+CUST_6F427D02,David Hernandez,1971-06-06,"1210 Pine St, Dallas, TX",2022-03-21,Retail,verified,clean,high,high,N,2025-09-01,monthly,Y,PEP status,True,393722.98
+CUST_003EF7AD,Margaret Smith,1977-12-14,"3795 Oak St, San Francisco, CA",2022-02-19,Corporate,verified,clean,high,high,N,2025-06-13,quarterly,Y,Large cash deposits,True,414861.48
+CUST_C38996B9,Ashley Johnson,1969-05-04,"8009 Main St, Columbus, OH",2022-10-29,Retail,verified,clean,low,low,N,2025-08-13,semi-annually,N,,True,471278.69
+CUST_85F49EB3,Jessica Martin,1952-02-11,"913 Maple St, Denver, CO",2023-03-21,Retail,verified,clean,low,low,N,2025-08-23,annually,N,,True,275281.65
+CUST_71A6C51A,Patricia Jones,1949-07-03,"1992 Pine St, Fort Worth, TX",2022-02-25,Retail,verified,clean,low,low,N,2025-10-18,annually,N,,True,236001.28
+CUST_349E9069,Mark Thompson,1990-09-13,"9344 Main St, Phoenix, AZ",2022-09-29,Retail,verified,clean,medium,medium,N,2025-09-11,quarterly,N,,True,376365.34
+CUST_A9FC61F2,Betty Brown,1971-09-14,"7879 Cedar St, San Diego, CA",2022-03-29,Corporate,verified,prior_flag,medium,medium,N,2025-06-23,quarterly,N,,True,2407498.29
+CUST_9EB2BC8D,Michael Gonzalez,1985-09-26,"2167 Main St, Columbus, OH",2022-02-05,Retail,expired,clean,high,medium,N,2025-09-14,quarterly,N,,True,40105.89
+CUST_9375406B,Betty Wilson,1989-03-27,"302 Cedar St, Denver, CO",2022-07-26,Retail,verified,clean,low,low,N,2025-08-29,annually,N,,True,261758.44
+CUST_760A8C60,Linda Brown,1958-10-19,"8055 Cedar St, Boston, MA",2023-03-01,Retail,verified,clean,high,high,N,2025-07-25,quarterly,Y,Sanctions screening match,True,237050.26
+CUST_D76CE945,Jessica Rodriguez,1988-10-22,"5065 Pine St, Dallas, TX",2023-02-17,Retail,verified,clean,low,high,N,2025-11-02,quarterly,Y,Sanctions screening match,True,421580.44
+CUST_D6D4906B,Ashley White,2004-04-05,"3563 Maple St, Charlotte, NC",2023-12-03,Retail,verified,clean,medium,medium,N,2025-10-16,quarterly,N,,True,379987.15
+CUST_6B22AB99,Ashley Lopez,1999-03-03,"4187 Main St, San Francisco, CA",2022-02-27,Retail,pending,prior_flag,low,low,N,2025-09-17,semi-annually,N,,True,26229.08
+CUST_F279F77C,Jennifer White,1972-08-17,"5830 Pine St, Philadelphia, PA",2022-07-23,Retail,verified,clean,medium,medium,N,2025-07-09,quarterly,N,,True,418989.23
+CUST_23A81D22,James Harris,1967-01-13,"6809 Cedar St, New York, NY",2023-12-07,Retail,verified,clean,medium,medium,N,2025-09-16,quarterly,N,,True,432450.34
+CUST_D57BEEE5,Anthony Thompson,2007-03-21,"7620 Pine St, San Antonio, TX",2022-01-10,Retail,verified,under_investigation,medium,high,N,2025-07-22,quarterly,Y,Unusual transaction patterns,True,233882.31
+CUST_06F5FC9C,Betty Taylor,1986-02-01,"1145 Pine St, Dallas, TX",2023-10-01,Retail,verified,clean,low,low,N,2025-05-16,annually,N,,True,320656.78
+CUST_6F093EB6,Ashley Rodriguez,1994-11-10,"8248 Pine St, Dallas, TX",2022-09-25,Retail,verified,prior_flag,low,high,N,2025-05-17,quarterly,Y,PEP status,True,453548.87
+CUST_5682BFF3,Richard Gonzalez,1994-10-27,"2885 Cedar St, Philadelphia, PA",2022-02-06,Retail,verified,clean,medium,low,N,2025-07-01,annually,N,,True,147598.24
+CUST_97BBD1B1,Patricia Jones,2000-09-25,"6189 Pine St, Denver, CO",2022-09-22,Corporate,verified,clean,high,high,N,2025-07-23,quarterly,Y,Suspicious activity report filed,True,1505553.05
+CUST_472BEF4D,Ashley Brown,2004-11-19,"2570 Oak St, San Antonio, TX",2023-04-27,Retail,verified,clean,low,low,N,2025-07-25,annually,N,,True,171992.27
+CUST_C38C1DD8,Charles Young,1969-12-06,"2862 Cedar St, Philadelphia, PA",2023-04-14,Small Business,verified,clean,low,low,N,2025-09-15,annually,N,,True,245298.97
+CUST_6A3D7853,Anthony Clark,1988-07-21,"8800 Oak St, New York, NY",2022-04-01,Retail,verified,clean,low,medium,N,2025-08-17,quarterly,N,,True,338697.32
+CUST_A95187BE,Daniel Harris,1993-06-10,"9870 Cedar St, Austin, TX",2022-09-12,Retail,verified,prior_flag,low,low,N,2025-07-14,annually,N,,True,217398.95
+CUST_AD37BEDA,Betty Jones,1980-06-25,"8367 Oak St, Houston, TX",2022-12-17,Retail,verified,clean,medium,high,N,2025-09-14,monthly,Y,Large cash deposits,True,183929.13
+CUST_BF720A1E,Daniel Lewis,2005-11-09,"6330 Main St, Seattle, WA",2022-02-08,Small Business,verified,clean,medium,high,N,2025-05-15,monthly,Y,High transaction volume,True,127116.41
+CUST_81EDCE30,Matthew Jones,1992-11-01,"2028 Pine St, Houston, TX",2022-07-30,Retail,verified,clean,low,low,N,2025-06-30,semi-annually,N,,True,392595.27
+CUST_9DDE7C1F,Patricia Miller,1998-05-27,"5516 Oak St, New York, NY",2023-09-16,Retail,verified,clean,low,low,N,2025-05-15,semi-annually,N,,False,7361.95
+CUST_D6EAFED3,Michael Hall,1985-11-16,"4950 Pine St, San Francisco, CA",2022-04-24,Retail,verified,clean,low,low,N,2025-07-14,semi-annually,N,,False,25990.02
+CUST_E9D5CC0D,Donald Garcia,1967-06-26,"5484 Pine St, San Francisco, CA",2022-02-10,Retail,pending,prior_flag,low,low,N,2025-05-22,semi-annually,N,,True,477589.49
+CUST_1DB955E5,James Young,2001-06-06,"2832 Main St, Phoenix, AZ",2022-04-06,Retail,verified,clean,low,low,N,2025-05-25,annually,N,,True,348388.77
+CUST_055B9573,Sarah Walker,1975-10-16,"2240 Maple St, Charlotte, NC",2022-06-13,Small Business,verified,clean,medium,medium,N,2025-05-16,quarterly,N,,True,57355.8
+CUST_FC101D7D,Linda Anderson,1965-11-11,"8604 Cedar St, Boston, MA",2022-02-17,Retail,verified,clean,medium,medium,N,2025-05-20,quarterly,N,,True,48525.83
+CUST_68CB89F2,Betty Harris,1971-11-22,"8223 Oak St, Chicago, IL",2022-09-12,Retail,pending,clean,low,low,N,2025-07-01,semi-annually,N,,True,375963.57
+CUST_A8B400AA,William Davis,1952-09-08,"2044 Maple St, New York, NY",2022-12-05,Retail,verified,clean,low,low,N,2025-07-03,semi-annually,N,,True,52219.02
+CUST_958C55ED,Linda Johnson,1949-02-26,"3752 Maple St, Austin, TX",2023-07-25,Retail,verified,clean,low,low,N,2025-08-06,annually,N,,True,280515.27
+CUST_52320B3E,Karen Martin,1991-06-23,"1841 Main St, Philadelphia, PA",2023-04-30,Retail,verified,clean,low,low,N,2025-06-20,annually,N,,True,246718.65
+CUST_4CF8C15B,Donald White,1965-10-07,"9747 Main St, San Francisco, CA",2023-02-24,Retail,verified,clean,medium,high,N,2025-07-24,monthly,Y,High transaction volume,False,229236.55
+CUST_26E13476,Charles Taylor,1949-09-24,"2203 Main St, Fort Worth, TX",2022-05-18,Retail,verified,clean,medium,low,N,2025-05-14,semi-annually,N,,True,329103.38
+CUST_C23EF5F7,Karen Young,2005-07-14,"8493 Pine St, Seattle, WA",2022-11-26,Corporate,verified,cleared,high,low,N,2025-10-03,semi-annually,N,,True,4310502.35
+CUST_1057A05F,Matthew Harris,1962-04-07,"5381 Main St, Jacksonville, FL",2023-07-21,Retail,verified,cleared,low,low,N,2025-07-02,semi-annually,N,,True,281577.83
+CUST_35E3B344,Charles Jackson,1975-11-24,"1027 Oak St, Dallas, TX",2023-11-15,Small Business,verified,clean,medium,medium,N,2025-08-02,quarterly,N,,True,375342.32
+CUST_0FC29402,Jessica Martinez,1958-01-23,"3992 Cedar St, San Jose, CA",2023-12-01,Small Business,verified,clean,low,low,N,2025-05-26,semi-annually,N,,True,346775.1
+CUST_F55B13C3,Sarah Hall,1975-11-11,"6125 Cedar St, Seattle, WA",2023-01-26,Corporate,verified,prior_flag,low,low,N,2025-09-11,annually,N,,False,3705327.66
+CUST_38F05F0C,Robert Clark,1977-03-22,"4278 Main St, Austin, TX",2022-07-18,Retail,verified,clean,high,high,N,2025-10-05,quarterly,Y,PEP status,True,233699.34
+CUST_F7DE6478,Dorothy Jones,1969-10-02,"5307 Cedar St, San Diego, CA",2022-02-10,Small Business,verified,clean,medium,medium,N,2025-10-20,quarterly,N,,True,478536.87
+CUST_BADE6E22,Thomas Williams,1975-09-18,"244 Main St, Jacksonville, FL",2023-06-02,Retail,verified,clean,low,low,N,2025-06-17,annually,N,,True,223387.96
+CUST_33A3DAF3,Mark Lee,1964-01-22,"6243 Cedar St, Indianapolis, IN",2023-09-21,Small Business,verified,clean,low,medium,N,2025-06-28,quarterly,N,,True,223332.89
+CUST_3CEF6982,Sarah Martinez,1969-09-03,"1802 Oak St, Seattle, WA",2023-10-30,Corporate,verified,clean,low,low,N,2025-05-16,semi-annually,N,,True,4152305.92
+CUST_3F0A1050,Mark Harris,2001-02-24,"3829 Pine St, Columbus, OH",2023-03-22,Retail,verified,clean,low,low,N,2025-06-18,annually,N,,True,194628.27
+CUST_705C73EC,Daniel Gonzalez,1950-07-22,"1838 Pine St, San Jose, CA",2023-03-20,Retail,verified,clean,low,low,N,2025-08-08,semi-annually,N,,False,303676.35
+CUST_78394303,Maria Clark,1974-11-01,"6213 Main St, Seattle, WA",2023-03-25,Retail,verified,clean,low,low,N,2025-08-23,semi-annually,N,,True,437508.7
+CUST_3FF92206,David Brown,1985-10-13,"8497 Oak St, Philadelphia, PA",2022-02-12,Retail,verified,prior_flag,medium,medium,N,2025-07-25,quarterly,N,,False,92812.37
+CUST_6C7FE691,Karen Robinson,1956-03-22,"1203 Pine St, Houston, TX",2022-09-16,Small Business,expired,cleared,medium,medium,N,2025-06-20,quarterly,N,,True,99511.38
+CUST_A9A4E4AA,Charles Thomas,1957-11-21,"9366 Cedar St, Jacksonville, FL",2022-12-05,Retail,verified,clean,low,low,N,2025-05-14,annually,N,,True,404042.18
+CUST_3262F885,Linda Garcia,1964-04-23,"5104 Maple St, Seattle, WA",2022-01-05,Small Business,verified,clean,low,low,N,2025-07-16,annually,N,,True,55307.49
+CUST_8167BADB,Daniel Martin,1966-03-18,"9767 Oak St, Los Angeles, CA",2022-03-25,Retail,verified,prior_flag,medium,high,N,2025-06-12,monthly,Y,High-risk jurisdiction,True,276245.41
+CUST_9C6C7A0A,Nancy Young,1990-03-12,"8327 Main St, San Diego, CA",2023-07-07,Retail,pending,clean,medium,medium,N,2025-10-15,quarterly,N,,True,424142.94
+CUST_FB41A075,Sandra Martin,1997-09-05,"3896 Main St, Dallas, TX",2023-12-02,Retail,verified,cleared,low,high,N,2025-10-28,quarterly,Y,PEP status,True,185348.16
+CUST_7585C32A,Sarah Thompson,2007-06-13,"6271 Maple St, Jacksonville, FL",2022-07-31,Retail,high-risk,clean,low,high,N,2025-06-12,quarterly,Y,High-risk jurisdiction,True,294251.73
+CUST_502A26A0,Mark Robinson,1965-07-08,"1363 Cedar St, Dallas, TX",2022-03-21,Retail,verified,clean,low,low,N,2025-07-18,semi-annually,N,,True,106547.03
+CUST_A4DCF152,Jessica Garcia,1994-02-22,"6832 Main St, San Diego, CA",2023-01-06,Retail,verified,clean,medium,medium,N,2025-09-27,quarterly,N,,True,22529.02
+CUST_9167A01E,Charles Jackson,1989-09-02,"1504 Oak St, San Francisco, CA",2022-06-14,Small Business,pending,clean,low,low,N,2025-05-22,semi-annually,N,,True,303656.42
+CUST_3F8CC2D0,Patricia Walker,1963-07-20,"1227 Oak St, Fort Worth, TX",2023-05-09,Retail,verified,clean,low,low,N,2025-07-14,annually,N,,True,193345.48
+CUST_BEB58344,Emily Smith,2004-09-22,"2235 Cedar St, Seattle, WA",2022-07-27,Retail,verified,clean,low,low,N,2025-10-15,semi-annually,N,,True,413933.37
+CUST_711C3899,Mark Clark,1976-09-14,"9539 Main St, Columbus, OH",2023-11-26,Retail,verified,prior_flag,low,high,N,2025-06-10,quarterly,Y,Suspicious activity report filed,True,67807.67
+CUST_F862217B,Patricia Clark,1954-05-20,"3465 Pine St, Columbus, OH",2022-08-27,Small Business,verified,clean,low,low,N,2025-06-27,semi-annually,N,,True,181772.63
+CUST_CE765BC0,David Wilson,1965-05-28,"9191 Maple St, Dallas, TX",2023-10-30,Retail,high-risk,clean,low,low,N,2025-09-23,annually,N,,True,494265.62
+CUST_6D54C0AF,Charles Lopez,1996-03-28,"952 Oak St, Fort Worth, TX",2023-12-24,Small Business,verified,under_investigation,low,low,N,2025-08-13,annually,Y,Suspicious activity report filed,True,482320.56
+CUST_5781F288,John Lewis,1958-08-20,"4793 Cedar St, Los Angeles, CA",2022-04-04,Retail,verified,clean,low,low,N,2025-06-03,annually,N,,True,472912.21
+CUST_0054135E,Donald Garcia,1977-01-07,"5993 Oak St, New York, NY",2023-10-18,Small Business,verified,clean,high,high,N,2025-06-03,monthly,Y,PEP status,True,487847.3
+CUST_2C1FBDF2,Michael Rodriguez,1991-07-13,"4630 Oak St, Boston, MA",2023-02-14,Retail,verified,clean,low,low,N,2025-08-11,annually,N,,False,481565.51
+CUST_7F90DE26,Joseph Hall,1949-05-06,"9326 Maple St, San Diego, CA",2023-02-18,Retail,verified,under_investigation,low,high,N,2025-05-14,quarterly,Y,Unusual transaction patterns,False,378979.17
+CUST_EFA13B5C,Anthony Anderson,2006-10-28,"5885 Cedar St, Seattle, WA",2023-11-29,Retail,verified,cleared,low,low,N,2025-08-19,semi-annually,N,,True,5851.87
+CUST_B8336841,Donald Rodriguez,1954-07-22,"3215 Maple St, San Antonio, TX",2022-09-12,Small Business,verified,clean,low,low,N,2025-09-22,annually,N,,False,118195.82
+CUST_1BCEB1E5,Lisa Walker,1963-04-27,"8971 Main St, Charlotte, NC",2022-09-29,Retail,verified,under_investigation,low,low,N,2025-06-03,annually,Y,High transaction volume,True,186227.07
+CUST_9D11F207,William Thomas,1966-08-06,"5789 Maple St, Philadelphia, PA",2023-08-12,Corporate,verified,clean,high,high,N,2025-07-08,quarterly,Y,High-risk jurisdiction,True,2313120.37
+CUST_A45E0875,Emily White,1969-12-01,"5721 Pine St, Philadelphia, PA",2023-06-15,Retail,verified,clean,low,low,N,2025-09-08,annually,N,,True,249886.24
+CUST_B08167FE,Robert Wilson,1972-06-28,"3312 Oak St, Phoenix, AZ",2023-12-19,Retail,expired,clean,low,high,N,2025-06-18,monthly,Y,Unusual transaction patterns,True,237020.53
+CUST_F563D483,John Garcia,1957-11-17,"3630 Pine St, Charlotte, NC",2023-03-08,Retail,verified,prior_flag,low,low,N,2025-05-15,semi-annually,N,,True,419646.88
+CUST_98787A26,Emily Anderson,1972-06-18,"9535 Cedar St, Philadelphia, PA",2022-12-09,Retail,verified,clean,medium,medium,N,2025-06-05,quarterly,N,,True,489707.19
+CUST_A2D16CDA,Maria Lopez,1981-08-25,"5627 Maple St, Boston, MA",2022-11-29,Small Business,verified,clean,medium,medium,N,2025-09-26,quarterly,N,,True,286247.15
+CUST_B68C6E8D,Ashley Hall,1959-06-08,"7477 Maple St, Philadelphia, PA",2022-03-15,Retail,verified,clean,low,low,N,2025-06-10,annually,N,,True,92759.21
+CUST_5357AD40,John Jones,1965-12-23,"1463 Main St, Dallas, TX",2022-08-29,Small Business,verified,under_investigation,low,low,N,2025-11-01,semi-annually,Y,Suspicious activity report filed,True,309432.98
+CUST_F5AD94F6,Michael Lee,1963-04-24,"8956 Pine St, Seattle, WA",2023-02-04,Retail,verified,clean,low,low,N,2025-07-09,annually,N,,True,222977.62
+CUST_FB5BEC9D,Matthew Moore,1987-08-21,"1567 Maple St, San Jose, CA",2022-07-01,Small Business,verified,clean,medium,low,N,2025-06-22,annually,N,,True,183525.88
+CUST_6632E153,James Jones,1949-09-27,"7152 Pine St, Boston, MA",2022-11-07,Small Business,verified,clean,low,low,N,2025-08-23,annually,N,,True,116376.48
+CUST_06FC81F2,John Moore,1975-09-14,"4554 Pine St, Seattle, WA",2023-01-18,Retail,verified,clean,low,low,N,2025-05-31,annually,N,,True,404595.52
+CUST_7BF19317,Linda Miller,1957-05-04,"1775 Pine St, Dallas, TX",2022-03-12,Retail,verified,clean,low,low,N,2025-06-24,semi-annually,N,,True,63394.56
+CUST_1155EFAF,Joseph Harris,1954-03-01,"2493 Main St, Dallas, TX",2022-01-09,Retail,verified,cleared,low,low,N,2025-08-15,semi-annually,N,,True,388050.8
+CUST_6AFF62F9,Michael Moore,1961-05-27,"1639 Cedar St, San Antonio, TX",2023-04-27,Retail,verified,clean,low,low,N,2025-10-30,semi-annually,N,,True,236939.95
+CUST_C38662FD,Betty Martinez,1989-12-02,"3668 Main St, San Diego, CA",2022-11-27,Small Business,verified,clean,medium,medium,N,2025-10-25,quarterly,N,,True,316821.57
+CUST_2BC3F8CD,William Smith,1966-10-04,"4175 Oak St, Charlotte, NC",2022-06-21,Retail,verified,clean,low,low,N,2025-08-04,semi-annually,N,,True,46609.37
+CUST_02D115EF,Karen Hernandez,1952-06-21,"449 Maple St, Jacksonville, FL",2023-10-03,Retail,verified,clean,low,low,N,2025-07-18,annually,N,,True,362475.18
+CUST_18EF1612,James Young,1994-08-18,"4944 Pine St, Seattle, WA",2022-02-10,Retail,verified,clean,low,high,N,2025-10-21,monthly,Y,High-risk jurisdiction,True,184189.24
+CUST_23C00443,John Clark,1973-12-06,"3210 Cedar St, Charlotte, NC",2023-10-16,Small Business,verified,clean,medium,medium,N,2025-06-23,quarterly,N,,True,383101.31
+CUST_AE17D43A,David Martin,1975-11-11,"1717 Main St, Denver, CO",2022-10-17,Retail,verified,clean,low,low,N,2025-10-11,semi-annually,N,,True,321234.08
+CUST_36E4618B,Richard Thompson,1988-12-19,"1094 Pine St, Seattle, WA",2023-05-17,Retail,verified,under_investigation,low,low,N,2025-10-18,annually,Y,Unusual transaction patterns,True,371995.24
+CUST_DEF8C975,Mark Wilson,1994-01-27,"8810 Maple St, San Antonio, TX",2023-01-13,Retail,verified,clean,low,low,N,2025-10-13,semi-annually,N,,True,97366.6
+CUST_0FCD8EF1,Betty Davis,1960-09-24,"9110 Maple St, Indianapolis, IN",2023-08-07,Retail,verified,clean,medium,high,N,2025-10-12,quarterly,Y,PEP status,True,169418.92
+CUST_D47137C2,Jessica Moore,1971-06-18,"6245 Cedar St, Dallas, TX",2023-09-07,Corporate,verified,clean,low,medium,N,2025-06-16,quarterly,N,,True,1832042.3
+CUST_9657D6E7,Joseph Anderson,1995-01-10,"4621 Cedar St, Indianapolis, IN",2023-02-11,Retail,verified,clean,low,low,N,2025-11-02,annually,N,,True,278605.22
+CUST_11ED91D5,Dorothy Jackson,1951-08-12,"1364 Pine St, Charlotte, NC",2022-06-08,Retail,verified,clean,low,low,N,2025-06-15,annually,N,,False,87278.34
+CUST_2514B30A,Donald Young,1985-02-20,"7215 Maple St, Houston, TX",2023-12-08,Retail,verified,clean,low,low,N,2025-08-10,annually,N,,True,435023.47
+CUST_2F8C8D8F,Lisa Harris,1987-01-21,"6536 Maple St, Boston, MA",2023-10-31,Small Business,verified,clean,low,low,N,2025-09-29,semi-annually,N,,True,288052.17
+CUST_BEEA0DAD,Michael Davis,1999-07-05,"2309 Maple St, Seattle, WA",2023-03-19,Retail,verified,clean,low,low,N,2025-05-13,annually,N,,True,99856.16
+CUST_65FAB619,Richard Lee,1984-10-24,"6084 Pine St, San Antonio, TX",2023-08-09,Retail,verified,clean,low,low,N,2025-05-20,semi-annually,N,,True,161048.44
+CUST_A4B83E9A,Karen Lee,1968-03-12,"1505 Main St, Los Angeles, CA",2022-01-25,Retail,verified,clean,high,high,N,2025-05-16,monthly,Y,Sanctions screening match,True,122281.11
+CUST_1EEB6AB5,Karen Hall,2002-05-01,"4337 Cedar St, Charlotte, NC",2022-06-01,Retail,verified,clean,medium,high,N,2025-09-16,monthly,Y,High-risk jurisdiction,True,311897.95
+CUST_8261BFBD,David White,1950-07-19,"236 Main St, Fort Worth, TX",2023-12-17,Corporate,verified,clean,medium,medium,N,2025-08-30,quarterly,N,,True,3318845.49
+CUST_21530718,Betty Walker,2004-02-01,"1542 Oak St, San Antonio, TX",2023-11-07,Retail,expired,clean,medium,high,N,2025-07-06,quarterly,Y,Suspicious activity report filed,True,250824.76
+CUST_457C8CFF,Joseph Moore,1951-04-17,"8312 Pine St, Los Angeles, CA",2023-12-31,Retail,verified,clean,low,low,N,2025-09-08,annually,N,,False,313270.39
+CUST_58C27973,Mark Gonzalez,1966-04-05,"2602 Maple St, San Jose, CA",2022-01-31,Retail,verified,clean,low,low,N,2025-07-24,semi-annually,N,,True,454957.96
+CUST_D0741BDC,William Anderson,1962-11-05,"2478 Cedar St, Philadelphia, PA",2023-07-10,Retail,verified,clean,low,low,N,2025-07-20,semi-annually,N,,False,159430.61
+CUST_EB343DE6,Nancy Moore,1969-03-24,"529 Cedar St, Boston, MA",2022-05-02,Retail,expired,clean,low,high,N,2025-09-20,monthly,Y,High transaction volume,True,134164.44
+CUST_FF3EB5C1,Charles Martin,1963-04-22,"8151 Maple St, Phoenix, AZ",2022-08-25,Retail,verified,prior_flag,low,low,N,2025-09-21,annually,N,,True,82729.4
+CUST_82DBF00E,Lisa Johnson,1949-05-14,"5423 Maple St, San Diego, CA",2023-02-23,Retail,verified,clean,low,low,N,2025-06-03,annually,N,,True,214350.29
+CUST_6650C6E8,Anthony Johnson,2001-07-24,"7585 Main St, San Diego, CA",2023-09-15,Retail,verified,clean,low,low,N,2025-06-27,semi-annually,N,,True,259832.62
+CUST_EA2268EA,Richard Harris,1973-09-25,"993 Cedar St, Phoenix, AZ",2022-02-10,Retail,verified,clean,low,high,N,2025-07-22,monthly,Y,Sanctions screening match,True,232325.9
+CUST_D37C3E8F,Daniel Anderson,1981-02-06,"3408 Maple St, Chicago, IL",2022-04-03,Small Business,verified,clean,high,high,N,2025-07-14,monthly,Y,High-risk jurisdiction,True,125791.06
+CUST_035413D8,Matthew Lee,1959-12-24,"819 Oak St, Austin, TX",2023-12-30,Retail,verified,clean,low,low,N,2025-08-03,semi-annually,N,,True,283180.3
+CUST_721D263F,Betty Walker,2004-03-06,"3423 Main St, Boston, MA",2022-06-03,Small Business,verified,cleared,low,low,N,2025-10-08,semi-annually,N,,True,382932.51
+CUST_DC869628,John Anderson,1980-09-26,"207 Oak St, Seattle, WA",2023-05-25,Retail,verified,clean,medium,medium,N,2025-10-18,quarterly,N,,True,139778.36
+CUST_A553D4F5,Daniel Moore,1960-03-02,"3020 Oak St, San Jose, CA",2022-08-01,Retail,verified,prior_flag,low,low,N,2025-10-26,semi-annually,N,,True,305933.79
+CUST_C5106E91,Matthew White,1999-09-06,"7101 Cedar St, Chicago, IL",2023-09-02,Corporate,verified,clean,medium,medium,N,2025-08-02,quarterly,N,,True,1499521.93
+CUST_FA6B23E4,David Brown,1966-06-17,"4805 Maple St, Boston, MA",2023-12-13,Retail,verified,clean,low,low,N,2025-07-07,semi-annually,N,,True,424051.19
+CUST_872E061C,James Taylor,1971-03-20,"492 Maple St, Houston, TX",2023-08-12,Retail,verified,clean,low,low,N,2025-09-19,annually,N,,True,368996.72
+CUST_91A9FF4F,Robert Lewis,1975-01-11,"8401 Cedar St, Austin, TX",2023-09-23,Retail,verified,clean,medium,medium,N,2025-10-21,quarterly,N,,True,383749.27
+CUST_5BAF3BB6,Emily Thompson,1974-12-19,"7988 Oak St, San Francisco, CA",2022-12-08,Retail,verified,clean,low,low,N,2025-10-29,annually,N,,True,446137.11
+CUST_A3E91716,Nancy Young,1999-07-24,"2546 Pine St, New York, NY",2022-12-10,Retail,verified,clean,low,low,N,2025-08-09,annually,N,,True,170237.06
+CUST_AB0C3D95,Richard Lee,1959-10-20,"8243 Oak St, Jacksonville, FL",2023-07-02,Retail,verified,clean,low,low,N,2025-08-30,semi-annually,N,,True,226501.26
+CUST_7DB58A57,Maria Miller,1960-02-12,"5672 Maple St, Indianapolis, IN",2023-06-22,Small Business,verified,clean,medium,medium,N,2025-07-02,quarterly,N,,True,155869.0
+CUST_1D1BAD12,William Jones,1982-11-05,"1526 Pine St, San Francisco, CA",2022-04-11,Retail,pending,clean,low,low,N,2025-05-16,semi-annually,N,,True,444703.75
+CUST_7B1604BC,Emily Taylor,1968-01-19,"4567 Oak St, Philadelphia, PA",2023-11-06,Small Business,verified,clean,medium,medium,N,2025-07-18,quarterly,N,,True,137544.81
+CUST_674436E4,John Martin,1955-04-18,"5649 Cedar St, San Francisco, CA",2023-07-28,Retail,verified,clean,low,low,N,2025-08-20,semi-annually,N,,True,26312.37
+CUST_7AF4B6B8,John Thomas,1955-07-02,"5544 Oak St, Seattle, WA",2023-11-23,Retail,pending,clean,low,low,N,2025-06-03,annually,N,,True,40194.26
+CUST_7B33F7FE,Dorothy Clark,1957-02-27,"4327 Pine St, Fort Worth, TX",2023-04-22,Small Business,verified,clean,medium,high,N,2025-09-09,quarterly,Y,PEP status,True,92493.18
+CUST_02D35CF6,Dorothy Thompson,2004-06-15,"8422 Main St, Fort Worth, TX",2022-12-05,Retail,verified,prior_flag,low,low,N,2025-06-06,annually,N,,True,408958.89
+CUST_617D64C4,Sandra Brown,1990-02-26,"3511 Cedar St, Columbus, OH",2022-11-30,Retail,verified,clean,low,low,N,2025-08-01,annually,N,,True,392372.67
+CUST_55F9BA03,Linda Jackson,1993-04-06,"7394 Oak St, San Jose, CA",2022-12-17,Retail,verified,clean,low,low,N,2025-08-16,annually,N,,True,477985.84
+CUST_D7FB1858,Michael Martin,2001-10-25,"7521 Cedar St, San Jose, CA",2022-04-22,Small Business,verified,clean,low,low,N,2025-10-01,semi-annually,N,,True,195601.35
+CUST_42CFDA2F,Charles Anderson,1992-06-10,"8462 Maple St, Phoenix, AZ",2022-07-20,Retail,expired,clean,medium,low,N,2025-10-16,annually,N,,True,426400.08
+CUST_3C2ED301,Sarah Lopez,1949-12-18,"9031 Oak St, Philadelphia, PA",2023-07-17,Small Business,pending,clean,low,high,N,2025-08-02,quarterly,Y,Unusual transaction patterns,True,237960.84
+CUST_D7B955AF,Robert Moore,1972-07-05,"2324 Main St, Phoenix, AZ",2023-01-29,Retail,verified,clean,medium,medium,N,2025-07-06,quarterly,N,,True,321479.21
+CUST_66CF9E8F,Linda Walker,1999-12-20,"221 Cedar St, Charlotte, NC",2023-04-12,Corporate,verified,prior_flag,medium,medium,N,2025-09-11,quarterly,N,,True,4241679.24
+CUST_E9BFB96D,Lisa White,1975-09-19,"4678 Maple St, Indianapolis, IN",2023-05-29,Retail,verified,clean,high,high,N,2025-10-02,monthly,Y,Large cash deposits,True,40039.07
+CUST_9A7885CD,Mark Martin,1979-11-24,"7781 Maple St, Indianapolis, IN",2022-04-01,Retail,verified,clean,low,low,N,2025-06-24,annually,N,,True,453121.49
+CUST_9AA8813E,Charles Harris,1971-05-10,"945 Pine St, Boston, MA",2022-12-06,Retail,verified,clean,low,low,N,2025-06-12,annually,N,,True,14621.75
+CUST_0BD3C5F5,Patricia Williams,1953-05-09,"2973 Pine St, San Diego, CA",2022-05-10,Retail,verified,clean,low,low,N,2025-05-23,semi-annually,N,,True,242974.34
+CUST_69F41EED,Sandra Taylor,1954-03-20,"9565 Pine St, Los Angeles, CA",2022-02-03,Corporate,high-risk,clean,low,low,N,2025-05-28,annually,N,,True,3229192.43
+CUST_4CA290EB,Anthony Robinson,1959-08-13,"8790 Maple St, New York, NY",2022-04-29,Retail,pending,clean,low,low,N,2025-07-09,annually,N,,True,145107.32
+CUST_C8AFBC98,Sandra Anderson,1969-09-22,"1710 Pine St, Denver, CO",2023-01-27,Corporate,verified,prior_flag,low,low,N,2025-08-14,annually,N,,True,1986211.13
+CUST_D91C720A,Anthony Thompson,1992-10-25,"8705 Main St, San Francisco, CA",2022-09-05,Retail,verified,clean,low,low,N,2025-11-04,semi-annually,N,,True,176406.69
+CUST_E7A71AD6,Margaret Martinez,1951-01-20,"2228 Maple St, Denver, CO",2022-09-15,Retail,verified,cleared,medium,medium,N,2025-10-08,quarterly,N,,True,401796.83
+CUST_8D40A333,Jessica Young,1960-05-10,"5398 Pine St, Philadelphia, PA",2022-04-24,Retail,pending,clean,medium,medium,N,2025-05-21,quarterly,N,,True,390584.92
+CUST_3A752D9A,James Clark,1973-06-02,"8161 Main St, Phoenix, AZ",2022-03-05,Retail,verified,cleared,medium,medium,N,2025-07-30,quarterly,N,,True,270775.45
+CUST_97D04445,Linda Miller,1955-08-23,"114 Main St, Fort Worth, TX",2023-09-21,Retail,verified,clean,low,low,N,2025-09-30,annually,N,,True,133951.8
+CUST_5A4FDD63,Matthew Hernandez,1949-09-23,"7998 Main St, Denver, CO",2023-02-05,Corporate,verified,clean,medium,high,N,2025-11-07,monthly,Y,Unusual transaction patterns,False,2699755.18
+CUST_4AE376A7,Jennifer Hernandez,1974-01-21,"744 Maple St, San Antonio, TX",2023-11-30,Corporate,pending,clean,medium,high,N,2025-05-26,quarterly,Y,PEP status,True,1529408.21
+CUST_02FDA7BC,Richard Young,1993-06-16,"8956 Pine St, Charlotte, NC",2022-04-20,Retail,verified,clean,low,medium,N,2025-07-05,quarterly,N,,True,267436.08
+CUST_2E90648F,Donald Lewis,1951-06-02,"8891 Oak St, Denver, CO",2023-04-06,Retail,verified,clean,medium,medium,N,2025-05-18,quarterly,N,,True,117259.84
+CUST_7D8649F5,Michael Johnson,1990-01-16,"1694 Maple St, Boston, MA",2022-05-25,Corporate,verified,clean,medium,medium,N,2025-08-21,quarterly,N,,True,894912.47
+CUST_244CB6F3,Charles Williams,1980-10-26,"2350 Pine St, San Antonio, TX",2022-04-19,Retail,verified,prior_flag,low,high,N,2025-10-08,quarterly,Y,Large cash deposits,True,382349.71
+CUST_AB350A77,Charles Garcia,1956-05-05,"6262 Oak St, New York, NY",2022-12-10,Small Business,verified,clean,low,low,N,2025-10-13,semi-annually,N,,True,439933.84
+CUST_692F2BC9,Michael Smith,1954-12-21,"7479 Maple St, San Diego, CA",2022-01-08,Retail,verified,clean,low,low,N,2025-05-28,semi-annually,N,,True,469106.72
+CUST_07DC5103,Karen White,1960-12-16,"1667 Cedar St, Jacksonville, FL",2022-02-08,Retail,verified,clean,low,low,N,2025-10-08,semi-annually,N,,False,431502.8
+CUST_08B952F2,Nancy Taylor,1998-11-22,"806 Main St, Jacksonville, FL",2022-08-13,Retail,verified,prior_flag,low,low,N,2025-09-23,annually,N,,True,143247.2
+CUST_C24D11B2,Linda Rodriguez,2000-08-02,"9810 Cedar St, Austin, TX",2022-12-09,Retail,verified,clean,low,low,N,2025-09-08,semi-annually,N,,True,210114.07
+CUST_034A5791,Margaret Thompson,1998-02-11,"2474 Oak St, Boston, MA",2022-11-30,Retail,verified,prior_flag,low,low,N,2025-10-25,annually,N,,True,228040.45
+CUST_F87513FB,Richard Lopez,1995-04-21,"2904 Pine St, San Diego, CA",2022-05-20,Retail,verified,clean,low,low,N,2025-07-11,semi-annually,N,,True,443318.08
+CUST_662C1532,Karen Garcia,2006-03-19,"7114 Oak St, San Diego, CA",2023-10-16,Corporate,pending,clean,high,low,N,2025-08-28,annually,N,,True,1670114.94
+CUST_B379F46D,Charles Davis,2007-10-01,"1705 Maple St, Charlotte, NC",2023-08-29,Retail,verified,clean,low,low,N,2025-07-08,annually,N,,True,121015.23
+CUST_9A97F018,Nancy Clark,1995-07-07,"499 Maple St, San Francisco, CA",2022-01-13,Retail,verified,clean,low,low,N,2025-06-14,annually,N,,True,386145.67
+CUST_58649453,Ashley White,1999-06-21,"4520 Cedar St, Seattle, WA",2023-02-20,Retail,verified,prior_flag,low,low,N,2025-08-24,semi-annually,N,,True,288039.45
+CUST_2606BC12,Robert Lewis,1988-06-24,"6089 Pine St, Philadelphia, PA",2023-12-03,Corporate,verified,clean,medium,medium,N,2025-07-11,quarterly,N,,True,3258454.66
+CUST_3D9B23A3,Matthew Williams,1998-04-05,"4480 Cedar St, Columbus, OH",2023-07-29,Corporate,verified,under_investigation,low,low,N,2025-09-11,semi-annually,Y,Sanctions screening match,True,1421869.4
+CUST_22B0795F,Michael Lopez,1980-09-17,"1175 Oak St, San Francisco, CA",2022-12-20,Small Business,verified,prior_flag,low,low,N,2025-05-19,annually,N,,False,44567.07
+CUST_2B220FEB,Richard Young,1953-02-06,"8970 Oak St, Charlotte, NC",2022-07-03,Retail,pending,clean,low,low,N,2025-07-24,annually,N,,False,174003.42
+CUST_BEEBE306,Joseph Harris,1967-04-03,"5446 Maple St, Denver, CO",2023-10-23,Retail,verified,clean,medium,medium,N,2025-05-24,quarterly,N,,True,333261.82
+CUST_6D20DE4B,Thomas Robinson,1978-05-19,"7569 Oak St, Boston, MA",2023-07-16,Retail,verified,clean,medium,low,N,2025-10-01,semi-annually,N,,True,462141.69
+CUST_DF3DD5C4,Matthew Moore,1960-12-23,"3122 Oak St, Seattle, WA",2022-10-20,Corporate,verified,cleared,medium,medium,N,2025-07-18,quarterly,N,,True,3550315.19
+CUST_F13789E6,Betty Hernandez,1972-08-18,"9048 Cedar St, Austin, TX",2022-12-19,Corporate,verified,under_investigation,medium,high,N,2025-08-18,quarterly,Y,PEP status,True,3253857.56
+CUST_4D288232,Maria Thomas,1985-11-05,"9126 Main St, San Jose, CA",2022-10-24,Small Business,verified,clean,medium,medium,N,2025-10-28,quarterly,N,,True,13373.0
+CUST_CBBC36F9,Karen Robinson,1971-02-11,"1531 Cedar St, Fort Worth, TX",2022-08-14,Retail,verified,under_investigation,low,low,N,2025-10-17,semi-annually,Y,High-risk jurisdiction,True,98030.57
+CUST_3D80F91D,William Martin,1952-11-12,"9291 Main St, San Antonio, TX",2023-09-12,Retail,verified,clean,medium,medium,N,2025-08-21,quarterly,N,,False,364198.83
+CUST_14B48CBF,Joseph Harris,1977-05-06,"8706 Pine St, Chicago, IL",2023-03-02,Small Business,pending,clean,high,high,N,2025-10-02,monthly,Y,PEP status,True,466643.34
+CUST_A60F26B7,Charles Clark,1949-07-21,"4842 Cedar St, Charlotte, NC",2023-01-20,Corporate,verified,clean,medium,medium,N,2025-09-21,quarterly,N,,True,259052.93
+CUST_659535B2,Donald Martinez,1980-09-24,"6934 Oak St, Charlotte, NC",2023-08-23,Retail,verified,cleared,low,high,Y,2025-05-24,monthly,Y,Large cash deposits,True,453489.81
+CUST_8CFD4F1E,Daniel Davis,1997-05-16,"6214 Cedar St, Denver, CO",2022-01-30,Corporate,verified,clean,low,low,N,2025-05-14,annually,N,,True,136848.15
+CUST_98B774A3,James Garcia,1958-06-15,"8777 Main St, Indianapolis, IN",2023-08-19,Small Business,verified,clean,low,low,N,2025-10-26,annually,N,,True,97713.6
+CUST_E0B10D66,Daniel Garcia,1997-03-18,"5861 Oak St, New York, NY",2022-04-07,Retail,verified,clean,low,low,N,2025-10-14,annually,N,,True,69337.77
+CUST_B76E8453,Maria Lopez,1970-03-04,"1351 Main St, Phoenix, AZ",2023-05-12,Retail,verified,clean,low,low,N,2025-07-24,semi-annually,N,,True,461781.47
+CUST_7948CCAE,Patricia Lopez,1972-03-27,"2432 Oak St, San Jose, CA",2022-11-16,Retail,expired,clean,high,high,N,2025-09-12,monthly,Y,PEP status,True,63546.75
+CUST_67C1F37E,David Williams,1997-02-03,"4245 Main St, Chicago, IL",2023-03-12,Retail,verified,clean,low,low,N,2025-07-10,semi-annually,N,,True,151521.26
+CUST_A1C2CEA8,John Clark,1956-10-07,"4062 Cedar St, Denver, CO",2022-04-09,Retail,verified,clean,low,high,N,2025-08-09,quarterly,Y,PEP status,True,35100.18
+CUST_0036BD57,Donald Jackson,1962-12-07,"3133 Maple St, Houston, TX",2022-01-15,Corporate,verified,clean,low,low,N,2025-08-06,annually,N,,True,945200.26
+CUST_54A638F6,Jennifer Gonzalez,1981-04-14,"5475 Maple St, Houston, TX",2023-03-11,Retail,verified,clean,high,high,N,2025-06-18,quarterly,Y,Large cash deposits,True,193005.78
+CUST_B4FBF75E,Joseph Martin,2002-08-08,"8155 Main St, Fort Worth, TX",2022-11-16,Retail,verified,clean,low,high,N,2025-09-23,quarterly,Y,High transaction volume,False,219591.12
+CUST_0ED28E48,Betty Thompson,1958-07-13,"6723 Main St, San Diego, CA",2022-03-29,Retail,pending,clean,high,high,N,2025-08-13,monthly,Y,PEP status,True,419216.46
+CUST_AB0FDD70,Margaret Thomas,1994-10-19,"8479 Pine St, Phoenix, AZ",2022-10-13,Retail,verified,clean,medium,medium,N,2025-07-27,quarterly,N,,False,384231.78
+CUST_905A9B07,Emily Brown,1980-04-21,"5456 Oak St, San Jose, CA",2022-09-14,Corporate,verified,clean,low,low,N,2025-08-02,semi-annually,N,,True,3128735.47
+CUST_429EEB65,Emily Clark,1997-09-25,"2051 Maple St, San Francisco, CA",2022-03-20,Retail,verified,clean,low,low,N,2025-10-30,semi-annually,N,,False,157965.04
+CUST_51451205,Richard Anderson,1951-03-18,"1892 Cedar St, Charlotte, NC",2023-04-16,Retail,verified,clean,medium,medium,N,2025-07-31,quarterly,N,,True,330379.22
+CUST_90E339F0,Betty Moore,1979-09-28,"9774 Main St, Phoenix, AZ",2023-08-09,Retail,verified,clean,low,low,N,2025-08-17,annually,N,,True,418630.14
+CUST_AEDF842B,Jennifer Lewis,1997-11-11,"1491 Main St, San Jose, CA",2023-08-21,Retail,verified,clean,low,low,N,2025-05-26,semi-annually,N,,True,58121.18
+CUST_8D4B1446,Jessica Smith,1951-08-22,"6494 Pine St, Denver, CO",2023-07-06,Small Business,verified,clean,medium,medium,N,2025-08-18,quarterly,N,,True,49765.11
+CUST_67ABA77D,Patricia Brown,1962-06-16,"1334 Cedar St, San Antonio, TX",2023-12-09,Retail,verified,clean,medium,medium,N,2025-07-03,quarterly,N,,True,144390.42
+CUST_3B0A9A9D,Sarah Martinez,2000-04-20,"1356 Pine St, Indianapolis, IN",2023-08-11,Small Business,verified,clean,low,low,N,2025-07-21,annually,N,,True,402259.23
+CUST_22282CD0,Linda Thompson,1961-07-13,"7756 Pine St, Seattle, WA",2023-07-07,Retail,verified,prior_flag,low,low,N,2025-06-13,semi-annually,N,,True,404657.81
+CUST_B5FF7EB2,Ashley Clark,1995-11-02,"1155 Oak St, Columbus, OH",2023-03-21,Retail,verified,clean,low,low,N,2025-07-25,annually,N,,True,134200.44
+CUST_5DCA693E,Maria Lee,1992-10-08,"706 Oak St, Philadelphia, PA",2022-06-14,Retail,verified,prior_flag,low,low,N,2025-07-22,annually,N,,True,137083.27
+CUST_FDD4BBB1,John Rodriguez,1984-03-21,"1579 Maple St, Phoenix, AZ",2022-10-12,Small Business,verified,prior_flag,high,high,N,2025-10-22,quarterly,Y,Unusual transaction patterns,True,118784.53
+CUST_724344DD,Charles Harris,1982-11-27,"9673 Maple St, San Diego, CA",2023-05-28,Retail,verified,clean,medium,medium,N,2025-08-19,quarterly,N,,True,467814.55
+CUST_12A29225,Robert Jones,1962-05-15,"4136 Pine St, Phoenix, AZ",2022-04-20,Retail,verified,clean,medium,medium,N,2025-06-21,quarterly,N,,True,182136.01
+CUST_53ACC123,Matthew Lopez,1990-10-02,"6045 Main St, Seattle, WA",2022-11-12,Small Business,verified,clean,medium,medium,N,2025-06-19,quarterly,N,,True,433609.51
+CUST_83F39F1F,Ashley Anderson,2007-07-09,"6756 Main St, Dallas, TX",2023-02-02,Retail,verified,prior_flag,medium,medium,N,2025-07-18,quarterly,N,,True,433355.85
+CUST_6EF8C9DF,Donald Clark,1996-07-27,"9073 Pine St, San Francisco, CA",2023-05-19,Retail,verified,clean,low,low,N,2025-08-09,semi-annually,N,,True,347909.84
+CUST_69A482F4,Anthony Johnson,1960-11-15,"2231 Cedar St, Columbus, OH",2023-10-19,Small Business,verified,clean,low,low,N,2025-09-05,semi-annually,N,,True,396528.51
+CUST_A153AE09,William Anderson,1996-03-09,"9445 Oak St, New York, NY",2023-05-05,Retail,verified,clean,low,low,N,2025-08-03,annually,N,,False,474106.5
+CUST_5C8F0162,Dorothy Moore,1989-04-03,"6128 Oak St, Denver, CO",2023-10-25,Corporate,verified,clean,low,low,N,2025-09-30,annually,N,,True,630885.07
+CUST_280E1D24,Matthew Taylor,2007-08-27,"3485 Cedar St, San Antonio, TX",2023-03-22,Retail,verified,prior_flag,low,high,N,2025-08-02,quarterly,Y,PEP status,True,497608.52
+CUST_DC7B120D,Maria Harris,1975-03-14,"2282 Pine St, Fort Worth, TX",2023-11-25,Small Business,verified,clean,low,low,N,2025-10-17,annually,N,,True,343739.37
+CUST_041F3121,Matthew Gonzalez,1996-10-09,"6341 Pine St, Fort Worth, TX",2023-12-27,Retail,expired,clean,low,low,N,2025-11-06,semi-annually,N,,True,335959.75
+CUST_EA15658D,David Young,1986-03-09,"2195 Maple St, Dallas, TX",2023-07-27,Retail,verified,clean,low,high,N,2025-09-02,monthly,Y,High transaction volume,True,374163.86
+CUST_8B253B16,Dorothy Wilson,2005-05-20,"7308 Main St, San Antonio, TX",2022-10-17,Small Business,verified,clean,high,high,N,2025-09-30,quarterly,Y,High-risk jurisdiction,True,75161.78
+CUST_87DA80EA,Lisa Garcia,1965-03-23,"2525 Main St, Jacksonville, FL",2022-02-06,Retail,verified,clean,low,low,N,2025-07-13,annually,N,,True,47695.36
+CUST_9D5A98AD,Ashley Martinez,1959-12-17,"1358 Oak St, Charlotte, NC",2022-07-04,Small Business,verified,cleared,medium,medium,N,2025-06-14,quarterly,N,,True,338777.35
+CUST_C8B310D8,Mark Hernandez,1992-11-04,"4512 Cedar St, New York, NY",2022-01-27,Retail,verified,clean,low,low,N,2025-07-14,annually,N,,True,165384.03
+CUST_59FBE10E,Sarah Lee,1969-12-24,"9064 Cedar St, Fort Worth, TX",2023-09-30,Corporate,pending,prior_flag,medium,medium,N,2025-10-24,quarterly,N,,True,508127.5
+CUST_65C6CBC2,James Garcia,2004-07-03,"7183 Pine St, Boston, MA",2022-09-03,Retail,verified,clean,low,low,N,2025-10-08,semi-annually,N,,True,66512.05
+CUST_999B2B4D,Betty Brown,1961-08-15,"1622 Main St, Indianapolis, IN",2023-01-12,Small Business,verified,clean,low,medium,N,2025-07-19,quarterly,N,,True,171530.68
+CUST_F8EA5A9F,Joseph Thompson,1992-12-05,"2193 Pine St, San Diego, CA",2022-08-18,Corporate,verified,clean,medium,medium,N,2025-07-08,quarterly,N,,True,2639305.68
+CUST_EEDE5A53,Maria Jackson,1953-01-17,"8348 Main St, Houston, TX",2022-02-18,Retail,verified,clean,low,low,N,2025-06-11,annually,N,,True,370517.57
+CUST_EA245C50,Joseph Garcia,1974-01-03,"3166 Oak St, Philadelphia, PA",2022-07-06,Retail,verified,clean,medium,medium,N,2025-09-01,quarterly,N,,True,40032.04
+CUST_F906F359,Karen Rodriguez,1976-09-01,"6010 Maple St, San Jose, CA",2023-11-21,Retail,verified,clean,low,low,N,2025-08-22,annually,N,,True,44729.93
+CUST_414BBB86,David Smith,2001-01-23,"2527 Maple St, Columbus, OH",2022-07-15,Corporate,verified,clean,high,high,N,2025-10-16,monthly,Y,Sanctions screening match,True,157993.3
+CUST_E2652872,Jessica Young,1993-08-16,"7174 Maple St, Charlotte, NC",2022-06-06,Retail,verified,clean,medium,high,N,2025-08-14,monthly,Y,High transaction volume,True,368802.08
+CUST_2A96E2B6,Karen Harris,1951-08-13,"9543 Pine St, Seattle, WA",2023-07-22,Retail,verified,prior_flag,low,low,N,2025-06-25,semi-annually,N,,True,32691.77
+CUST_3900FD29,Mark Lee,1979-02-16,"9728 Pine St, Boston, MA",2023-03-04,Retail,verified,clean,low,high,N,2025-07-18,quarterly,Y,PEP status,True,426873.44
+CUST_9480D1FE,Matthew Thompson,2005-05-24,"1512 Maple St, Phoenix, AZ",2023-04-25,Small Business,verified,clean,high,high,N,2025-06-01,monthly,Y,PEP status,True,87472.26
+CUST_FD113D84,Jessica Martin,1999-07-16,"8348 Main St, Chicago, IL",2023-05-19,Retail,verified,prior_flag,low,low,N,2025-09-24,semi-annually,N,,True,169529.64
+CUST_A2FD5227,Emily Martin,1984-04-16,"1806 Main St, San Francisco, CA",2022-08-21,Retail,verified,prior_flag,low,low,N,2025-05-15,semi-annually,N,,True,399694.46
+CUST_96D47861,Donald Clark,1999-10-20,"7333 Cedar St, Charlotte, NC",2022-04-24,Small Business,verified,clean,high,high,N,2025-08-07,monthly,Y,PEP status,True,366543.4
+CUST_A4B46670,Emily Jones,1970-03-04,"6201 Maple St, Jacksonville, FL",2023-10-25,Small Business,verified,clean,low,high,N,2025-07-01,quarterly,Y,PEP status,True,315090.76
+CUST_7FA413D6,Lisa Jones,1999-04-05,"8576 Main St, Chicago, IL",2023-06-27,Small Business,verified,prior_flag,low,high,N,2025-07-17,monthly,Y,PEP status,True,169813.51
+CUST_A23FD4B5,Richard Clark,1952-07-25,"9170 Pine St, Austin, TX",2022-06-18,Retail,verified,cleared,medium,low,N,2025-07-23,annually,N,,True,454706.2
+CUST_5CAF232B,John Robinson,1982-10-05,"3332 Pine St, Chicago, IL",2022-10-14,Small Business,verified,clean,low,low,N,2025-05-25,annually,N,,True,19448.12
+CUST_53B8F9FA,William Gonzalez,1983-05-07,"5079 Maple St, Indianapolis, IN",2022-05-10,Retail,verified,clean,low,low,N,2025-09-07,annually,N,,True,56110.51
+CUST_009B9FF0,Sarah Robinson,1989-09-12,"9628 Cedar St, Seattle, WA",2023-01-17,Retail,verified,clean,medium,medium,N,2025-08-13,quarterly,N,,False,422403.39
+CUST_BBC30C8D,Lisa Lopez,1991-12-19,"2501 Maple St, Columbus, OH",2022-11-03,Retail,verified,clean,medium,medium,N,2025-08-07,quarterly,N,,True,41891.63
+CUST_A6E65380,Sarah Wilson,1962-08-03,"7310 Maple St, Columbus, OH",2022-05-14,Retail,verified,clean,low,low,N,2025-05-29,annually,N,,True,412082.1
+CUST_414A0ED7,David Taylor,1994-08-05,"6151 Main St, Boston, MA",2022-05-11,Corporate,verified,clean,medium,medium,N,2025-09-28,quarterly,N,,False,4268973.1
+CUST_6F5B3344,Emily Brown,1967-01-17,"5099 Pine St, San Antonio, TX",2023-01-14,Retail,verified,clean,low,medium,N,2025-06-10,quarterly,N,,True,92355.49
+CUST_4BB781AC,Margaret Thomas,1984-06-03,"7471 Maple St, Phoenix, AZ",2022-01-03,Small Business,verified,prior_flag,low,high,N,2025-10-03,monthly,Y,High-risk jurisdiction,True,433306.43
+CUST_48D2BB71,William Williams,1988-07-13,"9471 Pine St, Seattle, WA",2023-10-02,Retail,expired,prior_flag,low,medium,N,2025-09-26,quarterly,N,,True,322934.68
+CUST_BC08DED9,Daniel Moore,1988-09-19,"4118 Cedar St, San Francisco, CA",2022-03-29,Small Business,verified,clean,high,high,N,2025-11-03,monthly,Y,Sanctions screening match,True,43239.32
+CUST_6B946D7A,Nancy Martin,1986-01-16,"1727 Cedar St, Philadelphia, PA",2022-11-25,Small Business,verified,prior_flag,low,low,N,2025-10-15,annually,N,,True,143390.51
+CUST_7373A183,Jessica Rodriguez,1968-07-22,"5411 Pine St, Fort Worth, TX",2022-04-02,Retail,verified,clean,low,low,N,2025-10-02,annually,N,,True,470847.18
+CUST_72AEC6D7,Mark Brown,1964-10-19,"6776 Oak St, New York, NY",2022-02-23,Retail,expired,clean,low,low,N,2025-10-22,annually,N,,True,135310.71
+CUST_425C95B2,Charles Thompson,1997-09-21,"2855 Oak St, Seattle, WA",2022-04-14,Small Business,verified,clean,low,low,N,2025-08-04,semi-annually,N,,True,476353.7
+CUST_219B9C56,Dorothy Moore,1949-08-27,"3585 Cedar St, Indianapolis, IN",2023-04-08,Retail,verified,under_investigation,low,low,N,2025-05-17,annually,Y,Unusual transaction patterns,False,141374.33
+CUST_5B1F48EA,Jessica Harris,1953-05-03,"4382 Maple St, Dallas, TX",2023-07-01,Retail,verified,clean,low,low,N,2025-05-17,annually,N,,False,123718.21
+CUST_79DA1F3A,William Hernandez,1987-06-01,"8111 Maple St, Seattle, WA",2022-08-04,Corporate,verified,clean,low,low,N,2025-07-25,semi-annually,N,,True,451686.49
+CUST_5F929AA2,Mark Lee,1983-01-27,"238 Main St, San Francisco, CA",2023-10-29,Small Business,expired,clean,low,low,N,2025-09-23,annually,N,,True,185869.84
+CUST_875C8B3B,Robert Anderson,1996-01-25,"8190 Pine St, Los Angeles, CA",2022-01-10,Retail,verified,clean,medium,medium,N,2025-09-12,quarterly,N,,True,141097.42
+CUST_29450232,Mark White,1962-01-07,"9368 Cedar St, Denver, CO",2023-12-25,Corporate,verified,clean,medium,medium,N,2025-09-19,quarterly,N,,True,918867.76
+CUST_0E38F338,Charles Jones,1965-10-28,"7537 Main St, Columbus, OH",2022-03-08,Retail,verified,clean,low,low,N,2025-05-17,annually,N,,True,320842.18
+CUST_24364F20,Daniel Johnson,2003-07-09,"8823 Maple St, Austin, TX",2022-11-27,Retail,verified,clean,low,medium,N,2025-08-28,quarterly,N,,False,3574.48
+CUST_EA19910C,Robert Hernandez,1985-01-24,"556 Maple St, Columbus, OH",2022-03-25,Retail,pending,clean,low,low,N,2025-05-31,semi-annually,N,,True,404221.48
+CUST_9B53D730,Charles Lewis,2002-05-08,"1667 Maple St, Denver, CO",2023-10-04,Retail,verified,clean,low,medium,N,2025-06-07,quarterly,N,,True,63288.36
+CUST_C2EF110C,Sarah Hall,1969-12-03,"955 Pine St, Fort Worth, TX",2022-02-04,Small Business,verified,clean,low,low,N,2025-05-18,semi-annually,N,,True,201439.85
+CUST_43D79F9C,Karen Clark,2004-10-26,"525 Maple St, Indianapolis, IN",2023-02-25,Retail,verified,prior_flag,low,low,N,2025-05-25,annually,N,,False,164768.64
+CUST_35389C23,Robert Brown,1987-12-03,"7384 Oak St, San Diego, CA",2022-04-16,Retail,verified,clean,medium,medium,N,2025-07-07,quarterly,N,,True,69698.68
+CUST_9236E98D,Sarah Johnson,1986-07-17,"4868 Pine St, New York, NY",2022-05-11,Corporate,pending,clean,medium,medium,N,2025-08-20,quarterly,N,,True,2612518.92
+CUST_D1F0106C,Betty Thompson,1964-09-27,"7894 Maple St, Boston, MA",2022-05-29,Small Business,verified,clean,medium,low,N,2025-08-12,semi-annually,N,,True,346514.51
+CUST_E1C94355,Ashley Jackson,1988-05-14,"3592 Oak St, Charlotte, NC",2023-08-03,Retail,pending,clean,low,low,N,2025-05-14,semi-annually,N,,True,367558.5
+CUST_03542606,Donald Hernandez,1974-03-27,"5996 Main St, New York, NY",2023-01-20,Corporate,verified,clean,low,low,N,2025-05-30,semi-annually,N,,True,1035658.21
+CUST_E87B697A,Maria Garcia,1965-12-06,"1918 Pine St, San Antonio, TX",2022-08-13,Retail,verified,prior_flag,low,low,N,2025-05-18,semi-annually,N,,True,153231.12
+CUST_E35B687E,Lisa Lopez,1959-09-26,"6231 Pine St, Boston, MA",2023-01-17,Corporate,verified,clean,high,medium,N,2025-09-19,quarterly,N,,True,2176223.81
+CUST_068FD8F5,Daniel Davis,1988-10-07,"8111 Oak St, Chicago, IL",2022-02-17,Small Business,verified,clean,low,low,N,2025-06-30,semi-annually,N,,False,392547.95
+CUST_838C82B5,Sandra Thompson,1959-09-13,"8018 Maple St, Charlotte, NC",2023-09-22,Small Business,verified,clean,medium,medium,N,2025-08-04,quarterly,N,,True,134899.39
+CUST_2D09B010,Richard Lee,1951-04-08,"1488 Oak St, Chicago, IL",2023-08-21,Small Business,verified,clean,low,low,N,2025-08-04,semi-annually,N,,True,148228.96
+CUST_EC5714F1,Thomas Lopez,1951-08-17,"3930 Pine St, Chicago, IL",2022-08-24,Retail,verified,prior_flag,low,low,N,2025-11-01,annually,N,,True,180187.37
+CUST_099ED7E3,Michael Martinez,1983-11-03,"4596 Oak St, Boston, MA",2023-05-29,Small Business,verified,clean,high,high,N,2025-05-19,monthly,Y,Sanctions screening match,True,498999.86
+CUST_9741FA26,Ashley Clark,1949-05-10,"2545 Maple St, San Diego, CA",2023-07-11,Small Business,verified,clean,medium,medium,N,2025-07-10,quarterly,N,,True,114236.22
+CUST_6294D1BD,Margaret Miller,1982-10-26,"9249 Main St, Jacksonville, FL",2023-05-01,Retail,verified,clean,low,high,N,2025-09-15,quarterly,Y,Unusual transaction patterns,True,70336.16
+CUST_742A92FC,Ashley Jones,1949-08-26,"627 Oak St, Phoenix, AZ",2022-11-09,Retail,verified,clean,low,high,N,2025-06-10,quarterly,Y,High transaction volume,True,488644.42
+CUST_30994C32,William Jackson,1987-10-19,"5091 Main St, Philadelphia, PA",2023-10-07,Small Business,verified,clean,high,high,N,2025-08-15,monthly,Y,High-risk jurisdiction,False,53052.28
+CUST_9D9FB618,Nancy Garcia,1993-10-16,"8595 Main St, Philadelphia, PA",2022-02-02,Retail,verified,clean,low,low,N,2025-07-14,semi-annually,N,,True,164059.26
+CUST_C4AA1291,Dorothy Wilson,1956-03-18,"7878 Oak St, Boston, MA",2023-02-05,Retail,pending,clean,medium,low,N,2025-07-20,annually,N,,True,287970.6
+CUST_6646A1AD,Maria Jackson,1994-11-15,"1592 Pine St, San Francisco, CA",2022-07-27,Retail,verified,clean,low,high,N,2025-07-13,quarterly,Y,Unusual transaction patterns,True,174044.14
+CUST_A047EDC8,Donald White,1988-03-14,"815 Oak St, Philadelphia, PA",2022-11-01,Retail,verified,prior_flag,medium,medium,N,2025-06-15,quarterly,N,,True,137614.36
+CUST_C2B3BBAB,Daniel Moore,2007-02-23,"5441 Maple St, San Francisco, CA",2022-10-26,Small Business,verified,clean,high,high,N,2025-10-19,quarterly,Y,Suspicious activity report filed,True,83254.71
+CUST_35BF93AF,Robert Taylor,1950-02-21,"2336 Pine St, San Francisco, CA",2022-02-15,Retail,verified,prior_flag,medium,medium,N,2025-11-05,quarterly,N,,True,242894.86
+CUST_FE511599,Michael Williams,1964-12-15,"6503 Oak St, Chicago, IL",2023-07-16,Retail,verified,clean,medium,medium,N,2025-08-24,quarterly,N,,True,336024.69
+CUST_2942EC54,John Thompson,1977-06-06,"7374 Main St, Boston, MA",2022-10-07,Retail,verified,clean,low,medium,N,2025-07-31,quarterly,N,,True,3328.2
+CUST_D48B6B1D,Anthony Gonzalez,1972-04-07,"2850 Oak St, Los Angeles, CA",2022-07-26,Retail,verified,clean,low,low,N,2025-10-14,semi-annually,N,,True,208424.32
+CUST_358BD2D8,Emily Robinson,1984-11-07,"6688 Pine St, New York, NY",2022-12-01,Retail,verified,clean,medium,medium,N,2025-08-17,quarterly,N,,True,195204.14
+CUST_5C2C1F14,Joseph Davis,2001-05-21,"9425 Oak St, Dallas, TX",2022-03-09,Retail,verified,clean,low,low,N,2025-06-23,semi-annually,N,,True,479558.32
+CUST_4B56EB62,Karen Hernandez,1973-11-25,"9685 Maple St, Fort Worth, TX",2023-10-09,Retail,pending,clean,low,low,N,2025-10-21,annually,N,,True,256002.04
+CUST_D5C3A096,Margaret Davis,1994-01-08,"6236 Maple St, San Jose, CA",2023-05-31,Retail,verified,clean,medium,medium,N,2025-10-18,quarterly,N,,True,101803.88
+CUST_6505ECB8,Richard Miller,1964-12-20,"4826 Main St, San Diego, CA",2023-10-20,Corporate,verified,clean,medium,high,N,2025-06-27,monthly,Y,Suspicious activity report filed,False,4242327.49
+CUST_0BA05FEA,William Hernandez,1983-01-22,"199 Main St, Charlotte, NC",2022-09-06,Corporate,verified,prior_flag,medium,medium,N,2025-09-22,quarterly,N,,True,396425.35
+CUST_E8BCC118,Robert Johnson,1962-03-03,"3336 Oak St, Columbus, OH",2023-10-12,Retail,verified,clean,low,low,N,2025-08-20,annually,N,,True,89041.32
+CUST_D7E85E17,Lisa Martinez,1977-11-07,"7201 Oak St, Charlotte, NC",2022-10-20,Retail,expired,clean,medium,medium,N,2025-07-18,quarterly,N,,True,10885.73
+CUST_E26269C3,Richard Wilson,2007-05-20,"7788 Oak St, Phoenix, AZ",2022-03-27,Retail,verified,clean,low,low,N,2025-10-20,annually,N,,True,458149.84
+CUST_6D00D7AF,John Smith,1995-06-16,"2139 Maple St, Denver, CO",2023-05-28,Retail,verified,clean,low,low,N,2025-07-26,semi-annually,N,,True,82018.83
+CUST_9A78D967,Anthony Wilson,2007-12-12,"6021 Main St, Phoenix, AZ",2022-09-19,Retail,verified,clean,low,low,N,2025-09-06,semi-annually,N,,True,131404.02
+CUST_A754BCA8,Joseph Thompson,1964-10-19,"1416 Cedar St, San Antonio, TX",2022-05-31,Corporate,verified,clean,medium,low,Y,2025-05-11,quarterly,Y,High-risk jurisdiction,False,4386230.53
+CUST_E609C4FC,Jessica Robinson,1993-05-17,"5742 Oak St, Dallas, TX",2023-03-14,Corporate,verified,clean,medium,low,N,2025-10-11,semi-annually,N,,True,3756213.86
+CUST_ADA95B2B,Dorothy Harris,1968-01-06,"3153 Oak St, San Antonio, TX",2023-02-12,Small Business,verified,clean,low,low,N,2025-09-25,annually,N,,True,243749.16
+CUST_2F4F30C4,Thomas Brown,2001-04-06,"1889 Oak St, Chicago, IL",2023-04-07,Retail,verified,cleared,medium,low,N,2025-05-31,annually,N,,False,147269.67
+CUST_BFC1106B,Richard Brown,1970-01-19,"218 Maple St, Boston, MA",2022-10-11,Retail,verified,clean,low,low,N,2025-10-14,semi-annually,N,,True,260516.99
+CUST_60A5ADB8,Anthony Rodriguez,1997-06-20,"5933 Pine St, Houston, TX",2023-05-13,Retail,high-risk,prior_flag,low,low,N,2025-08-03,annually,N,,True,2539.25
+CUST_7E562DCE,Ashley White,2002-03-01,"7885 Cedar St, Columbus, OH",2023-02-16,Retail,verified,prior_flag,medium,medium,N,2025-06-02,quarterly,N,,True,330453.98
+CUST_A1EC032A,John Lee,1989-06-28,"5807 Maple St, Charlotte, NC",2022-11-26,Retail,verified,clean,medium,medium,N,2025-06-04,quarterly,N,,True,493448.86
+CUST_FB0A9E49,Ashley White,1973-05-20,"5037 Cedar St, San Francisco, CA",2022-04-13,Retail,verified,prior_flag,low,low,N,2025-07-03,semi-annually,N,,True,84858.37
+CUST_945604A0,Joseph Brown,1983-04-08,"3710 Pine St, Charlotte, NC",2023-05-09,Retail,verified,clean,medium,high,N,2025-08-16,monthly,Y,Unusual transaction patterns,True,475800.44
+CUST_B9CE4538,Betty Brown,1983-11-24,"6352 Cedar St, Columbus, OH",2023-11-13,Retail,verified,clean,medium,low,N,2025-05-27,semi-annually,N,,True,404415.29
+CUST_39CDA39B,Lisa Rodriguez,1954-02-03,"127 Pine St, Los Angeles, CA",2022-04-29,Retail,expired,clean,low,low,N,2025-08-02,annually,N,,True,295439.83
+CUST_F04EA5BA,Robert Walker,1969-06-26,"5276 Oak St, San Jose, CA",2023-02-02,Retail,verified,clean,medium,medium,N,2025-06-23,quarterly,N,,True,418771.11
+CUST_93437EF3,Patricia Thompson,1987-05-05,"9503 Maple St, San Antonio, TX",2023-04-12,Small Business,verified,clean,medium,medium,N,2025-05-15,quarterly,N,,True,248017.74
+CUST_B32E9702,Matthew Gonzalez,1970-03-27,"5000 Oak St, New York, NY",2022-03-02,Small Business,verified,clean,medium,low,N,2025-07-06,semi-annually,N,,True,274423.51
+CUST_9A9072F6,William Wilson,1971-07-13,"9609 Main St, San Jose, CA",2023-11-26,Retail,pending,clean,medium,medium,N,2025-10-14,quarterly,N,,True,229308.72
+CUST_DADB5F38,Jessica Jackson,1993-08-10,"2518 Maple St, Columbus, OH",2022-05-21,Small Business,verified,clean,low,low,N,2025-05-18,semi-annually,N,,True,340043.19
+CUST_CE31E0EF,Jessica Hall,1971-08-06,"4046 Maple St, Charlotte, NC",2022-02-27,Corporate,verified,clean,low,low,N,2025-09-06,annually,N,,True,1548313.57
+CUST_DC725F21,Karen Garcia,1973-12-26,"2010 Main St, Houston, TX",2023-10-31,Retail,verified,clean,low,low,N,2025-08-05,annually,N,,True,245120.0
+CUST_A8424EBC,Betty Hall,1950-10-19,"4988 Cedar St, Phoenix, AZ",2023-06-06,Corporate,verified,clean,medium,medium,N,2025-05-26,quarterly,N,,True,542234.21
+CUST_039A19C3,Michael White,1974-12-01,"3060 Cedar St, Philadelphia, PA",2023-07-05,Retail,verified,clean,medium,high,N,2025-09-15,monthly,Y,Large cash deposits,True,3656.68
+CUST_0214E8BF,Joseph Lewis,1951-03-19,"2911 Maple St, New York, NY",2022-11-18,Retail,pending,clean,low,low,N,2025-08-06,annually,N,,False,124920.21
+CUST_AB875B0E,Sarah Taylor,1983-08-05,"832 Oak St, Los Angeles, CA",2022-10-28,Retail,high-risk,clean,low,low,N,2025-05-15,semi-annually,N,,True,94848.75
+CUST_20B79982,Maria Walker,1987-09-07,"4264 Maple St, Phoenix, AZ",2022-08-09,Retail,verified,clean,low,low,N,2025-07-28,semi-annually,N,,True,268416.26
+CUST_64BF94E8,Michael Lee,1993-11-07,"9989 Oak St, Chicago, IL",2022-10-03,Small Business,verified,clean,medium,high,N,2025-07-19,quarterly,Y,Unusual transaction patterns,True,135792.49
+CUST_1B1DDD9A,Nancy Brown,1975-02-11,"3740 Maple St, Houston, TX",2023-12-02,Retail,verified,prior_flag,low,low,N,2025-10-13,semi-annually,N,,True,391584.08
+CUST_1FF28277,Emily Garcia,2005-05-19,"6482 Oak St, Jacksonville, FL",2023-06-24,Small Business,verified,prior_flag,low,low,N,2025-10-26,semi-annually,N,,True,403236.41
+CUST_97A8057E,Betty Lewis,1987-07-16,"6164 Oak St, Boston, MA",2023-06-29,Retail,verified,clean,low,low,N,2025-10-25,annually,N,,False,209703.63
+CUST_154B746F,Joseph Garcia,2000-08-17,"1576 Main St, Chicago, IL",2023-03-26,Retail,verified,under_investigation,high,high,N,2025-08-21,monthly,Y,Unusual transaction patterns,True,365246.56
+CUST_08F66E97,Michael Garcia,1954-12-10,"8822 Main St, Fort Worth, TX",2023-08-13,Retail,expired,clean,low,low,N,2025-07-08,semi-annually,N,,True,7936.23
+CUST_173CC03A,Robert Hall,1976-12-18,"2861 Cedar St, San Diego, CA",2022-01-08,Small Business,expired,prior_flag,low,low,N,2025-06-05,semi-annually,N,,True,88232.28
+CUST_DDD122A3,Jennifer Robinson,1971-01-14,"4909 Pine St, San Antonio, TX",2022-05-17,Retail,verified,clean,low,medium,N,2025-08-25,quarterly,N,,True,2114.92
+CUST_32482346,Daniel Jackson,1968-11-17,"1855 Main St, Jacksonville, FL",2023-02-08,Small Business,verified,clean,low,low,N,2025-08-15,annually,N,,True,445207.94
+CUST_8FAAF243,Jessica Gonzalez,1955-07-16,"6232 Pine St, Jacksonville, FL",2022-12-30,Retail,verified,prior_flag,low,low,N,2025-09-11,annually,N,,True,214742.39
+CUST_E64CEB81,Jessica Moore,1977-11-27,"2290 Maple St, Columbus, OH",2022-10-03,Retail,verified,prior_flag,low,medium,N,2025-09-20,quarterly,N,,True,372218.07
+CUST_82D91F97,Mark Johnson,1961-08-22,"6470 Oak St, Houston, TX",2022-06-14,Corporate,verified,clean,low,low,N,2025-07-02,annually,N,,True,4790509.04
+CUST_D45EC47E,Sandra Smith,1971-09-01,"7127 Oak St, Boston, MA",2022-05-10,Small Business,verified,cleared,low,high,N,2025-08-25,quarterly,Y,Sanctions screening match,True,77095.37
+CUST_CD5A9DBE,Thomas Garcia,1998-02-28,"3068 Oak St, Denver, CO",2022-09-13,Retail,verified,clean,medium,high,N,2025-05-12,monthly,Y,Large cash deposits,True,314825.05
+CUST_BBF93682,David Davis,1974-01-09,"3891 Oak St, Austin, TX",2022-05-04,Corporate,verified,clean,high,high,N,2025-06-26,quarterly,Y,Sanctions screening match,True,2159075.49
+CUST_C3CAD9A4,Sarah Taylor,1952-05-04,"5369 Oak St, San Jose, CA",2023-03-14,Retail,verified,clean,low,low,N,2025-11-07,semi-annually,N,,True,236557.02
+CUST_30E2C2D4,Dorothy Martin,1960-05-16,"6020 Cedar St, Indianapolis, IN",2022-04-14,Retail,verified,clean,low,low,N,2025-08-07,annually,N,,True,302752.19
+CUST_0F4B1989,Lisa Lee,1986-07-03,"1716 Main St, Seattle, WA",2022-10-10,Small Business,verified,clean,low,low,N,2025-09-19,semi-annually,N,,True,309886.17
+CUST_603096B6,Maria Harris,1961-09-24,"7245 Main St, Charlotte, NC",2023-05-01,Retail,verified,prior_flag,low,high,N,2025-07-16,quarterly,Y,Large cash deposits,True,210083.08
+CUST_4F70B125,Dorothy Taylor,1987-05-23,"8512 Main St, Philadelphia, PA",2022-01-23,Corporate,verified,cleared,low,low,N,2025-07-04,annually,N,,True,2216837.47
+CUST_2365C13E,Thomas Gonzalez,1973-07-20,"8702 Pine St, San Jose, CA",2023-07-30,Retail,verified,clean,low,low,N,2025-07-02,annually,N,,True,426385.06
+CUST_1BDC7684,Maria White,1956-03-08,"4179 Oak St, Seattle, WA",2022-10-02,Retail,verified,prior_flag,low,low,N,2025-10-25,annually,N,,True,58976.23
+CUST_2F4A5607,Daniel Lopez,1972-06-03,"5924 Oak St, Dallas, TX",2023-10-10,Corporate,verified,prior_flag,high,high,N,2025-05-31,monthly,Y,Suspicious activity report filed,True,924839.43
+CUST_E414DED0,John Moore,1998-10-04,"3714 Pine St, Dallas, TX",2023-11-05,Small Business,verified,clean,medium,medium,N,2025-09-16,quarterly,N,,True,102755.4
+CUST_F330E696,Daniel Lewis,1977-04-24,"3055 Pine St, New York, NY",2023-02-09,Small Business,verified,clean,low,low,N,2025-09-20,semi-annually,N,,True,155769.95
+CUST_676CAF2C,Mark Garcia,1987-04-03,"6291 Maple St, New York, NY",2023-02-08,Retail,verified,clean,low,medium,N,2025-11-04,quarterly,N,,True,55907.72
+CUST_70528024,John Clark,1957-04-25,"5644 Main St, San Antonio, TX",2023-10-22,Retail,verified,cleared,low,low,N,2025-06-22,semi-annually,N,,True,70475.82
+CUST_3049EA1B,Anthony Jackson,1959-05-11,"1780 Cedar St, Columbus, OH",2023-03-31,Retail,verified,clean,low,low,N,2025-10-12,semi-annually,N,,True,71775.68
+CUST_2D824F96,Dorothy Davis,1976-07-05,"1904 Oak St, Houston, TX",2022-01-25,Retail,verified,clean,low,medium,N,2025-07-05,quarterly,N,,True,478276.78
+CUST_CD7D50A6,Maria Lopez,1970-02-12,"5040 Cedar St, San Jose, CA",2022-03-20,Corporate,verified,clean,high,high,N,2025-05-18,monthly,Y,Unusual transaction patterns,True,1774509.13
+CUST_01CEB8E2,Emily Rodriguez,1972-05-26,"7938 Main St, Houston, TX",2023-05-27,Corporate,pending,cleared,medium,high,N,2025-08-18,monthly,Y,PEP status,True,2910322.25
+CUST_2B9AEA8C,Margaret Rodriguez,1969-03-06,"4128 Maple St, Columbus, OH",2022-05-29,Small Business,verified,cleared,low,low,N,2025-10-03,annually,N,,True,275120.29
+CUST_6A46EA61,Nancy Moore,1983-04-13,"146 Oak St, New York, NY",2023-05-20,Retail,verified,prior_flag,medium,medium,N,2025-10-16,quarterly,N,,True,181836.82
+CUST_44623D7C,Patricia Jones,2007-06-12,"3779 Main St, Phoenix, AZ",2022-04-23,Small Business,verified,clean,medium,low,N,2025-09-06,annually,N,,True,59500.67
+CUST_9472C8E1,Matthew White,1995-01-23,"2414 Main St, San Diego, CA",2022-05-27,Corporate,verified,clean,low,medium,N,2025-10-31,quarterly,N,,True,431473.22
+CUST_3CE649AA,Charles Robinson,1997-03-16,"4798 Main St, Phoenix, AZ",2023-03-03,Small Business,verified,clean,medium,medium,N,2025-05-26,quarterly,N,,True,30940.4
+CUST_4EA82D73,Daniel Johnson,1960-09-06,"4553 Main St, Indianapolis, IN",2023-09-11,Retail,pending,clean,medium,high,N,2025-09-10,quarterly,Y,Unusual transaction patterns,False,189402.58
+CUST_03E0D389,David Harris,1988-01-08,"6737 Maple St, Philadelphia, PA",2022-08-05,Retail,verified,clean,medium,medium,N,2025-07-08,quarterly,N,,True,28281.16
+CUST_5B4EC3BE,Jennifer Lee,1966-02-04,"5164 Oak St, Seattle, WA",2023-03-11,Retail,verified,clean,low,low,N,2025-09-14,semi-annually,N,,True,101661.23
+CUST_18F3DBDD,Dorothy Johnson,1954-10-19,"5252 Maple St, Jacksonville, FL",2022-09-04,Retail,verified,clean,high,high,N,2025-08-27,quarterly,Y,Unusual transaction patterns,True,486951.52
+CUST_2DE9B20B,Matthew Thompson,1975-12-17,"2582 Maple St, Chicago, IL",2022-04-10,Retail,verified,clean,medium,medium,N,2025-10-29,quarterly,N,,True,442716.73
+CUST_C021ADE9,Michael White,1962-11-21,"5693 Maple St, Phoenix, AZ",2022-08-26,Retail,verified,cleared,medium,medium,N,2025-06-27,quarterly,N,,False,170171.33
+CUST_631644E3,Jennifer Martin,2006-12-25,"2436 Pine St, Seattle, WA",2023-03-18,Retail,verified,cleared,low,low,N,2025-10-14,annually,N,,True,433899.3
+CUST_A706DD07,Sandra Lewis,1955-08-11,"4294 Maple St, Phoenix, AZ",2022-03-31,Retail,verified,clean,low,low,N,2025-09-02,annually,N,,False,469974.91
+CUST_18B55A37,Charles Thomas,2003-05-13,"6869 Cedar St, San Francisco, CA",2022-02-10,Retail,verified,clean,low,low,N,2025-08-04,annually,N,,True,132150.89
+CUST_D89E68D6,Mark Thompson,1990-01-24,"1295 Oak St, Fort Worth, TX",2022-02-13,Small Business,verified,clean,medium,medium,N,2025-06-15,quarterly,N,,True,437205.28
+CUST_81D5C9F3,Betty Williams,1978-11-18,"1156 Pine St, Austin, TX",2022-12-24,Corporate,verified,prior_flag,medium,low,N,2025-09-17,annually,N,,True,4982369.25
+CUST_2298AB2C,Patricia Miller,1979-02-09,"6022 Maple St, Charlotte, NC",2023-12-21,Retail,verified,clean,low,low,N,2025-10-23,annually,N,,False,107496.99
+CUST_CC3DCC7B,Robert Walker,1992-07-09,"4350 Oak St, Los Angeles, CA",2022-01-24,Retail,verified,clean,low,low,N,2025-07-23,annually,N,,True,47128.19
+CUST_638E8740,Mark Wilson,1968-03-07,"262 Cedar St, Boston, MA",2022-12-17,Retail,verified,clean,low,low,N,2025-05-14,annually,N,,True,100081.43
+CUST_2D026AE9,Margaret Thompson,1958-06-22,"1961 Maple St, Dallas, TX",2023-08-16,Corporate,verified,clean,high,high,N,2025-10-01,quarterly,Y,Unusual transaction patterns,True,2627423.91
+CUST_07343E08,John Anderson,1977-11-19,"3231 Cedar St, New York, NY",2022-05-09,Retail,verified,clean,low,low,N,2025-09-13,annually,N,,True,185757.95
+CUST_B486A316,Jennifer Smith,1968-09-27,"5602 Main St, Philadelphia, PA",2022-11-06,Small Business,verified,clean,medium,medium,N,2025-06-22,quarterly,N,,True,229952.96
+CUST_6AFD269B,Jennifer Garcia,1959-09-14,"1800 Main St, New York, NY",2023-07-21,Retail,verified,clean,medium,medium,N,2025-10-13,quarterly,N,,False,308513.93
+CUST_15BF7D3A,Linda Brown,1997-10-18,"1975 Oak St, Charlotte, NC",2023-05-24,Retail,verified,clean,low,low,N,2025-07-14,semi-annually,N,,True,475325.2
+CUST_6BEA9A14,Jennifer Lewis,2007-11-23,"6894 Oak St, New York, NY",2023-04-21,Small Business,verified,clean,low,low,N,2025-08-21,annually,N,,True,450193.44
+CUST_34F2350D,Linda Johnson,1958-06-27,"3256 Cedar St, Fort Worth, TX",2022-01-16,Small Business,verified,cleared,medium,low,N,2025-06-18,semi-annually,N,,False,414446.4
+CUST_FB7D9828,Sandra Hall,1957-11-13,"9552 Maple St, Dallas, TX",2023-08-15,Corporate,verified,clean,low,low,N,2025-07-01,semi-annually,N,,True,4194822.5
+CUST_41795F82,Jessica Hernandez,1954-01-14,"2238 Maple St, Jacksonville, FL",2022-07-28,Retail,verified,clean,medium,low,N,2025-11-01,annually,N,,True,94091.03
+CUST_B88202FC,Daniel Young,1961-09-27,"9592 Main St, Houston, TX",2022-08-16,Retail,verified,clean,medium,medium,N,2025-10-02,quarterly,N,,True,230104.73
+CUST_09F19B41,Karen Brown,1967-05-06,"1350 Oak St, Columbus, OH",2022-04-20,Retail,verified,clean,low,low,N,2025-07-25,semi-annually,N,,True,188251.93
+CUST_694A3D7B,William Lee,1959-03-10,"9930 Cedar St, New York, NY",2023-04-07,Retail,verified,clean,low,low,N,2025-07-07,annually,N,,False,80035.75
+CUST_0D855317,Margaret Rodriguez,1987-01-18,"2173 Pine St, Dallas, TX",2022-05-05,Retail,pending,clean,low,low,N,2025-10-03,annually,N,,True,241305.86
+CUST_A12F8A7B,Michael Lopez,1990-05-15,"9726 Pine St, Philadelphia, PA",2023-12-27,Small Business,verified,clean,low,low,N,2025-07-30,annually,N,,True,397255.66
+CUST_84117EB2,Margaret Thomas,1977-07-20,"1152 Maple St, Philadelphia, PA",2023-03-20,Small Business,verified,clean,medium,medium,N,2025-08-04,quarterly,N,,True,444835.39
+CUST_C1321D6F,Thomas Rodriguez,1967-10-27,"3625 Pine St, Jacksonville, FL",2023-08-24,Small Business,verified,clean,high,high,N,2025-09-21,quarterly,Y,Sanctions screening match,True,73374.8
+CUST_B9735C48,William Brown,1993-01-23,"9290 Pine St, Boston, MA",2022-01-10,Retail,pending,clean,low,low,N,2025-06-26,semi-annually,N,,True,473189.26
+CUST_FA92D95E,Sandra Walker,1985-11-14,"2133 Maple St, Philadelphia, PA",2023-11-19,Retail,verified,clean,low,low,N,2025-08-29,semi-annually,N,,True,301113.91
+CUST_0B191EDF,Charles Gonzalez,1950-05-01,"740 Pine St, New York, NY",2022-08-31,Retail,pending,clean,medium,high,N,2025-10-29,quarterly,Y,High-risk jurisdiction,False,35657.6
+CUST_5B23A317,Emily Robinson,1968-05-11,"2089 Pine St, Boston, MA",2023-03-02,Small Business,verified,clean,low,low,N,2025-07-04,annually,N,,True,52269.06
+CUST_57621D9C,Lisa Johnson,1955-06-28,"4354 Main St, Houston, TX",2022-01-11,Retail,verified,prior_flag,low,low,N,2025-05-15,semi-annually,N,,True,24953.69
+CUST_2D5836E2,Maria Williams,1993-10-26,"6871 Maple St, Houston, TX",2022-09-28,Small Business,verified,clean,low,low,N,2025-06-11,semi-annually,N,,True,261360.09
+CUST_F2D941B9,Lisa Jackson,1980-05-11,"3473 Main St, Chicago, IL",2023-05-05,Small Business,verified,clean,low,low,N,2025-05-23,semi-annually,N,,True,485910.84
+CUST_A903D8A8,Sarah Miller,1962-08-27,"2623 Cedar St, Houston, TX",2022-01-14,Retail,verified,clean,low,low,N,2025-08-20,annually,N,,True,457148.51
+CUST_81B7DD75,Lisa Hall,1977-10-17,"1855 Main St, San Diego, CA",2023-01-08,Retail,verified,clean,low,low,N,2025-10-01,semi-annually,N,,True,9277.38
+CUST_EEF33734,Joseph Garcia,1979-11-17,"7330 Pine St, Jacksonville, FL",2022-10-01,Retail,verified,clean,low,low,N,2025-06-30,annually,N,,True,49808.54
+CUST_05429326,Daniel Gonzalez,1967-04-13,"970 Main St, Denver, CO",2023-03-09,Retail,verified,clean,low,low,N,2025-10-10,semi-annually,N,,True,133822.94
+CUST_A4868BAC,Michael Moore,1963-10-23,"5795 Pine St, Boston, MA",2022-04-14,Small Business,verified,prior_flag,low,low,N,2025-09-25,semi-annually,N,,True,144701.34
+CUST_F3BBB362,John Brown,2007-12-20,"2423 Main St, Charlotte, NC",2022-07-09,Retail,verified,clean,low,low,N,2025-08-14,semi-annually,N,,True,214533.35
+CUST_23A3E287,John Garcia,1953-03-22,"384 Cedar St, San Jose, CA",2022-09-28,Small Business,verified,clean,low,low,N,2025-10-10,annually,N,,True,417844.16
+CUST_09313BF9,Thomas Taylor,1958-02-04,"7616 Main St, Jacksonville, FL",2022-06-21,Retail,verified,cleared,medium,medium,N,2025-07-06,quarterly,N,,True,151265.88
+CUST_C4CCF6DE,William Young,1991-10-16,"4103 Cedar St, Columbus, OH",2023-06-15,Retail,verified,cleared,low,low,N,2025-08-08,semi-annually,N,,True,180350.54
+CUST_CCC33495,Margaret Williams,1989-02-09,"5815 Pine St, Fort Worth, TX",2022-07-18,Small Business,verified,cleared,medium,medium,N,2025-09-01,quarterly,N,,False,294984.77
+CUST_1C035B46,James Martinez,1986-09-23,"2510 Maple St, Phoenix, AZ",2022-07-15,Retail,verified,cleared,low,high,N,2025-11-05,monthly,Y,Unusual transaction patterns,False,262069.9
+CUST_6835AAD6,Maria Martin,1959-05-16,"5871 Main St, Los Angeles, CA",2023-07-26,Retail,verified,clean,medium,medium,Y,2025-07-05,monthly,Y,Sanctions screening match,True,126465.3
+CUST_E1F30D7F,Jennifer Young,2003-09-22,"626 Maple St, Jacksonville, FL",2022-10-18,Corporate,verified,clean,medium,high,N,2025-06-11,quarterly,Y,High transaction volume,True,1281206.1
+CUST_BA8401CF,Betty Lee,1974-02-09,"2323 Maple St, Seattle, WA",2023-01-31,Corporate,verified,prior_flag,medium,high,N,2025-05-17,monthly,Y,Suspicious activity report filed,True,1037639.72
+CUST_224D47C8,Maria Williams,1989-08-18,"5958 Maple St, Jacksonville, FL",2022-11-01,Retail,verified,clean,medium,medium,N,2025-07-02,quarterly,N,,False,214406.92
+CUST_408CD13E,Linda Wilson,2007-09-01,"9000 Cedar St, San Jose, CA",2023-04-18,Corporate,verified,clean,medium,medium,N,2025-06-29,quarterly,N,,True,315003.33
+CUST_283F7B41,Ashley Gonzalez,1991-01-15,"4860 Cedar St, Charlotte, NC",2022-05-09,Small Business,verified,clean,medium,high,N,2025-08-14,monthly,Y,High-risk jurisdiction,True,345605.86
+CUST_DF0CCBF0,Ashley Johnson,1986-11-17,"2635 Pine St, San Jose, CA",2022-05-05,Small Business,verified,clean,low,low,N,2025-05-19,semi-annually,N,,True,359851.88
+CUST_CDBA1092,Dorothy Smith,1993-04-04,"1011 Main St, San Jose, CA",2023-05-12,Retail,verified,clean,low,low,N,2025-07-01,semi-annually,N,,True,202874.11
+CUST_19997517,Jessica Robinson,2003-09-09,"4043 Oak St, Indianapolis, IN",2022-08-29,Small Business,verified,clean,medium,medium,N,2025-09-21,quarterly,N,,True,371090.7
+CUST_A97B96CA,Nancy Miller,1967-05-22,"7588 Main St, Denver, CO",2023-05-03,Retail,verified,clean,low,high,N,2025-07-22,quarterly,Y,PEP status,True,195325.27
+CUST_39387806,Charles Martinez,1990-11-20,"5961 Cedar St, Indianapolis, IN",2022-02-04,Retail,verified,prior_flag,medium,medium,N,2025-11-05,quarterly,N,,False,106179.29
+CUST_F9752E94,Mark White,1981-02-06,"8025 Maple St, Charlotte, NC",2023-06-22,Retail,verified,clean,low,high,N,2025-07-30,quarterly,Y,High transaction volume,False,303315.06
+CUST_0F5242C6,Jessica Jackson,1998-11-17,"2707 Oak St, Houston, TX",2023-12-27,Retail,verified,clean,low,medium,N,2025-10-27,quarterly,N,,True,332965.22
+CUST_A1C0B7C3,Patricia Hall,1969-04-25,"4203 Main St, Los Angeles, CA",2023-11-27,Small Business,pending,clean,medium,low,N,2025-10-22,annually,N,,True,423554.12
+CUST_352E3232,Michael Anderson,1989-01-06,"4787 Oak St, San Antonio, TX",2023-01-19,Retail,high-risk,clean,low,low,N,2025-07-05,annually,N,,True,371334.8
+CUST_B92136F7,Linda Robinson,1999-04-03,"1279 Pine St, Philadelphia, PA",2023-06-26,Retail,verified,prior_flag,low,low,N,2025-07-26,annually,N,,True,341498.24
+CUST_5D604FE5,Dorothy Harris,1980-04-27,"6262 Main St, Denver, CO",2023-10-20,Retail,verified,prior_flag,medium,low,N,2025-07-18,semi-annually,N,,True,39993.76
+CUST_0D5ED6F5,Sandra Taylor,1956-08-08,"4819 Main St, Seattle, WA",2022-11-02,Retail,verified,clean,low,high,N,2025-10-21,quarterly,Y,Suspicious activity report filed,True,288102.58
+CUST_C59B6948,Ashley Taylor,1968-07-20,"4374 Oak St, Austin, TX",2023-09-18,Retail,verified,prior_flag,low,low,N,2025-10-30,semi-annually,N,,True,444125.99
+CUST_DD09A94B,Sarah Jones,2001-12-11,"6919 Cedar St, Boston, MA",2022-07-29,Corporate,verified,clean,medium,low,N,2025-08-11,semi-annually,N,,False,4650349.75
+CUST_36B967EE,Mark Moore,1966-12-02,"531 Oak St, Seattle, WA",2023-05-06,Retail,verified,clean,low,medium,N,2025-11-02,quarterly,N,,False,304461.31
+CUST_09A1AC37,Richard Thompson,1950-09-16,"6124 Pine St, San Antonio, TX",2023-12-02,Retail,verified,clean,medium,medium,N,2025-07-18,quarterly,N,,True,172219.69
+CUST_E0833D23,Dorothy Johnson,1954-10-01,"1355 Main St, Phoenix, AZ",2022-09-01,Retail,verified,clean,medium,low,N,2025-09-05,semi-annually,N,,True,219839.39
+CUST_1493E825,Maria Johnson,1987-11-08,"5948 Oak St, San Francisco, CA",2022-11-18,Corporate,verified,clean,low,low,N,2025-07-04,semi-annually,N,,True,3580012.6
+CUST_3DE93F66,Jennifer Clark,2004-11-08,"2346 Cedar St, San Diego, CA",2023-07-19,Retail,verified,clean,low,low,N,2025-08-28,annually,N,,True,153164.66
+CUST_8939D892,Nancy Miller,1995-03-02,"9737 Maple St, San Jose, CA",2022-05-06,Corporate,verified,clean,medium,medium,N,2025-10-30,quarterly,N,,True,4144535.31
+CUST_D311C1B5,Michael Johnson,1988-07-16,"8972 Pine St, New York, NY",2022-10-13,Retail,verified,clean,low,low,N,2025-05-22,semi-annually,N,,True,455116.95
+CUST_3979FB6C,Anthony Young,2007-05-26,"4809 Cedar St, San Francisco, CA",2022-12-11,Small Business,verified,clean,low,low,N,2025-10-11,semi-annually,N,,True,212493.68
+CUST_36B2A78F,Margaret Jackson,1959-07-15,"4946 Pine St, Denver, CO",2023-06-16,Small Business,verified,clean,high,medium,N,2025-09-05,quarterly,N,,True,197906.0
+CUST_9FDBF764,Karen Rodriguez,1991-05-26,"245 Maple St, Los Angeles, CA",2023-01-06,Retail,verified,clean,medium,high,Y,2025-07-17,monthly,Y,Unusual transaction patterns,True,482976.86
+CUST_C4C9E56B,Patricia Lee,1975-01-19,"2184 Oak St, Philadelphia, PA",2023-07-24,Corporate,verified,clean,low,low,N,2025-09-02,annually,N,,True,777163.84
+CUST_6AA53FFA,Karen Lee,1956-11-02,"5889 Cedar St, Los Angeles, CA",2022-02-20,Retail,verified,clean,low,low,N,2025-09-03,annually,N,,True,300688.84
+CUST_1EC2D561,Jennifer Brown,1977-02-17,"5450 Cedar St, Jacksonville, FL",2022-03-21,Retail,verified,clean,low,low,N,2025-08-27,annually,N,,True,168157.91
+CUST_549BFB88,Linda Young,1979-05-20,"8426 Cedar St, Jacksonville, FL",2023-10-30,Retail,verified,clean,low,low,N,2025-08-19,semi-annually,N,,True,470029.98
+CUST_953AE687,Richard Robinson,1991-12-05,"8746 Main St, Boston, MA",2023-08-20,Retail,verified,under_investigation,high,high,N,2025-06-23,quarterly,Y,Large cash deposits,True,236692.25
+CUST_7B985178,Thomas Taylor,1966-04-27,"1990 Oak St, San Francisco, CA",2023-03-28,Retail,verified,cleared,medium,medium,N,2025-08-19,quarterly,N,,True,366666.37
+CUST_D4FEF1B4,Mark Wilson,1971-09-17,"6778 Cedar St, Phoenix, AZ",2023-01-06,Retail,verified,clean,low,low,N,2025-06-23,semi-annually,N,,True,303167.29
+CUST_F1272DB2,Sandra Martinez,1956-02-14,"4415 Cedar St, Charlotte, NC",2022-12-16,Retail,verified,clean,high,low,N,2025-09-26,semi-annually,N,,True,371684.14
+CUST_CE83DBBE,David Walker,1976-01-23,"4055 Pine St, Houston, TX",2022-02-04,Retail,verified,clean,low,low,N,2025-07-28,semi-annually,N,,True,169067.34
+CUST_6794BCAA,Donald Young,1987-10-04,"7916 Oak St, Philadelphia, PA",2022-12-11,Corporate,verified,clean,low,low,N,2025-07-19,annually,N,,True,3632351.95
+CUST_177002A8,Charles Hall,1958-01-19,"891 Cedar St, Indianapolis, IN",2023-06-06,Retail,verified,clean,low,high,N,2025-09-09,monthly,Y,Sanctions screening match,True,448753.51
+CUST_51AD0864,Charles Taylor,1969-07-11,"5250 Main St, Jacksonville, FL",2023-03-13,Small Business,expired,prior_flag,high,high,N,2025-06-28,quarterly,Y,Sanctions screening match,True,143110.69
+CUST_615248A9,Emily Martinez,1977-04-06,"8434 Oak St, New York, NY",2022-10-08,Retail,verified,under_investigation,medium,medium,N,2025-10-02,quarterly,Y,High transaction volume,True,299597.38
+CUST_3919818A,Sarah Young,2000-04-01,"7535 Pine St, Houston, TX",2023-07-07,Retail,verified,under_investigation,medium,medium,N,2025-07-17,quarterly,Y,High-risk jurisdiction,True,358409.2
+CUST_155CABB8,Dorothy Walker,2005-07-16,"3744 Main St, Austin, TX",2022-05-03,Retail,verified,clean,medium,medium,N,2025-10-18,quarterly,N,,True,79206.87
+CUST_85CDE191,William Rodriguez,1996-09-22,"683 Main St, San Diego, CA",2023-04-10,Small Business,pending,clean,medium,low,N,2025-09-20,annually,N,,True,69300.46
+CUST_CB9A9E6D,Richard Walker,1961-05-16,"8139 Cedar St, Boston, MA",2022-08-14,Retail,verified,clean,medium,low,N,2025-11-07,semi-annually,N,,True,105064.94
+CUST_78668285,Jessica Johnson,1965-10-13,"8131 Maple St, Boston, MA",2023-03-05,Retail,verified,cleared,low,low,N,2025-08-25,semi-annually,N,,True,179206.81
+CUST_5AD6F76F,Patricia Martinez,1956-05-14,"2198 Maple St, Charlotte, NC",2022-04-09,Corporate,verified,clean,low,low,N,2025-08-11,semi-annually,N,,True,3025241.02
+CUST_1909749C,Betty Davis,1966-09-07,"7066 Maple St, Dallas, TX",2022-01-30,Small Business,verified,clean,medium,medium,N,2025-07-30,quarterly,N,,True,456272.0
+CUST_090D0FA5,James Thomas,1989-01-10,"426 Main St, Fort Worth, TX",2022-08-13,Retail,verified,clean,low,low,N,2025-10-05,annually,N,,True,46036.1
+CUST_2D98103C,Matthew Hernandez,1998-09-03,"6225 Pine St, Columbus, OH",2022-12-28,Retail,verified,clean,low,low,N,2025-08-25,semi-annually,N,,True,108591.93
+CUST_259A04D9,Margaret Davis,2003-01-25,"4151 Main St, Dallas, TX",2022-01-14,Corporate,verified,clean,low,low,N,2025-05-30,semi-annually,N,,True,3762081.19
+CUST_2F96AF72,Donald Lewis,1974-03-27,"2587 Main St, Denver, CO",2023-01-22,Small Business,verified,clean,low,high,N,2025-11-04,monthly,Y,Large cash deposits,True,396517.38
+CUST_B5C7ACF4,Robert Robinson,1968-06-14,"1624 Oak St, Columbus, OH",2023-09-13,Retail,verified,clean,low,low,N,2025-08-03,annually,N,,True,280937.13
+CUST_5BF3B438,Patricia Martinez,1981-04-13,"6610 Oak St, San Francisco, CA",2023-12-21,Retail,verified,clean,low,low,N,2025-06-13,semi-annually,N,,False,185540.99
+CUST_B098BCC8,Charles Brown,1970-03-26,"7858 Cedar St, Denver, CO",2023-10-21,Retail,verified,under_investigation,low,low,N,2025-10-02,semi-annually,Y,Unusual transaction patterns,True,380530.22
+CUST_58A1A38E,Sarah Clark,1975-05-24,"9038 Maple St, Austin, TX",2023-05-21,Retail,verified,clean,low,low,N,2025-06-17,semi-annually,N,,True,479778.17
+CUST_09F489EE,Lisa Hernandez,1979-09-18,"2822 Oak St, San Francisco, CA",2023-04-18,Small Business,verified,clean,high,high,N,2025-09-27,monthly,Y,High-risk jurisdiction,True,435004.84
+CUST_BC26BAC0,Emily Johnson,1959-11-26,"5381 Cedar St, Jacksonville, FL",2023-03-11,Retail,verified,clean,low,low,N,2025-05-18,annually,N,,True,282341.38
+CUST_7C75E37E,Jessica Jones,1992-04-26,"7863 Main St, Austin, TX",2022-10-25,Retail,verified,clean,medium,low,N,2025-09-26,semi-annually,N,,True,208735.17
+CUST_C1BDD7AC,David Thomas,1968-12-07,"3803 Pine St, New York, NY",2022-03-10,Retail,verified,clean,low,low,N,2025-08-10,semi-annually,N,,True,464011.87
+CUST_30F0B6FE,James Martinez,1995-05-12,"4687 Oak St, Dallas, TX",2023-03-13,Retail,verified,clean,low,low,N,2025-10-12,semi-annually,N,,True,282266.22
+CUST_88F42F9E,David Lewis,1990-07-11,"143 Oak St, San Antonio, TX",2023-06-19,Retail,expired,clean,medium,medium,N,2025-07-09,quarterly,N,,True,46577.8
+CUST_AA893D98,Sandra Martin,1959-08-28,"2021 Oak St, Seattle, WA",2022-05-31,Retail,verified,prior_flag,low,low,N,2025-08-16,annually,N,,True,197230.08
+CUST_214C3F35,Anthony Gonzalez,1971-05-27,"9283 Maple St, Charlotte, NC",2023-12-25,Retail,verified,cleared,low,low,N,2025-10-02,annually,N,,True,347854.78
+CUST_AEAEE6BF,James Thompson,2006-07-21,"3229 Maple St, Jacksonville, FL",2022-05-04,Retail,verified,clean,low,medium,N,2025-06-03,quarterly,N,,True,90323.79
+CUST_0F8C21C4,Margaret Smith,1972-09-07,"7943 Maple St, Los Angeles, CA",2022-07-20,Retail,verified,clean,low,low,N,2025-10-30,annually,N,,True,497873.19
+CUST_0EF5EA57,Matthew Rodriguez,1952-10-27,"1802 Main St, Jacksonville, FL",2022-10-08,Retail,verified,clean,medium,medium,N,2025-05-26,quarterly,N,,True,15389.65
+CUST_53305CE6,Mark White,1996-03-28,"3281 Cedar St, New York, NY",2022-06-06,Small Business,verified,clean,low,high,N,2025-06-21,monthly,Y,Sanctions screening match,False,166999.83
+CUST_6317346A,Betty Walker,1994-03-19,"8316 Oak St, Dallas, TX",2022-11-21,Small Business,verified,clean,low,low,Y,2025-10-22,monthly,Y,PEP status,True,42900.38
+CUST_E9091FE4,Joseph Johnson,1961-12-17,"1510 Cedar St, San Francisco, CA",2022-10-10,Retail,expired,clean,low,low,N,2025-08-12,semi-annually,N,,True,44992.81
+CUST_C9B00034,Dorothy Williams,1954-03-11,"3230 Oak St, San Jose, CA",2022-07-06,Retail,verified,clean,high,high,N,2025-09-05,monthly,Y,Sanctions screening match,True,27614.32
+CUST_11FE5812,Matthew Martinez,1957-10-11,"8126 Pine St, Denver, CO",2022-07-02,Retail,verified,cleared,medium,medium,N,2025-07-18,quarterly,N,,True,182442.99
+CUST_4A7C73CC,Anthony Lee,2002-11-22,"4829 Oak St, Austin, TX",2023-06-20,Small Business,verified,clean,low,low,N,2025-08-11,annually,N,,True,350127.26
+CUST_7025386A,Thomas Moore,1981-04-09,"9336 Maple St, Denver, CO",2022-10-03,Retail,verified,clean,low,low,N,2025-06-10,annually,N,,True,450736.17
+CUST_2B451B8C,William White,1971-01-06,"456 Maple St, Boston, MA",2022-04-18,Retail,verified,prior_flag,low,low,N,2025-06-21,annually,N,,True,228766.39
+CUST_47127222,Charles White,1974-08-27,"8406 Main St, Columbus, OH",2023-03-22,Retail,verified,clean,medium,medium,N,2025-09-09,quarterly,N,,True,213521.22
+CUST_4D46D775,James Jackson,1950-03-17,"981 Main St, San Jose, CA",2023-02-15,Retail,verified,clean,low,low,N,2025-10-05,semi-annually,N,,True,396638.86
+CUST_19E072A2,David Lewis,1974-03-15,"4109 Oak St, Seattle, WA",2022-12-21,Retail,verified,clean,low,low,N,2025-07-19,semi-annually,N,,True,422988.53
+CUST_B2FEDB25,Jennifer Smith,1971-02-16,"5315 Oak St, Fort Worth, TX",2023-05-04,Retail,verified,clean,low,low,N,2025-10-14,semi-annually,N,,True,386856.96
+CUST_A46EC0C8,Mark Martinez,2004-07-20,"5668 Cedar St, New York, NY",2023-11-22,Retail,verified,clean,low,low,N,2025-09-08,semi-annually,N,,True,305672.7
+CUST_31DDD2F4,Anthony Gonzalez,1963-03-16,"7975 Main St, Dallas, TX",2022-03-21,Retail,verified,clean,low,low,N,2025-08-20,annually,N,,True,479297.86
+CUST_A1ACFC40,Linda Garcia,1992-09-27,"2209 Cedar St, Indianapolis, IN",2022-06-17,Retail,verified,clean,medium,medium,N,2025-11-04,quarterly,N,,True,192611.15
+CUST_3275FF2E,Joseph Smith,1991-07-14,"8865 Pine St, Houston, TX",2023-05-13,Small Business,verified,clean,low,high,N,2025-07-09,quarterly,Y,Large cash deposits,True,392961.87
+CUST_3435E459,Linda Moore,1992-02-05,"7714 Pine St, Los Angeles, CA",2023-01-28,Retail,verified,clean,medium,medium,N,2025-07-14,quarterly,N,,True,61654.17
+CUST_EBD39ECB,Patricia Anderson,2005-10-22,"7419 Pine St, San Jose, CA",2023-01-11,Retail,verified,clean,low,low,N,2025-08-08,annually,N,,True,318355.37
+CUST_97675597,Karen Brown,1951-09-24,"4099 Cedar St, Denver, CO",2023-01-01,Retail,verified,clean,low,low,N,2025-08-11,annually,N,,False,229751.37
+CUST_94F33CEF,Michael Hernandez,1958-10-24,"3113 Pine St, Chicago, IL",2023-01-17,Retail,high-risk,clean,medium,low,N,2025-07-22,annually,N,,True,418589.81
+CUST_E226D7D3,Linda Brown,1965-05-20,"3142 Pine St, Indianapolis, IN",2022-07-16,Retail,verified,clean,medium,medium,N,2025-07-19,quarterly,N,,True,336048.38
+CUST_EEA418C3,Karen Gonzalez,1967-05-01,"396 Pine St, San Diego, CA",2022-07-05,Retail,verified,clean,low,low,N,2025-10-14,annually,N,,True,32797.51
+CUST_05C2A053,Maria Harris,2001-08-19,"2586 Maple St, Charlotte, NC",2023-12-31,Retail,verified,clean,low,low,N,2025-08-11,annually,N,,True,106108.06
+CUST_6DC080E5,Matthew Garcia,1965-07-02,"5266 Maple St, San Francisco, CA",2023-11-21,Retail,verified,cleared,low,low,N,2025-08-22,annually,N,,True,15752.72
+CUST_1E3698F1,Karen Jackson,1971-10-14,"2123 Main St, Fort Worth, TX",2022-06-20,Retail,verified,clean,medium,low,N,2025-06-23,annually,N,,True,109934.38
+CUST_D7536050,Emily Jackson,2004-03-25,"6050 Main St, Austin, TX",2022-10-24,Small Business,verified,clean,medium,medium,N,2025-06-07,quarterly,N,,True,251650.03
+CUST_019AE2BA,Nancy Gonzalez,1974-08-25,"7702 Oak St, Houston, TX",2022-08-19,Retail,pending,clean,medium,medium,N,2025-06-24,quarterly,N,,True,192293.36
+CUST_FFF85AA0,Daniel Wilson,1961-11-01,"2827 Cedar St, Charlotte, NC",2023-03-05,Retail,high-risk,clean,low,medium,N,2025-08-16,quarterly,N,,True,342497.17
+CUST_0F4B9000,Jennifer Smith,1999-11-13,"3373 Pine St, Phoenix, AZ",2023-09-08,Retail,verified,clean,medium,low,N,2025-07-10,semi-annually,N,,False,147197.98
+CUST_B373FA31,Mark Smith,1978-08-08,"1244 Main St, Los Angeles, CA",2022-07-31,Retail,verified,clean,low,low,N,2025-09-28,annually,N,,True,341329.78
+CUST_FE21DE39,Linda Walker,2004-07-03,"1079 Pine St, Fort Worth, TX",2023-06-17,Small Business,verified,clean,high,high,N,2025-07-18,monthly,Y,Unusual transaction patterns,True,414325.56
+CUST_B027B8D3,Margaret Clark,1974-12-17,"5667 Oak St, San Diego, CA",2022-02-10,Retail,verified,prior_flag,low,medium,N,2025-09-25,quarterly,N,,True,397981.0
+CUST_27937334,Robert Rodriguez,1990-12-03,"4325 Cedar St, Dallas, TX",2022-04-10,Retail,verified,clean,medium,medium,N,2025-08-15,quarterly,N,,True,297619.64
+CUST_1E8AD0F9,Anthony Jones,1967-01-08,"7306 Pine St, Phoenix, AZ",2022-06-01,Small Business,verified,clean,medium,medium,N,2025-08-21,quarterly,N,,True,372122.85
+CUST_2A037CB2,Matthew Jones,1967-07-09,"2891 Pine St, Phoenix, AZ",2022-05-31,Retail,verified,clean,low,low,N,2025-07-08,annually,N,,True,293980.58
+CUST_6FE61B7F,Thomas Hernandez,1973-08-21,"3775 Oak St, Dallas, TX",2023-06-20,Retail,pending,clean,low,low,N,2025-09-11,annually,N,,True,304711.98
+CUST_246B4FFE,Margaret Lewis,1961-06-16,"6628 Main St, Austin, TX",2022-05-03,Retail,verified,prior_flag,medium,high,N,2025-09-17,monthly,Y,Sanctions screening match,True,254200.83
+CUST_88951F84,James Moore,1996-09-28,"3841 Maple St, Philadelphia, PA",2023-07-02,Retail,verified,clean,medium,high,N,2025-05-15,monthly,Y,Large cash deposits,True,21076.16
+CUST_12284BCF,Karen Rodriguez,1954-12-07,"7706 Main St, Seattle, WA",2023-07-20,Small Business,verified,clean,high,high,N,2025-06-11,monthly,Y,Suspicious activity report filed,True,440938.71
+CUST_E0645CE5,Sarah Hernandez,1961-08-04,"1927 Maple St, San Antonio, TX",2023-10-12,Retail,verified,clean,low,low,N,2025-06-12,semi-annually,N,,True,294879.83
+CUST_F0EA9DFE,Daniel Martin,1965-07-20,"4610 Cedar St, Indianapolis, IN",2023-04-13,Retail,verified,clean,low,low,N,2025-06-24,annually,N,,True,155093.2
+CUST_0FF75680,Joseph Brown,1949-06-17,"8924 Oak St, San Antonio, TX",2022-07-06,Retail,verified,clean,low,low,N,2025-08-12,annually,N,,True,389617.1
+CUST_9A889354,Anthony Davis,1981-05-11,"6591 Oak St, Philadelphia, PA",2022-08-07,Small Business,pending,clean,low,low,N,2025-09-28,annually,N,,True,305451.49
+CUST_53C8C5D0,Jessica Hernandez,1990-10-26,"5898 Pine St, San Francisco, CA",2023-06-13,Retail,verified,under_investigation,medium,high,N,2025-10-01,quarterly,Y,Sanctions screening match,True,154700.43
+CUST_BFAE2AFC,Charles Gonzalez,1997-07-02,"4293 Pine St, Jacksonville, FL",2023-03-04,Corporate,expired,clean,low,low,N,2025-09-15,semi-annually,N,,True,167211.04
+CUST_5BE54B52,Linda Lewis,1984-09-24,"9814 Maple St, Los Angeles, CA",2023-01-27,Retail,pending,clean,low,low,N,2025-07-08,annually,N,,False,390832.74
+CUST_64F6B417,Richard White,1964-05-20,"1312 Pine St, Columbus, OH",2023-12-25,Retail,verified,clean,low,low,N,2025-10-10,annually,N,,True,412331.04
+CUST_0A9F7F67,Ashley Jones,1985-04-18,"1214 Pine St, Jacksonville, FL",2023-08-27,Retail,verified,clean,low,low,N,2025-05-15,annually,N,,True,452646.64
+CUST_48FE5F0B,Joseph Harris,1969-08-08,"6830 Maple St, Fort Worth, TX",2022-08-08,Retail,verified,clean,low,medium,N,2025-10-03,quarterly,N,,True,403226.34
+CUST_BF48EC0D,Sandra Johnson,2007-09-12,"1337 Cedar St, Chicago, IL",2023-06-26,Retail,verified,clean,low,high,N,2025-06-13,quarterly,Y,Sanctions screening match,True,487139.54
+CUST_51B67C99,Anthony Brown,2000-09-28,"4636 Maple St, San Francisco, CA",2023-06-29,Small Business,verified,clean,medium,medium,N,2025-05-16,quarterly,N,,True,444788.54
+CUST_CAA0D166,Margaret Jones,1953-03-21,"6488 Main St, New York, NY",2023-10-29,Retail,verified,under_investigation,low,low,N,2025-06-13,annually,Y,Sanctions screening match,True,113389.74
+CUST_8BF1D506,Linda Jones,1963-10-22,"3477 Pine St, Philadelphia, PA",2022-09-23,Small Business,verified,prior_flag,medium,low,N,2025-09-20,semi-annually,N,,True,51347.35
+CUST_F9311B56,Nancy Martin,1957-09-12,"3659 Pine St, New York, NY",2022-02-10,Corporate,verified,clean,low,low,N,2025-08-30,annually,N,,True,729695.22
+CUST_3045AF05,Mark Anderson,1973-01-15,"2142 Main St, Philadelphia, PA",2022-05-07,Small Business,verified,clean,medium,medium,N,2025-08-02,quarterly,N,,True,253844.96
+CUST_00F34057,Charles Harris,1959-04-04,"5995 Maple St, Dallas, TX",2023-06-13,Corporate,high-risk,clean,medium,medium,N,2025-10-15,quarterly,N,,True,2568239.51
+CUST_FDE6973D,Joseph Smith,2000-07-13,"1483 Maple St, Charlotte, NC",2022-01-08,Corporate,verified,clean,low,low,N,2025-09-10,annually,N,,False,128457.65
+CUST_DCA759EC,James Harris,1969-01-05,"4901 Pine St, Boston, MA",2023-10-25,Small Business,verified,clean,low,low,Y,2025-10-23,monthly,Y,High-risk jurisdiction,True,208023.31
+CUST_1582DFD8,Jessica Wilson,1982-03-24,"6214 Pine St, Boston, MA",2022-06-26,Small Business,pending,clean,medium,medium,N,2025-09-16,quarterly,N,,True,161215.29
+CUST_A0029956,Sandra Smith,2005-08-02,"5812 Oak St, Chicago, IL",2022-12-06,Small Business,verified,clean,low,medium,N,2025-09-28,quarterly,N,,True,210521.56
+CUST_312A1DF5,Michael Brown,1975-09-15,"6089 Cedar St, Houston, TX",2023-05-03,Retail,verified,clean,low,low,N,2025-08-17,semi-annually,N,,True,239417.13
+CUST_0459D6A0,Margaret Robinson,1957-04-17,"3806 Pine St, Philadelphia, PA",2023-08-08,Retail,verified,clean,medium,medium,N,2025-06-03,quarterly,N,,True,365285.11
+CUST_6DA12ED1,Maria Hernandez,1991-10-17,"660 Maple St, Los Angeles, CA",2023-12-29,Retail,pending,clean,high,high,N,2025-06-12,monthly,Y,Large cash deposits,False,397303.23
+CUST_6E98B02E,Jessica Smith,1951-04-06,"7525 Cedar St, Dallas, TX",2022-05-27,Retail,pending,clean,low,low,N,2025-07-15,annually,N,,False,273393.83
+CUST_367928AD,Emily Harris,1998-09-11,"5709 Cedar St, Dallas, TX",2022-10-14,Retail,verified,clean,medium,medium,N,2025-05-22,quarterly,N,,True,32495.77
+CUST_A27EBF65,Jennifer Wilson,1983-03-04,"1459 Cedar St, Philadelphia, PA",2023-10-20,Retail,verified,clean,low,low,N,2025-07-15,annually,N,,True,199381.49
+CUST_EDDA4040,Mark Taylor,2002-11-08,"3875 Cedar St, Philadelphia, PA",2022-07-19,Small Business,verified,clean,low,low,N,2025-06-24,semi-annually,N,,True,187861.59
+CUST_22BCB5D3,Emily Thompson,1989-10-08,"6667 Pine St, Fort Worth, TX",2022-06-19,Small Business,expired,clean,medium,low,N,2025-10-26,annually,N,,False,450577.35
+CUST_6CDD2B88,Linda Young,1969-03-24,"2398 Oak St, Charlotte, NC",2023-05-03,Corporate,verified,clean,low,low,N,2025-10-23,semi-annually,N,,True,4121084.19
+CUST_55EA8AE5,Anthony Lewis,1999-03-21,"9699 Oak St, San Antonio, TX",2022-09-06,Retail,verified,clean,low,low,N,2025-07-28,semi-annually,N,,True,222247.3
+CUST_B8A90ED0,Betty Rodriguez,1989-02-17,"7544 Oak St, Chicago, IL",2022-12-02,Retail,verified,clean,low,low,N,2025-06-22,semi-annually,N,,True,440233.21
+CUST_810E2F64,Anthony Hall,1966-01-13,"9984 Cedar St, Jacksonville, FL",2022-12-16,Small Business,verified,clean,low,high,N,2025-09-11,quarterly,Y,High-risk jurisdiction,True,121405.0
+CUST_0A88AFA1,Ashley Thompson,1993-07-14,"4216 Pine St, Chicago, IL",2023-05-22,Retail,verified,clean,low,low,N,2025-07-23,annually,N,,True,7450.13
+CUST_DE4ED386,Matthew Lewis,1986-08-08,"6368 Main St, Boston, MA",2023-05-13,Retail,verified,clean,low,low,N,2025-06-05,annually,N,,True,54791.04
+CUST_41AAF6FC,Donald Lewis,1985-02-04,"7312 Maple St, Denver, CO",2023-10-21,Corporate,verified,clean,low,medium,N,2025-08-11,quarterly,N,,True,4323885.77
+CUST_AE682079,Sarah Gonzalez,1998-07-22,"4253 Pine St, Jacksonville, FL",2023-10-06,Corporate,verified,clean,low,low,N,2025-10-31,annually,N,,True,1794273.33
+CUST_4536B34D,Lisa Rodriguez,1952-06-15,"2918 Maple St, Chicago, IL",2023-04-02,Retail,verified,clean,low,low,N,2025-07-28,annually,N,,True,167547.87
+CUST_C422628E,Karen Moore,2002-05-04,"8053 Pine St, Austin, TX",2022-08-22,Corporate,verified,clean,low,medium,N,2025-09-01,quarterly,N,,True,4039192.62
+CUST_069EB5FF,Mark Lopez,1969-01-04,"1344 Oak St, Chicago, IL",2022-06-13,Retail,verified,clean,low,low,N,2025-07-29,semi-annually,N,,True,46180.57
+CUST_AFE79767,Karen Hall,2003-05-05,"1446 Pine St, San Diego, CA",2023-11-11,Small Business,pending,clean,medium,low,N,2025-06-03,annually,N,,True,221825.49
+CUST_559AB048,Sarah Davis,1991-05-01,"4962 Oak St, New York, NY",2023-07-16,Retail,verified,clean,medium,medium,N,2025-09-13,quarterly,N,,True,428908.14
+CUST_6A947AAB,Patricia Robinson,1984-09-19,"6063 Pine St, Columbus, OH",2023-03-26,Retail,verified,clean,low,low,N,2025-09-02,annually,N,,True,185744.02
+CUST_01D02EEF,Mark Hall,1983-06-03,"8414 Maple St, Seattle, WA",2022-08-29,Corporate,high-risk,clean,low,low,N,2025-10-14,semi-annually,N,,False,1601749.67
+CUST_1766CA3D,Sandra Robinson,1995-06-23,"7246 Main St, Philadelphia, PA",2023-09-11,Small Business,verified,clean,high,high,N,2025-06-02,quarterly,Y,Unusual transaction patterns,True,12035.48
+CUST_620ACE48,Joseph Moore,2006-06-16,"2284 Maple St, San Antonio, TX",2023-10-28,Small Business,verified,clean,low,low,N,2025-06-07,semi-annually,N,,True,331238.61
+CUST_6CE8AEC8,Maria Moore,1968-06-08,"967 Pine St, Denver, CO",2023-12-15,Retail,verified,clean,medium,medium,N,2025-08-19,quarterly,N,,True,60722.01
+CUST_681E27A5,Michael Martin,1975-12-06,"1642 Maple St, Denver, CO",2022-03-07,Small Business,verified,clean,low,low,N,2025-10-08,annually,N,,True,350763.37
+CUST_7A5C877E,Betty Gonzalez,1993-08-05,"3386 Oak St, Jacksonville, FL",2023-02-22,Small Business,verified,clean,low,low,N,2025-09-21,semi-annually,N,,True,492832.38
+CUST_2A7C1A81,Daniel Williams,1997-02-17,"8769 Main St, New York, NY",2022-12-14,Retail,verified,clean,medium,medium,N,2025-11-07,quarterly,N,,False,164102.97
+CUST_75A7D8B2,Maria Smith,1972-02-06,"2998 Maple St, Philadelphia, PA",2023-08-05,Retail,verified,clean,low,low,N,2025-06-07,semi-annually,N,,True,254157.04
+CUST_EB13ACCD,Donald Robinson,1988-01-18,"2842 Main St, Charlotte, NC",2023-04-01,Small Business,expired,under_investigation,medium,medium,N,2025-05-17,quarterly,Y,PEP status,True,97386.69
+CUST_6CB5989D,David Martin,1991-09-27,"6723 Main St, Jacksonville, FL",2022-12-12,Retail,verified,clean,low,low,N,2025-07-05,semi-annually,N,,True,30253.47
+CUST_24C563AD,Dorothy Thomas,1997-10-04,"3344 Pine St, Columbus, OH",2023-11-07,Small Business,pending,clean,low,high,N,2025-08-27,monthly,Y,Sanctions screening match,True,202714.8
+CUST_FB57858A,Richard Williams,1980-02-11,"3181 Main St, San Jose, CA",2023-05-18,Retail,high-risk,clean,low,medium,N,2025-06-25,quarterly,N,,True,446154.18
+CUST_769963E5,Margaret Young,1960-11-11,"8429 Cedar St, Philadelphia, PA",2023-08-08,Small Business,verified,clean,medium,low,N,2025-05-16,semi-annually,N,,True,254864.05
+CUST_ED852A10,Betty White,1955-08-06,"6350 Oak St, Houston, TX",2022-02-15,Small Business,verified,clean,medium,medium,N,2025-11-04,quarterly,N,,True,462231.81
+CUST_AD7A44F2,John Young,2001-06-06,"4330 Maple St, Denver, CO",2022-09-04,Corporate,verified,clean,medium,medium,N,2025-09-05,quarterly,N,,True,3565353.52
+CUST_5CFD9CFB,Mark Lee,2005-11-24,"6579 Main St, San Francisco, CA",2022-11-14,Corporate,verified,clean,medium,high,Y,2025-07-06,monthly,Y,Sanctions screening match,True,687996.82
+CUST_76DB699A,Matthew Davis,1956-02-06,"6624 Pine St, Seattle, WA",2022-03-14,Corporate,verified,under_investigation,medium,medium,N,2025-05-17,quarterly,Y,Large cash deposits,False,1467872.85
+CUST_620674F3,Ashley Jackson,1997-02-13,"1891 Main St, San Diego, CA",2022-09-25,Small Business,verified,clean,medium,medium,N,2025-10-29,quarterly,N,,True,19977.6
+CUST_96BF24CE,Richard Garcia,1993-02-08,"816 Cedar St, New York, NY",2022-03-27,Retail,verified,clean,low,low,N,2025-09-15,semi-annually,N,,True,474346.12
+CUST_70479137,William Walker,1971-08-07,"7290 Main St, San Francisco, CA",2022-09-14,Corporate,expired,clean,low,low,N,2025-08-14,semi-annually,N,,True,393445.27
+CUST_0D7D02CE,Lisa Martin,1984-03-05,"2450 Main St, San Diego, CA",2023-06-26,Retail,verified,clean,low,low,N,2025-08-17,semi-annually,N,,True,3944.9
+CUST_E34FC791,John Jackson,1973-10-04,"6436 Maple St, San Diego, CA",2022-03-01,Small Business,verified,clean,medium,high,N,2025-06-14,quarterly,Y,Large cash deposits,True,341757.71
+CUST_EEEE090F,Karen Rodriguez,1978-08-05,"6130 Main St, Columbus, OH",2022-12-20,Retail,verified,clean,medium,low,N,2025-09-03,annually,N,,True,402919.79
+CUST_166D0D97,David Johnson,1994-09-28,"6464 Maple St, Jacksonville, FL",2023-04-16,Retail,verified,under_investigation,low,low,N,2025-07-13,annually,Y,Large cash deposits,True,169562.86
+CUST_9E71CC8E,Betty Gonzalez,1982-04-08,"6788 Pine St, San Jose, CA",2022-05-17,Retail,pending,clean,low,low,N,2025-06-20,annually,N,,True,107543.33
+CUST_A0BEFF7C,David Thomas,1990-08-10,"7174 Oak St, San Francisco, CA",2022-04-22,Corporate,verified,clean,high,high,N,2025-05-23,monthly,Y,Unusual transaction patterns,False,167985.21
+CUST_1CE0BA73,Robert Gonzalez,1960-05-24,"2239 Maple St, Austin, TX",2023-08-05,Retail,verified,prior_flag,medium,medium,N,2025-08-18,quarterly,N,,True,305568.66
+CUST_D8D1C1E7,Anthony Martin,1989-01-22,"5944 Oak St, Phoenix, AZ",2023-06-28,Retail,pending,prior_flag,low,low,N,2025-08-19,semi-annually,N,,False,479020.34
+CUST_6B31F674,Maria Robinson,1988-06-19,"8821 Cedar St, Columbus, OH",2022-03-09,Corporate,verified,clean,medium,high,N,2025-09-30,monthly,Y,PEP status,True,833488.09
+CUST_24165E47,Nancy Lee,1966-12-28,"2892 Main St, Denver, CO",2023-04-26,Corporate,verified,clean,high,high,N,2025-08-02,monthly,Y,Unusual transaction patterns,True,3456201.41
+CUST_38C52234,Donald Lopez,1985-03-15,"5016 Maple St, Phoenix, AZ",2023-03-28,Small Business,verified,prior_flag,high,low,N,2025-09-23,semi-annually,N,,True,56374.94
+CUST_E8730CC5,Dorothy Lewis,1989-06-10,"3246 Cedar St, Dallas, TX",2023-11-16,Small Business,verified,clean,high,high,N,2025-09-25,quarterly,Y,Sanctions screening match,True,491036.16
+CUST_DA6A5D3F,Mark Hall,1969-03-02,"1414 Pine St, Seattle, WA",2022-01-25,Retail,high-risk,clean,medium,medium,N,2025-05-23,quarterly,N,,True,16655.53
+CUST_5BB0A910,Ashley Hall,1996-10-01,"8498 Maple St, Columbus, OH",2023-10-02,Retail,verified,clean,low,low,N,2025-08-14,annually,N,,True,353932.98
+CUST_3A3B6CBA,David Lopez,1961-08-10,"476 Oak St, Houston, TX",2022-09-25,Retail,verified,clean,medium,medium,N,2025-06-30,quarterly,N,,True,122237.55
+CUST_92C30016,Jessica Lopez,1985-04-25,"7649 Pine St, Houston, TX",2022-03-08,Retail,verified,clean,low,low,N,2025-09-29,semi-annually,N,,True,306670.03
+CUST_622DCB29,Sarah White,2007-12-03,"8772 Oak St, Charlotte, NC",2022-05-23,Retail,verified,clean,medium,medium,N,2025-10-18,quarterly,N,,True,408957.91
+CUST_C6523C71,Matthew Thomas,1960-08-10,"8980 Cedar St, San Antonio, TX",2023-09-12,Small Business,verified,clean,medium,medium,N,2025-09-18,quarterly,N,,True,350283.54
+CUST_D86E87EC,Matthew Clark,1960-06-25,"5748 Oak St, Indianapolis, IN",2022-03-19,Corporate,verified,clean,low,low,N,2025-09-13,annually,N,,True,84566.19
+CUST_C8667D3C,Mark Thompson,1997-03-03,"1545 Pine St, Denver, CO",2022-09-15,Retail,verified,clean,low,low,N,2025-11-04,annually,N,,False,385921.67
+CUST_C35B3631,Dorothy Lopez,1987-11-03,"5235 Cedar St, San Antonio, TX",2023-12-16,Retail,verified,prior_flag,medium,medium,N,2025-08-23,quarterly,N,,True,114827.7
+CUST_B5D34371,Jessica Johnson,1975-08-15,"6417 Maple St, New York, NY",2023-12-09,Retail,verified,prior_flag,medium,medium,N,2025-09-29,quarterly,N,,True,436807.52
+CUST_D12CDDCF,Sandra Hernandez,1989-03-13,"7837 Oak St, Dallas, TX",2023-01-26,Retail,pending,clean,low,low,N,2025-10-14,semi-annually,N,,True,169320.29
+CUST_4A7FD60E,John Thomas,1968-09-09,"5396 Maple St, Boston, MA",2023-02-06,Retail,verified,under_investigation,low,low,N,2025-08-09,semi-annually,Y,High transaction volume,True,145371.61
+CUST_DA8701B3,Lisa Taylor,1962-07-16,"4718 Pine St, Jacksonville, FL",2023-05-22,Retail,verified,clean,low,low,N,2025-06-07,semi-annually,N,,True,403755.02
+CUST_62FA31B2,Ashley Jones,1979-02-01,"7901 Pine St, Seattle, WA",2023-01-14,Retail,verified,clean,low,low,N,2025-05-29,annually,N,,False,171037.91
+CUST_197E7870,Sandra Hernandez,2006-03-11,"417 Pine St, Indianapolis, IN",2023-12-17,Small Business,verified,clean,medium,high,N,2025-07-05,monthly,Y,High-risk jurisdiction,True,440483.35
+CUST_A5C5926E,Richard Clark,1969-02-17,"6060 Main St, Charlotte, NC",2022-06-01,Retail,expired,clean,low,low,N,2025-08-29,semi-annually,N,,True,124046.22
+CUST_48A34F28,Daniel Smith,2001-10-16,"9890 Cedar St, Houston, TX",2022-12-02,Retail,verified,clean,medium,low,N,2025-05-26,semi-annually,N,,True,148514.17
+CUST_91911B7F,Sarah Harris,2000-09-10,"7004 Main St, Jacksonville, FL",2022-07-19,Retail,pending,clean,low,low,N,2025-11-01,annually,N,,True,233004.8
+CUST_44A1CE03,Dorothy Jones,1973-09-06,"5388 Main St, Houston, TX",2023-04-03,Retail,verified,clean,medium,high,N,2025-08-27,quarterly,Y,PEP status,True,27159.32
+CUST_FED05D33,William Moore,1958-06-27,"5408 Cedar St, Denver, CO",2023-05-04,Small Business,verified,clean,medium,medium,N,2025-10-30,quarterly,N,,True,20651.36
+CUST_ED873F40,Thomas Johnson,1980-02-03,"5729 Main St, Charlotte, NC",2024-01-01,Retail,verified,clean,low,low,N,2025-08-13,annually,N,,True,200879.38
+CUST_8D2EB70F,Sarah Taylor,1999-07-23,"9237 Main St, Los Angeles, CA",2023-03-03,Retail,verified,clean,medium,low,N,2025-09-10,annually,N,,True,321808.38
+CUST_19224E78,Matthew Davis,1951-04-25,"485 Maple St, Seattle, WA",2023-05-06,Retail,verified,clean,low,high,N,2025-06-30,monthly,Y,Suspicious activity report filed,True,34912.81
+CUST_28C05FB8,Robert Jackson,1963-10-16,"220 Cedar St, San Jose, CA",2022-02-06,Retail,verified,prior_flag,medium,medium,N,2025-09-14,quarterly,N,,True,133557.71
+CUST_24F7A95F,Jennifer Taylor,2002-04-25,"8485 Maple St, San Antonio, TX",2023-02-02,Retail,verified,clean,low,low,N,2025-07-16,semi-annually,N,,True,93231.19
+CUST_0363870B,Sarah Gonzalez,2004-04-07,"990 Oak St, Denver, CO",2022-04-20,Small Business,verified,clean,medium,medium,N,2025-08-22,quarterly,N,,True,445213.05
+CUST_6341D7BE,Donald Rodriguez,1950-05-01,"8155 Maple St, Seattle, WA",2022-08-11,Retail,verified,clean,low,high,N,2025-06-06,quarterly,Y,Suspicious activity report filed,True,298773.45
+CUST_3B3B5F6A,Sandra Thompson,1988-02-01,"2713 Main St, Los Angeles, CA",2022-09-12,Small Business,expired,under_investigation,medium,medium,N,2025-08-02,quarterly,Y,Large cash deposits,True,184656.83
+CUST_1D81EACF,Daniel Miller,2005-06-03,"597 Maple St, Philadelphia, PA",2023-03-10,Retail,verified,clean,low,low,N,2025-09-16,annually,N,,True,8157.67
+CUST_0AC50119,Michael Harris,2004-10-23,"589 Main St, Charlotte, NC",2022-08-29,Retail,verified,clean,low,low,N,2025-07-29,semi-annually,N,,True,216811.27
+CUST_79F01E79,Joseph Wilson,1985-01-22,"3181 Oak St, San Francisco, CA",2022-06-29,Retail,verified,clean,medium,high,N,2025-05-20,monthly,Y,Sanctions screening match,False,405366.61
+CUST_B996B105,Daniel Johnson,2003-07-18,"7841 Cedar St, Philadelphia, PA",2023-07-31,Corporate,verified,clean,medium,medium,N,2025-06-07,quarterly,N,,True,1897673.94
+CUST_9B86D3AE,Mark Lopez,1958-06-24,"8202 Cedar St, Columbus, OH",2023-07-19,Retail,verified,cleared,low,medium,N,2025-05-19,quarterly,N,,True,180804.1
+CUST_A01435D3,Linda Williams,2005-03-11,"2476 Cedar St, Austin, TX",2023-09-09,Corporate,verified,clean,medium,low,N,2025-07-01,annually,N,,False,2724044.66
+CUST_B36443CA,Donald Harris,2000-10-05,"166 Pine St, Seattle, WA",2022-06-13,Corporate,verified,prior_flag,medium,low,N,2025-06-27,semi-annually,N,,True,3339952.85
+CUST_EF64DEDF,Jessica Harris,1994-06-16,"5852 Maple St, Houston, TX",2022-08-21,Retail,verified,clean,medium,medium,N,2025-07-30,quarterly,N,,True,113681.59
+CUST_0E84731E,Daniel Anderson,1993-04-23,"6753 Pine St, San Antonio, TX",2022-06-09,Retail,verified,clean,medium,medium,N,2025-08-21,quarterly,N,,True,271441.47
+CUST_D337044A,Emily Robinson,1950-01-10,"273 Cedar St, San Jose, CA",2022-07-15,Retail,verified,clean,low,low,N,2025-08-08,annually,N,,True,172241.62
+CUST_25737D2D,Jennifer Miller,1988-10-16,"6387 Cedar St, Houston, TX",2022-11-08,Retail,expired,clean,low,low,N,2025-05-12,annually,N,,True,211928.13
+CUST_1924FB6F,Charles Martin,1980-01-13,"5627 Oak St, Boston, MA",2022-12-26,Retail,verified,clean,low,low,N,2025-07-14,semi-annually,N,,True,492016.12
+CUST_8736B667,Sarah Hernandez,1998-12-28,"8325 Oak St, San Francisco, CA",2022-11-14,Retail,verified,clean,low,low,N,2025-07-01,semi-annually,N,,True,138095.83
+CUST_E82F68E3,Charles Gonzalez,1995-01-09,"1896 Oak St, Chicago, IL",2023-07-03,Retail,pending,clean,low,low,N,2025-06-07,annually,N,,True,100362.42
+CUST_13531966,Patricia Davis,1998-12-26,"2002 Main St, Philadelphia, PA",2022-01-06,Retail,verified,clean,low,low,N,2025-09-10,annually,N,,True,70463.45
+CUST_0B947BEF,Margaret Martin,1977-08-12,"7248 Cedar St, Columbus, OH",2023-07-31,Small Business,pending,clean,low,low,N,2025-07-09,annually,N,,True,34402.34
+CUST_DE79B80A,Michael Rodriguez,1979-07-17,"6216 Cedar St, Dallas, TX",2023-11-12,Corporate,verified,clean,high,high,N,2025-07-16,monthly,Y,Large cash deposits,False,2415504.72
+CUST_BF157D1A,Sandra Thompson,1975-02-18,"4456 Cedar St, Indianapolis, IN",2022-07-09,Retail,verified,clean,low,low,N,2025-10-10,semi-annually,N,,True,5419.89
+CUST_97077751,Mark Lewis,2007-04-28,"8453 Oak St, Chicago, IL",2022-05-21,Retail,verified,clean,low,low,N,2025-10-01,semi-annually,N,,True,239366.51
+CUST_B472CE76,Michael Jackson,1989-07-27,"553 Oak St, Jacksonville, FL",2022-06-18,Retail,verified,clean,medium,medium,N,2025-08-17,quarterly,N,,True,195997.34
+CUST_AC163EC8,Karen Robinson,2007-03-16,"8245 Main St, Columbus, OH",2022-08-19,Retail,verified,clean,medium,medium,N,2025-06-07,quarterly,N,,True,300311.07
+CUST_48674D4A,Linda Williams,1994-03-25,"5148 Maple St, Indianapolis, IN",2023-07-30,Retail,verified,prior_flag,low,low,N,2025-06-23,annually,N,,True,244405.97
+CUST_400AB7CE,Anthony Walker,1993-09-22,"1131 Pine St, Dallas, TX",2023-12-06,Retail,verified,clean,low,low,N,2025-06-24,annually,N,,True,467146.27
+CUST_4D30E1AF,Ashley Martinez,1963-06-11,"9893 Maple St, San Antonio, TX",2023-09-01,Corporate,verified,prior_flag,medium,medium,N,2025-07-25,quarterly,N,,True,3853154.56
+CUST_E735470C,Mark Lewis,1998-12-10,"4875 Oak St, San Antonio, TX",2022-05-23,Retail,verified,clean,low,low,N,2025-10-08,semi-annually,N,,True,299467.49
+CUST_F6AD2D0E,Daniel Robinson,2005-11-26,"4237 Main St, Fort Worth, TX",2022-12-12,Retail,verified,clean,low,low,N,2025-09-03,semi-annually,N,,True,406744.15
+CUST_E3FD6517,Richard Smith,2000-05-16,"9852 Main St, Charlotte, NC",2022-03-10,Retail,verified,clean,high,high,N,2025-07-21,monthly,Y,Large cash deposits,False,219148.94
+CUST_BED381C1,William Brown,1956-06-25,"754 Cedar St, Los Angeles, CA",2022-05-24,Small Business,verified,clean,low,low,N,2025-05-16,semi-annually,N,,True,5918.19
+CUST_54AACF1E,William Martin,1976-04-08,"3702 Oak St, Fort Worth, TX",2022-10-11,Retail,pending,clean,low,low,N,2025-06-19,semi-annually,N,,True,102367.46
+CUST_A6819E48,Karen Smith,1985-12-20,"2943 Oak St, Dallas, TX",2022-06-14,Corporate,verified,prior_flag,low,low,N,2025-06-04,annually,N,,True,581565.2
+CUST_72BA3AD8,Lisa Thompson,1986-10-28,"477 Cedar St, Dallas, TX",2022-11-12,Retail,verified,clean,low,low,N,2025-06-03,annually,N,,True,103359.25
+CUST_A34EB7F3,Betty Thomas,2005-09-11,"6287 Oak St, Fort Worth, TX",2023-03-24,Retail,verified,clean,low,low,N,2025-06-07,semi-annually,N,,True,104358.32
+CUST_45D74509,William Lopez,1964-12-10,"458 Maple St, Denver, CO",2023-02-19,Small Business,expired,clean,low,low,N,2025-07-15,semi-annually,N,,True,173246.89
+CUST_702A6AD0,Richard Smith,1995-08-14,"8573 Cedar St, Indianapolis, IN",2023-05-18,Retail,verified,cleared,low,low,N,2025-09-12,semi-annually,N,,True,405260.93
+CUST_CD5F83D9,Ashley Johnson,1952-04-03,"2420 Maple St, Dallas, TX",2023-01-26,Small Business,verified,clean,low,low,N,2025-07-15,annually,N,,True,435633.35
+CUST_E48A2972,Jessica Davis,1959-09-03,"7034 Oak St, San Diego, CA",2023-02-24,Retail,verified,clean,low,low,N,2025-08-26,semi-annually,N,,True,9573.72
+CUST_7EC7D728,Robert Martin,1953-02-09,"4124 Main St, Austin, TX",2023-12-31,Small Business,verified,clean,low,medium,N,2025-06-24,quarterly,N,,False,427848.26
+CUST_867D1ADF,Anthony Rodriguez,1950-09-17,"7676 Oak St, San Francisco, CA",2023-06-10,Small Business,verified,prior_flag,low,low,N,2025-06-14,annually,N,,True,88397.36
+CUST_14098DCB,Emily White,1989-10-25,"8702 Maple St, Indianapolis, IN",2022-09-12,Retail,verified,clean,high,high,N,2025-06-20,quarterly,Y,High-risk jurisdiction,True,177613.81
+CUST_5016469D,Karen Jackson,1965-09-14,"6856 Maple St, Fort Worth, TX",2023-02-19,Retail,verified,clean,medium,low,N,2025-10-09,annually,N,,True,150459.46
+CUST_F8574FBB,John Hernandez,1997-01-07,"3820 Maple St, Dallas, TX",2023-05-14,Retail,pending,clean,low,high,N,2025-09-06,quarterly,Y,PEP status,True,243901.14
+CUST_263804DF,Joseph White,2005-04-15,"6433 Maple St, Chicago, IL",2023-04-22,Retail,verified,clean,high,high,N,2025-10-25,quarterly,Y,Sanctions screening match,True,299520.0
+CUST_98C735F6,Jennifer Robinson,1979-01-28,"9301 Pine St, Los Angeles, CA",2023-06-09,Small Business,verified,clean,low,low,N,2025-10-01,semi-annually,N,,True,13317.07
+CUST_84F03A21,Robert Lee,1950-08-13,"7200 Cedar St, Los Angeles, CA",2023-06-18,Retail,verified,clean,low,medium,N,2025-07-18,quarterly,N,,True,333493.69
+CUST_D7E49B7F,Nancy Harris,1953-03-27,"4618 Maple St, San Diego, CA",2023-08-03,Retail,verified,clean,low,low,N,2025-10-15,semi-annually,N,,True,21903.93
+CUST_5CB9D42B,Maria Smith,1975-10-07,"713 Pine St, Charlotte, NC",2022-05-17,Retail,verified,clean,medium,low,N,2025-10-22,semi-annually,N,,True,393719.06
+CUST_E7EA889C,Lisa Anderson,1980-02-03,"9077 Pine St, Austin, TX",2022-06-19,Retail,verified,clean,medium,medium,N,2025-09-02,quarterly,N,,True,263827.87
+CUST_73A59857,Betty Thompson,1992-05-26,"6730 Main St, Denver, CO",2023-08-27,Retail,verified,clean,medium,medium,N,2025-06-30,quarterly,N,,True,150870.9
+CUST_73329BDD,Ashley Rodriguez,1958-09-08,"6969 Cedar St, Austin, TX",2022-04-20,Small Business,verified,clean,low,low,N,2025-07-25,annually,N,,True,150243.18
+CUST_FE9814A4,Lisa Garcia,1991-02-25,"6168 Main St, San Jose, CA",2023-10-01,Retail,verified,clean,medium,medium,N,2025-10-31,quarterly,N,,True,118605.48
+CUST_55A314CE,Mark Thomas,1962-07-14,"1448 Main St, Phoenix, AZ",2023-02-10,Small Business,verified,clean,low,low,N,2025-10-17,annually,N,,True,270644.86
+CUST_B1FDBA4D,Patricia Young,2000-12-21,"5509 Main St, Los Angeles, CA",2022-04-05,Retail,verified,clean,low,high,N,2025-10-28,monthly,Y,PEP status,True,498161.45
+CUST_CE68C48D,Michael Johnson,2001-04-26,"1164 Maple St, Boston, MA",2023-09-22,Retail,verified,clean,low,low,N,2025-06-04,semi-annually,N,,True,426345.32
+CUST_C74C26B1,Jessica Lee,1955-08-20,"5120 Pine St, Fort Worth, TX",2023-12-18,Retail,verified,clean,low,low,N,2025-08-08,annually,N,,False,209566.83
+CUST_6CD42EE8,Dorothy Davis,1969-04-08,"1303 Pine St, Austin, TX",2022-11-13,Retail,verified,prior_flag,medium,medium,N,2025-07-16,quarterly,N,,True,344175.18
+CUST_1E5DD819,Charles Davis,1975-02-21,"3237 Pine St, Chicago, IL",2023-05-09,Retail,verified,clean,low,low,N,2025-08-06,semi-annually,N,,True,25407.18
+CUST_4047D93F,Donald Walker,1960-08-15,"9382 Oak St, New York, NY",2022-09-16,Retail,verified,clean,low,low,N,2025-05-23,annually,N,,True,434717.91
+CUST_FA99D34E,Jessica Rodriguez,1980-06-05,"251 Pine St, Austin, TX",2023-03-02,Retail,verified,clean,low,low,N,2025-07-24,semi-annually,N,,True,400304.1
+CUST_6B5C5BD1,Jennifer Hernandez,1979-09-07,"745 Maple St, Denver, CO",2022-01-03,Retail,verified,clean,low,low,N,2025-07-19,semi-annually,N,,True,274014.47
+CUST_28CDB024,Nancy Clark,1967-06-01,"3751 Maple St, Dallas, TX",2023-04-13,Retail,verified,prior_flag,low,low,N,2025-08-19,semi-annually,N,,True,150840.97
+CUST_5F6F03F1,Daniel Walker,1963-11-19,"1346 Pine St, Seattle, WA",2022-02-09,Retail,verified,cleared,low,low,N,2025-11-07,annually,N,,True,407397.91
+CUST_F76C8738,Nancy Wilson,2004-12-26,"4811 Main St, San Diego, CA",2022-01-17,Small Business,verified,clean,medium,medium,N,2025-06-24,quarterly,N,,True,462888.95
+CUST_82AFA5B8,Richard Moore,1983-11-07,"4312 Maple St, Philadelphia, PA",2022-12-03,Retail,verified,clean,low,low,N,2025-09-25,annually,N,,True,453071.32
+CUST_D4B8E897,Robert Harris,1955-05-10,"1181 Pine St, Philadelphia, PA",2022-06-17,Corporate,verified,clean,medium,medium,N,2025-11-07,quarterly,N,,False,611185.26
+CUST_29DB50EE,Joseph Hernandez,1998-09-15,"9034 Pine St, New York, NY",2022-05-05,Retail,verified,clean,low,low,N,2025-07-31,semi-annually,N,,True,455549.05
+CUST_DF9D8A69,Karen Lewis,1959-03-11,"7184 Main St, Indianapolis, IN",2022-03-30,Retail,verified,under_investigation,medium,medium,N,2025-10-31,quarterly,Y,Sanctions screening match,True,388155.22
+CUST_8E36D4B4,Richard Miller,1988-11-16,"7601 Maple St, Austin, TX",2022-06-21,Small Business,high-risk,clean,medium,medium,N,2025-07-04,quarterly,N,,True,321621.16
+CUST_CB2F965B,Robert Young,1977-04-01,"1496 Oak St, Houston, TX",2022-02-12,Retail,verified,clean,low,medium,N,2025-08-19,quarterly,N,,True,297729.6
+CUST_5D82253B,Nancy Clark,1957-08-16,"4907 Main St, Houston, TX",2022-04-30,Retail,verified,prior_flag,low,high,N,2025-08-20,monthly,Y,High-risk jurisdiction,True,28401.59
+CUST_CF8DAC40,Maria Thompson,1965-07-05,"528 Pine St, Austin, TX",2022-05-21,Retail,expired,clean,medium,medium,N,2025-08-23,quarterly,N,,True,93203.3
+CUST_CB2E6D70,Michael Walker,1987-10-28,"3893 Main St, Dallas, TX",2022-05-21,Retail,verified,clean,low,low,N,2025-06-11,semi-annually,N,,True,156432.77
+CUST_4AB3EAFF,Anthony Moore,1954-12-18,"6984 Main St, Austin, TX",2023-07-09,Corporate,pending,clean,high,high,N,2025-10-28,quarterly,Y,Sanctions screening match,False,1381788.54
+CUST_4D080B44,Sarah Jones,1986-01-04,"3133 Cedar St, Houston, TX",2022-03-12,Small Business,verified,clean,low,low,N,2025-10-18,semi-annually,N,,True,315788.6
+CUST_78D4605E,John Thomas,1994-03-06,"3172 Maple St, Seattle, WA",2022-08-12,Small Business,verified,clean,medium,medium,N,2025-08-30,quarterly,N,,True,119717.94
+CUST_62FE7960,Linda Miller,1973-04-27,"2142 Maple St, Dallas, TX",2023-09-20,Retail,verified,prior_flag,low,low,N,2025-06-03,semi-annually,N,,True,324520.47
+CUST_FBB8AAE3,Patricia Smith,1986-04-24,"4195 Main St, Chicago, IL",2022-04-28,Retail,verified,clean,low,low,N,2025-10-28,semi-annually,N,,True,342350.02
+CUST_FC5FAFD9,David Miller,1985-01-21,"6141 Pine St, Columbus, OH",2022-10-11,Retail,verified,clean,low,low,N,2025-05-26,semi-annually,N,,True,189983.6
+CUST_63EA7154,Thomas Thompson,1991-04-28,"7267 Main St, Dallas, TX",2022-10-09,Retail,pending,prior_flag,low,low,N,2025-07-05,annually,N,,False,2525.64
+CUST_78BF7919,Joseph Garcia,2005-01-24,"8776 Main St, Denver, CO",2022-03-04,Retail,pending,clean,low,low,N,2025-11-04,annually,N,,True,227760.1
+CUST_8633C87B,Maria Lee,1961-12-28,"6400 Oak St, Seattle, WA",2022-08-18,Retail,verified,clean,low,low,N,2025-09-08,semi-annually,N,,True,255339.16
+CUST_FB039721,Dorothy Jones,1995-06-17,"1855 Oak St, San Jose, CA",2022-04-23,Retail,verified,clean,low,low,N,2025-06-15,semi-annually,N,,False,126797.28
+CUST_3BBC4560,Lisa Clark,2003-10-19,"9174 Maple St, Denver, CO",2023-11-16,Small Business,verified,clean,medium,medium,N,2025-11-02,quarterly,N,,True,171306.83
+CUST_B208C4B9,Patricia Miller,1995-05-24,"3315 Oak St, Austin, TX",2022-07-11,Small Business,verified,clean,low,low,N,2025-10-14,annually,N,,True,23855.91
+CUST_2BB065DE,William Lopez,1964-09-11,"3458 Maple St, Columbus, OH",2023-04-28,Retail,verified,clean,low,low,N,2025-07-25,semi-annually,N,,True,267955.38
+CUST_86EB0EC3,Margaret Williams,1984-08-23,"9744 Maple St, San Antonio, TX",2022-04-16,Retail,verified,clean,medium,low,N,2025-10-08,annually,N,,False,47648.0
+CUST_FB880A29,Dorothy Davis,1954-05-26,"204 Maple St, San Antonio, TX",2023-09-19,Retail,verified,clean,medium,medium,N,2025-09-26,quarterly,N,,True,398065.42
+CUST_571B7F74,Mark Hernandez,1981-10-08,"9466 Main St, Dallas, TX",2022-04-13,Corporate,verified,clean,low,low,N,2025-11-01,semi-annually,N,,True,1003095.9
+CUST_AEDC2083,Donald Garcia,1951-12-06,"3445 Pine St, San Jose, CA",2022-08-28,Retail,verified,clean,low,low,N,2025-10-30,semi-annually,N,,True,417538.45
+CUST_7A72C2D9,Linda Jones,2002-03-16,"2618 Maple St, Houston, TX",2023-12-06,Retail,verified,prior_flag,low,low,N,2025-09-28,semi-annually,N,,True,217874.61
+CUST_0AA8D3C2,Matthew Robinson,1994-09-23,"9836 Cedar St, Denver, CO",2022-06-20,Retail,expired,prior_flag,low,low,N,2025-07-15,annually,N,,True,108578.21
+CUST_2F11B8D2,Joseph Wilson,2002-08-09,"7716 Main St, Denver, CO",2022-06-26,Retail,verified,prior_flag,low,low,N,2025-08-03,annually,N,,True,58558.41
+CUST_413416CF,Matthew Jones,1996-12-18,"8931 Oak St, Phoenix, AZ",2022-02-25,Corporate,pending,clean,low,medium,N,2025-10-25,quarterly,N,,True,1240390.41
+CUST_8CFA6DB1,Sarah Taylor,2005-02-08,"3463 Oak St, San Diego, CA",2023-09-14,Retail,verified,clean,low,low,N,2025-10-27,semi-annually,N,,True,349688.98
+CUST_2A595292,Michael Taylor,1977-02-14,"288 Main St, New York, NY",2022-06-01,Small Business,verified,clean,medium,medium,N,2025-08-13,quarterly,N,,True,431580.01
+CUST_82696F2D,Margaret Smith,1959-12-26,"523 Oak St, Jacksonville, FL",2022-03-27,Retail,verified,prior_flag,low,low,N,2025-10-24,annually,N,,True,157109.17
+CUST_A50CC056,Betty Brown,1967-05-09,"4834 Cedar St, Boston, MA",2023-06-01,Retail,verified,clean,low,low,N,2025-09-30,semi-annually,N,,True,394366.62
+CUST_FA91A2FD,William Gonzalez,1981-07-15,"4606 Cedar St, Phoenix, AZ",2023-04-26,Retail,verified,clean,low,low,Y,2025-10-16,quarterly,Y,Sanctions screening match,True,203186.49
+CUST_9D6A3A24,Charles Brown,1958-05-17,"7796 Main St, Columbus, OH",2022-08-30,Retail,verified,prior_flag,low,high,N,2025-06-19,monthly,Y,Large cash deposits,True,104750.34
+CUST_DFEE1BFA,Linda Martin,1978-10-12,"869 Main St, Fort Worth, TX",2023-09-21,Small Business,verified,under_investigation,low,low,N,2025-10-06,semi-annually,Y,High transaction volume,True,127154.74
+CUST_B7186E6A,Thomas Brown,1996-01-09,"3175 Cedar St, Chicago, IL",2023-07-24,Retail,verified,under_investigation,low,low,N,2025-06-28,semi-annually,Y,PEP status,True,200454.65
+CUST_3AD3A7A2,Lisa Jones,1958-12-13,"6977 Oak St, Jacksonville, FL",2023-11-21,Retail,verified,clean,low,high,N,2025-09-28,quarterly,Y,High transaction volume,True,361402.49
+CUST_B70D071C,Ashley Taylor,1955-05-25,"4861 Main St, Philadelphia, PA",2023-03-18,Retail,verified,under_investigation,low,low,N,2025-08-09,semi-annually,Y,Suspicious activity report filed,True,202236.31
+CUST_FAF80C28,Lisa Harris,1970-09-22,"4861 Cedar St, Denver, CO",2023-11-23,Retail,verified,clean,low,low,N,2025-07-25,annually,N,,True,480025.88
+CUST_6B4FC5BF,Thomas Taylor,1963-12-04,"1108 Pine St, Los Angeles, CA",2022-01-24,Retail,verified,cleared,low,low,N,2025-07-11,semi-annually,N,,True,145558.4
+CUST_C1C31532,Daniel Johnson,1962-04-07,"2416 Main St, Chicago, IL",2022-10-26,Corporate,verified,clean,medium,low,N,2025-07-29,semi-annually,N,,True,518145.7
+CUST_4A25FF4F,Karen Anderson,1995-02-18,"3798 Main St, Columbus, OH",2023-06-23,Retail,verified,clean,high,high,N,2025-07-27,monthly,Y,Large cash deposits,True,427551.95
+CUST_FE15072F,Margaret Williams,1988-09-16,"3519 Main St, New York, NY",2022-03-27,Small Business,verified,clean,low,low,N,2025-11-05,semi-annually,N,,False,293459.05
+CUST_83367B6A,William Clark,1984-03-27,"2061 Maple St, New York, NY",2023-03-01,Retail,verified,clean,medium,high,N,2025-08-27,quarterly,Y,Suspicious activity report filed,False,441258.35
+CUST_EC581C64,Betty Miller,1988-06-05,"3800 Oak St, Fort Worth, TX",2023-02-06,Small Business,verified,prior_flag,low,low,N,2025-10-11,annually,N,,True,265414.37
+CUST_58CBF792,William Robinson,1957-07-07,"5632 Maple St, Chicago, IL",2022-01-28,Retail,verified,clean,medium,medium,N,2025-07-15,quarterly,N,,True,47020.15
+CUST_A976E219,Dorothy Johnson,2003-12-10,"6579 Maple St, Columbus, OH",2023-12-14,Retail,verified,clean,low,low,N,2025-09-08,annually,N,,True,483177.66
+CUST_031A85FB,Margaret Johnson,1955-02-24,"1548 Main St, Fort Worth, TX",2023-06-16,Retail,verified,clean,medium,low,Y,2025-08-07,monthly,Y,Unusual transaction patterns,True,77841.92
+CUST_3EAB0FE1,Joseph Williams,1962-02-06,"8050 Maple St, Seattle, WA",2022-11-25,Small Business,verified,clean,low,low,N,2025-06-14,annually,N,,True,322431.32
+CUST_293CBD50,David Martin,2002-05-10,"3989 Maple St, Seattle, WA",2022-08-04,Small Business,pending,clean,low,low,N,2025-09-19,annually,N,,True,368592.4
+CUST_2E7BD5C6,Thomas Jones,1962-04-21,"8413 Pine St, Denver, CO",2023-02-22,Retail,verified,clean,medium,medium,N,2025-06-05,quarterly,N,,True,290840.97
+CUST_D1FD7011,Michael Lewis,1985-03-01,"6258 Pine St, Seattle, WA",2022-10-24,Small Business,verified,clean,low,low,N,2025-06-01,annually,N,,True,321232.91
+CUST_CAD5E45E,Anthony Martin,1997-08-03,"1786 Pine St, New York, NY",2023-11-24,Small Business,verified,clean,low,low,N,2025-10-01,semi-annually,N,,True,386377.45
+CUST_90499ABE,Mark Martinez,1999-04-06,"997 Maple St, Boston, MA",2023-08-07,Small Business,verified,clean,low,high,N,2025-06-16,quarterly,Y,High-risk jurisdiction,False,350139.12
+CUST_44CFE6AD,Nancy Thomas,1989-02-15,"9969 Pine St, San Diego, CA",2022-06-08,Small Business,verified,clean,high,high,N,2025-06-27,monthly,Y,High-risk jurisdiction,True,449362.43
+CUST_71C6659E,Thomas Jones,1984-01-27,"5692 Main St, Seattle, WA",2023-11-05,Small Business,verified,clean,low,low,Y,2025-05-14,monthly,Y,High-risk jurisdiction,True,402488.05
+CUST_104D2149,Sandra Jones,1997-06-18,"3649 Main St, Seattle, WA",2023-02-20,Retail,verified,clean,low,low,N,2025-05-30,annually,N,,True,241482.61
+CUST_B131B658,Linda Brown,1992-03-25,"2540 Oak St, Denver, CO",2023-11-20,Retail,high-risk,clean,low,low,N,2025-08-31,semi-annually,N,,True,398345.5
+CUST_5BFA9AE8,Maria Walker,1989-01-28,"1003 Main St, Fort Worth, TX",2023-06-06,Retail,verified,clean,high,low,N,2025-07-31,annually,N,,True,252445.77
+CUST_BA575E2F,Michael Williams,2001-10-11,"4901 Cedar St, Chicago, IL",2023-11-16,Small Business,expired,clean,medium,medium,N,2025-05-26,quarterly,N,,True,429060.57
+CUST_19E8B454,William Johnson,1998-03-28,"4525 Main St, Charlotte, NC",2023-04-10,Retail,verified,clean,low,low,N,2025-09-12,annually,N,,True,220884.13
+CUST_54A4A01B,Karen Martinez,1952-12-15,"1608 Maple St, Charlotte, NC",2023-02-05,Small Business,verified,clean,medium,medium,N,2025-11-03,quarterly,N,,True,461491.62
+CUST_2FD00734,Dorothy Johnson,1993-10-03,"3902 Main St, Phoenix, AZ",2022-06-14,Small Business,verified,clean,low,low,N,2025-09-18,semi-annually,N,,True,477142.43
+CUST_8A297DE5,William Lopez,1971-07-04,"107 Maple St, Houston, TX",2022-06-25,Retail,verified,cleared,medium,low,N,2025-10-18,semi-annually,N,,True,110216.66
+CUST_1FF2D84B,Linda Davis,1969-03-15,"905 Oak St, Denver, CO",2023-06-10,Retail,verified,clean,low,low,N,2025-08-21,annually,N,,True,162188.31
+CUST_2F60388B,David Walker,1981-01-27,"1874 Oak St, San Francisco, CA",2023-02-10,Retail,verified,clean,low,low,N,2025-07-29,semi-annually,N,,True,370717.31
+CUST_5ABC0BA2,Patricia Thompson,2007-03-03,"4377 Cedar St, Columbus, OH",2023-06-10,Retail,verified,prior_flag,low,low,N,2025-10-12,semi-annually,N,,True,86638.19
+CUST_122DBDA9,Nancy Hernandez,1995-11-20,"3003 Cedar St, Austin, TX",2023-05-19,Retail,verified,prior_flag,medium,medium,N,2025-10-09,quarterly,N,,True,204804.16
+CUST_9CF28903,William Davis,1977-12-01,"1100 Maple St, Charlotte, NC",2023-08-10,Retail,verified,clean,medium,low,N,2025-07-14,semi-annually,N,,True,118739.01
+CUST_7C91D205,Richard Taylor,1999-01-12,"1512 Maple St, Jacksonville, FL",2022-05-31,Small Business,verified,clean,low,low,N,2025-08-16,annually,N,,True,8401.24
+CUST_19D74553,William Moore,1992-05-13,"7582 Cedar St, Los Angeles, CA",2023-04-04,Retail,verified,clean,medium,low,N,2025-08-16,semi-annually,N,,True,279205.68
+CUST_6D64CDAA,Nancy Clark,1964-07-20,"3865 Cedar St, Columbus, OH",2023-11-30,Retail,verified,clean,low,low,N,2025-08-15,semi-annually,N,,True,487529.66
+CUST_128D128E,Karen White,1981-05-21,"5781 Maple St, Seattle, WA",2023-12-10,Retail,verified,clean,medium,medium,N,2025-05-26,quarterly,N,,True,254259.92
+CUST_C7E386B6,Sandra Clark,1990-08-03,"7505 Pine St, Fort Worth, TX",2022-02-06,Retail,verified,clean,low,low,N,2025-11-01,semi-annually,N,,False,390343.72
+CUST_748383D1,Karen Williams,1978-08-20,"9550 Oak St, Charlotte, NC",2023-10-05,Retail,verified,prior_flag,low,low,N,2025-10-05,semi-annually,N,,True,497101.76
+CUST_907DC160,Sarah Lewis,1969-11-17,"6004 Maple St, Fort Worth, TX",2023-10-21,Retail,verified,clean,low,low,N,2025-05-22,semi-annually,N,,True,364116.61
+CUST_F8B129C6,William Thompson,1951-01-22,"6541 Maple St, Denver, CO",2023-04-13,Retail,verified,clean,low,low,N,2025-09-22,annually,N,,False,197639.44
+CUST_5AFA2C3E,David Lopez,1960-11-08,"9481 Main St, Austin, TX",2023-09-19,Retail,verified,clean,low,low,N,2025-09-19,semi-annually,N,,True,203045.63
+CUST_8CB00F39,James Williams,2007-06-06,"9752 Oak St, San Diego, CA",2023-12-02,Retail,verified,prior_flag,low,low,N,2025-06-13,semi-annually,N,,True,172319.2
+CUST_47C04CE6,Karen Lewis,1955-04-28,"6428 Cedar St, Austin, TX",2023-12-04,Corporate,verified,clean,medium,low,N,2025-06-28,annually,N,,True,127380.43
+CUST_C72D90FC,William Clark,1992-05-27,"9914 Maple St, Philadelphia, PA",2023-05-15,Retail,verified,prior_flag,low,low,N,2025-10-10,semi-annually,N,,False,24398.03
+CUST_A9BF3BB5,Thomas Robinson,1986-04-09,"3414 Main St, San Antonio, TX",2023-12-23,Small Business,verified,clean,low,low,N,2025-08-16,semi-annually,N,,True,364737.3
+CUST_FD0C0A87,Jennifer Martin,1975-08-24,"2552 Main St, San Jose, CA",2022-08-08,Small Business,verified,prior_flag,medium,medium,N,2025-06-02,quarterly,N,,True,475243.01
+CUST_321633C2,Sandra Williams,1971-03-15,"6014 Oak St, San Diego, CA",2022-02-06,Retail,verified,clean,low,low,N,2025-07-08,semi-annually,N,,True,422506.39
+CUST_9176F860,Thomas Moore,1959-03-11,"4679 Pine St, Philadelphia, PA",2022-12-23,Retail,verified,cleared,medium,low,N,2025-07-15,annually,N,,True,69971.31
+CUST_EC58F185,Matthew Hernandez,1996-11-09,"5089 Cedar St, Houston, TX",2023-06-07,Retail,expired,clean,low,low,N,2025-09-23,annually,N,,True,483849.56
+CUST_2003F58F,Sandra White,1950-03-28,"2248 Main St, Austin, TX",2023-03-15,Retail,verified,clean,low,low,N,2025-10-20,semi-annually,N,,False,434374.06
+CUST_2098E84F,Michael Miller,1970-08-02,"6376 Maple St, Denver, CO",2022-01-06,Retail,verified,clean,low,low,N,2025-06-27,annually,N,,True,310361.17
+CUST_F5B0D340,Matthew Thomas,2003-12-08,"8542 Oak St, Jacksonville, FL",2022-05-28,Retail,verified,clean,medium,medium,N,2025-11-06,quarterly,N,,True,144668.72
+CUST_CA9DBC7A,Michael Taylor,2001-03-23,"216 Pine St, Boston, MA",2022-08-12,Retail,verified,clean,medium,medium,N,2025-10-02,quarterly,N,,True,47209.44
+CUST_1AE9068B,Richard Harris,1954-09-08,"1526 Maple St, Philadelphia, PA",2022-01-09,Retail,verified,clean,low,low,N,2025-07-27,annually,N,,True,393674.55
+CUST_5739E1A8,Mark Lopez,1969-05-24,"1578 Cedar St, San Francisco, CA",2023-05-07,Corporate,verified,clean,medium,medium,N,2025-10-30,quarterly,N,,True,1942943.28
+CUST_81F94D1C,Betty Moore,1955-07-02,"3659 Cedar St, Denver, CO",2022-09-04,Retail,verified,clean,low,low,N,2025-09-18,semi-annually,N,,True,483343.49
+CUST_297FAED1,Donald Hall,1960-03-05,"9687 Main St, San Jose, CA",2022-01-30,Retail,verified,prior_flag,low,low,N,2025-08-16,annually,N,,True,118899.76
+CUST_A6E105FD,Nancy Jones,1959-06-21,"7686 Maple St, San Diego, CA",2022-08-31,Retail,pending,clean,high,high,N,2025-08-31,quarterly,Y,Unusual transaction patterns,True,81619.28
+CUST_DAFB1E69,Richard Martinez,1985-06-09,"9639 Maple St, New York, NY",2022-09-11,Small Business,verified,clean,medium,medium,N,2025-07-16,quarterly,N,,True,94210.57
+CUST_8FC24F53,Jessica Anderson,1952-06-08,"9247 Cedar St, San Diego, CA",2022-03-13,Retail,pending,clean,low,low,N,2025-10-03,annually,N,,True,66203.5
+CUST_9ED543E5,John Lewis,1955-03-26,"9180 Maple St, Boston, MA",2023-11-23,Retail,verified,clean,medium,medium,N,2025-10-27,quarterly,N,,True,405605.58
+CUST_B09C3F93,Betty Young,1981-09-28,"8865 Maple St, Los Angeles, CA",2023-04-22,Retail,verified,clean,low,low,N,2025-09-21,annually,N,,True,399547.33
+CUST_7CA6B8AA,Dorothy Clark,1950-05-10,"2770 Oak St, Denver, CO",2022-02-11,Retail,verified,clean,low,low,N,2025-10-21,annually,N,,True,449371.33
+CUST_801B6319,Ashley Williams,1958-11-19,"8478 Oak St, Los Angeles, CA",2022-01-24,Retail,verified,clean,medium,medium,N,2025-09-18,quarterly,N,,True,306428.01
+CUST_B24B4C93,Robert Hall,1975-08-03,"2678 Main St, San Francisco, CA",2022-01-06,Retail,expired,clean,low,low,N,2025-09-30,semi-annually,N,,True,205645.64
+CUST_ED233E8C,Anthony Thompson,1956-10-25,"7415 Oak St, Austin, TX",2022-05-23,Small Business,verified,clean,low,low,N,2025-06-02,semi-annually,N,,True,331197.12
+CUST_E59CB50A,Dorothy Taylor,1961-10-24,"5039 Cedar St, Houston, TX",2023-03-25,Small Business,verified,clean,low,low,N,2025-07-14,semi-annually,N,,True,75666.26
+CUST_C2BBED12,Sandra Martinez,1954-05-01,"2305 Oak St, Boston, MA",2022-06-30,Small Business,verified,clean,medium,medium,N,2025-05-21,quarterly,N,,True,144069.77
+CUST_6ED66F10,David Smith,1993-06-12,"2200 Cedar St, Charlotte, NC",2023-08-29,Small Business,verified,clean,medium,high,N,2025-05-21,monthly,Y,High-risk jurisdiction,True,411923.33
+CUST_1C0C6419,Anthony Brown,1956-03-09,"1327 Oak St, New York, NY",2022-08-23,Retail,verified,clean,medium,high,N,2025-09-14,monthly,Y,Suspicious activity report filed,True,71282.07
+CUST_BBA869CD,Patricia Hall,1956-06-20,"9779 Main St, Columbus, OH",2022-02-25,Retail,verified,clean,low,low,N,2025-07-20,semi-annually,N,,True,114872.42
+CUST_504D0E2D,David Walker,1990-02-11,"376 Cedar St, Jacksonville, FL",2022-10-16,Retail,pending,clean,high,high,N,2025-10-30,quarterly,Y,PEP status,True,454082.27
+CUST_59DE8E5A,Richard Thomas,1989-08-12,"2925 Oak St, Dallas, TX",2023-08-01,Retail,verified,clean,medium,high,N,2025-08-04,quarterly,Y,Sanctions screening match,True,240306.18
+CUST_7BBD043B,Emily Jones,1976-01-04,"7461 Maple St, Dallas, TX",2022-09-15,Retail,verified,clean,low,low,N,2025-06-19,annually,N,,True,381958.68
+CUST_5B75B74E,Michael Thomas,1982-01-18,"7693 Main St, San Antonio, TX",2022-06-15,Retail,verified,clean,low,low,N,2025-08-12,semi-annually,N,,True,254673.17
+CUST_7105DE44,Linda Anderson,1952-08-23,"6663 Oak St, Houston, TX",2022-04-15,Retail,pending,clean,low,low,N,2025-07-05,annually,N,,True,352328.31
+CUST_65433EE9,John Smith,1960-06-18,"189 Pine St, San Antonio, TX",2023-08-02,Small Business,verified,clean,medium,medium,N,2025-09-16,quarterly,N,,True,499879.61
+CUST_F25D3F1F,Sandra Walker,1974-03-27,"8695 Oak St, Phoenix, AZ",2022-07-25,Small Business,verified,prior_flag,high,high,N,2025-10-18,monthly,Y,Sanctions screening match,True,350039.15
+CUST_65B0A0D2,Patricia Smith,1966-07-14,"7757 Main St, Dallas, TX",2022-02-02,Retail,verified,clean,low,medium,N,2025-07-16,quarterly,N,,True,19638.02
+CUST_5E04A614,Margaret Lee,1964-09-25,"4184 Main St, Austin, TX",2022-09-26,Corporate,verified,prior_flag,low,low,N,2025-06-14,annually,N,,True,3933065.58
+CUST_69BE72D9,Sarah Rodriguez,1981-01-26,"9771 Maple St, Houston, TX",2023-09-18,Retail,verified,prior_flag,low,high,N,2025-05-26,monthly,Y,High transaction volume,True,407018.99
+CUST_3691D45D,Richard Martin,1967-02-14,"5380 Maple St, Philadelphia, PA",2023-07-24,Corporate,verified,cleared,high,high,N,2025-09-05,quarterly,Y,PEP status,True,1094130.33
+CUST_AA27B64F,Matthew Taylor,1987-05-19,"2386 Main St, San Antonio, TX",2023-11-17,Retail,verified,clean,low,high,N,2025-07-20,monthly,Y,Suspicious activity report filed,False,234166.97
+CUST_B2926EDF,Thomas Anderson,1959-02-03,"9041 Main St, San Diego, CA",2023-07-08,Retail,verified,clean,medium,medium,N,2025-09-02,quarterly,N,,True,185319.12
+CUST_321F2FBE,Matthew Clark,1981-10-17,"9728 Pine St, Indianapolis, IN",2023-09-22,Small Business,verified,clean,medium,low,N,2025-06-23,semi-annually,N,,True,16237.36
+CUST_2AFF25B2,Donald Walker,1974-05-10,"8404 Pine St, San Francisco, CA",2022-03-14,Retail,expired,prior_flag,low,low,N,2025-06-14,semi-annually,N,,False,466320.98
+CUST_70286A15,Nancy Garcia,1950-05-18,"1476 Oak St, Indianapolis, IN",2022-03-05,Retail,verified,prior_flag,low,high,N,2025-08-23,monthly,Y,High-risk jurisdiction,True,445603.98
+CUST_C107861A,Betty Robinson,1999-03-20,"4476 Main St, Denver, CO",2023-08-28,Retail,verified,clean,low,low,N,2025-05-21,annually,N,,True,177965.98
+CUST_A6C336D9,Matthew Brown,1999-02-26,"9163 Cedar St, San Diego, CA",2022-09-22,Retail,verified,clean,low,low,N,2025-08-27,annually,N,,True,167320.15
